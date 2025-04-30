@@ -1,0 +1,25 @@
+# Ignorowanie środowisk wirtualnych Pythona
+venv/
+.venv/
+
+# Ignorowanie plików kompilowanych Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorowanie plików logów i danych
+*.log
+*.sqlite3
+
+# Ignorowanie plików konfiguracyjnych środowiska
+.env
+.env.*
+
+# Ignorowanie plików edytora
+.vscode/
+.idea/
+*.swp
+
+# Ignorowanie plików systemowych
+.DS_Store
+Thumbs.db
