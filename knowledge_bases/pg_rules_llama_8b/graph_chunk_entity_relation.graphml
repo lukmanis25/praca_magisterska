@@ -1,0 +1,858 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d8" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d7" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d6" for="edge" attr.name="description" attr.type="string"/>
+<key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Gdańsk University of Technology">
+  <data key="d0">Gdańsk University of Technology</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Gdańsk University of Technology is a higher education institution located in Gdańsk, Poland. It has a well-defined structure, comprising various faculties and departments that offer a range of courses and programs to its students. The institution is governed by a rector, dean, and student government, each with specific roles and responsibilities.
+
+The Gdańsk University of Technology oversees various aspects of student life, including recruitment, transfer, and confirmation of learning outcomes. It provides academic programs and services to students, adhering to its own rules and regulations, which govern student registration and diploma awarding procedures. The institution also defines the rules for studies and student rights, ensuring a structured and organized educational environment.
+
+The university's academic programs and services are designed to cater to the needs of its students, providing them with a comprehensive educational experience. Its rules and regulations for diploma theses are also in place to ensure the quality and integrity of the academic work produced by students. The institution's student government and study programs are governed by the university, indicating its direct involvement in student affairs.
+
+Overall, the Gdańsk University of Technology is a comprehensive higher education institution that provides a structured and organized educational environment, governed by a clear set of rules and regulations, and dedicated to the academic growth and development of its students.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf&lt;SEP&gt;chunk-2c67c1f6a9de439c93e08bde9451bf50&lt;SEP&gt;chunk-669ff00f7693c44a8d79f866d4ced627&lt;SEP&gt;chunk-d5be31ddd2249f61f9aa89ae86ffeeb3&lt;SEP&gt;chunk-319b284475bad9d99609580c6c8ecfee&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a&lt;SEP&gt;chunk-a397f7b8bfa4a207ad6cd378c5b3307d&lt;SEP&gt;chunk-032e5b3b72dda6d933da7b17e8db77d7&lt;SEP&gt;chunk-22b24eee61f86b22874de9d17674ca2c&lt;SEP&gt;chunk-c7c6b1fba26572edad1c04bb149cc453&lt;SEP&gt;chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Gdańsk">
+  <data key="d0">Gdańsk</data>
+  <data key="d1">geo</data>
+  <data key="d2">Gdańsk is a city in Poland where Gdańsk University of Technology is located.&lt;SEP&gt;Gdańsk is the city where Gdańsk University of Technology is located.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a&lt;SEP&gt;chunk-c7c6b1fba26572edad1c04bb149cc453&lt;SEP&gt;chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Act of 20 July 2018 – Law on Higher Education and Science">
+  <data key="d0">Act of 20 July 2018 – Law on Higher Education and Science</data>
+  <data key="d1">economic_policy</data>
+  <data key="d2">The Act of 20 July 2018 – Law on Higher Education and Science is the legal basis for the rules.</data>
+  <data key="d3">chunk-c7c6b1fba26572edad1c04bb149cc453</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Statute of Gdańsk University of Technology">
+  <data key="d0">Statute of Gdańsk University of Technology</data>
+  <data key="d1">economic_policy</data>
+  <data key="d2">The Statute of Gdańsk University of Technology is a set of rules and regulations governing the university's operations.&lt;SEP&gt;The Statute of Gdańsk University of Technology is the governing document of the university.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf&lt;SEP&gt;chunk-c7c6b1fba26572edad1c04bb149cc453</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Moja PG">
+  <data key="d0">Moja PG</data>
+  <data key="d1">organization</data>
+  <data key="d2">Moja PG is a student information system used for academic management.&lt;SEP&gt;Moja PG is a system used for student registration and application.&lt;SEP&gt;Moja PG is an electronic system for managing student information and study programs.&lt;SEP&gt;Moja PG is the University electronic system containing information on student's course of studies and current status.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c&lt;SEP&gt;chunk-c7c6b1fba26572edad1c04bb149cc453&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="student account">
+  <data key="d0">student account</data>
+  <data key="d1">category</data>
+  <data key="d2">Student account is an account in the University electronic system containing information on student's course of studies and current status.</data>
+  <data key="d3">chunk-c7c6b1fba26572edad1c04bb149cc453</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="credit point deficit">
+  <data key="d0">credit point deficit</data>
+  <data key="d1">category</data>
+  <data key="d2">Credit point deficit is the total number of ECTS credits for failed subjects in all semesters.</data>
+  <data key="d3">chunk-c7c6b1fba26572edad1c04bb149cc453</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="learning outcomes">
+  <data key="d0">learning outcomes</data>
+  <data key="d1">category</data>
+  <data key="d2">Learning outcomes are the amount of knowledge, competence and social skills acquired as a result of the educational process.</data>
+  <data key="d3">chunk-c7c6b1fba26572edad1c04bb149cc453</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="study plan">
+  <data key="d0">study plan</data>
+  <data key="d1">category</data>
+  <data key="d2">A study plan outlines a student's academic course and goals.&lt;SEP&gt;Study plan is a schedule for subjects included in a curriculum.</data>
+  <data key="d3">chunk-c7c6b1fba26572edad1c04bb149cc453&lt;SEP&gt;chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="study program">
+  <data key="d0">study program</data>
+  <data key="d1">category</data>
+  <data key="d2">Study program is learning outcomes and a description of the learning process leading to learning outcomes with ECTS credits assigned to individual modules of the process.</data>
+  <data key="d3">chunk-c7c6b1fba26572edad1c04bb149cc453</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="subject">
+  <data key="d0">subject</data>
+  <data key="d1">category</data>
+  <data key="d2">A subject refers to a specific area of study or course.&lt;SEP&gt;Subject is a unit of learning including classes or groups of classes, to which specific learning outcomes and a number of ECTS credits have been ascribed.</data>
+  <data key="d3">chunk-c7c6b1fba26572edad1c04bb149cc453&lt;SEP&gt;chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="academic teacher responsible for the subject">
+  <data key="d0">academic teacher responsible for the subject</data>
+  <data key="d1">category</data>
+  <data key="d2">Academic teacher responsible for the subject is an academic teacher who is responsible for proper realization of the subject by all academic teachers conducting classes as part of the subject.</data>
+  <data key="d3">chunk-c7c6b1fba26572edad1c04bb149cc453</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="semester 7">
+  <data key="d0">semester 7</data>
+  <data key="d1">event</data>
+  <data key="d2">Semester 7 is a part of the master's degree studies, which lasts for one year.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="semester 1">
+  <data key="d0">semester 1</data>
+  <data key="d1">event</data>
+  <data key="d2">Semester 1 is part of the first year of studies, covering semesters 1 and 2.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="semester 3">
+  <data key="d0">semester 3</data>
+  <data key="d1">event</data>
+  <data key="d2">Semester 3 is part of the second year of studies, ending after the 3rd semester.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="recruitment">
+  <data key="d0">recruitment</data>
+  <data key="d1">event</data>
+  <data key="d2">Recruitment is the process of admitting students to studies at Gdańsk University of Technology.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="transfer from another national or foreign university">
+  <data key="d0">transfer from another national or foreign university</data>
+  <data key="d1">event</data>
+  <data key="d2">Transfer from another university is the process of admitting students from other institutions.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="confirmation of learning outcomes">
+  <data key="d0">confirmation of learning outcomes</data>
+  <data key="d1">event</data>
+  <data key="d2">Confirmation of learning outcomes is a process of validating student's previous knowledge and skills.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Poland">
+  <data key="d0">Poland</data>
+  <data key="d1">geo</data>
+  <data key="d2">Poland is a country where Gdańsk University of Technology is located.&lt;SEP&gt;Poland is the country where Gdańsk University of Technology is located.&lt;SEP&gt;Poland is the country where Gdańsk University of Technology is situated.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a&lt;SEP&gt;chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rector">
+  <data key="d0">Rector</data>
+  <data key="d1">person</data>
+  <data key="d2">The Rector is the authorized person making decisions on student removal and reinstatement.&lt;SEP&gt;The Rector is the head of the university and makes decisions regarding scholarships and regulations.&lt;SEP&gt;The Rector is the superior of all university students, overseeing various aspects of student life.&lt;SEP&gt;The rector is the head of the university and responsible for making decisions regarding studies.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a&lt;SEP&gt;chunk-22b24eee61f86b22874de9d17674ca2c&lt;SEP&gt;chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Dean">
+  <data key="d0">Dean</data>
+  <data key="d1">person</data>
+  <data key="d2">The Dean is the head of the academic faculty, responsible for academic decisions and regulations, as well as overseeing student registration and reinstatement. They are responsible for managing the examination process, making decisions, and administrative tasks within the faculty. This includes overseeing student affairs, including academic matters and disciplinary proceedings, and is also responsible for diploma procedures. As the head of the faculty, the Dean is responsible for making decisions regarding student applications and regulations, as well as study programs. They serve as the superior of all students at a given faculty, responsible for specific aspects of student life, and are ultimately responsible for the overall management and direction of the faculty.</data>
+  <data key="d3">chunk-2c67c1f6a9de439c93e08bde9451bf50&lt;SEP&gt;chunk-669ff00f7693c44a8d79f866d4ced627&lt;SEP&gt;chunk-319b284475bad9d99609580c6c8ecfee&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a&lt;SEP&gt;chunk-a397f7b8bfa4a207ad6cd378c5b3307d&lt;SEP&gt;chunk-032e5b3b72dda6d933da7b17e8db77d7&lt;SEP&gt;chunk-22b24eee61f86b22874de9d17674ca2c&lt;SEP&gt;chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student Government">
+  <data key="d0">Student Government</data>
+  <data key="d1">organization</data>
+  <data key="d2">Student Government represents the interests of students and collaborates with the faculty board.&lt;SEP&gt;The Student Government is involved in consultations with the Faculty Board on diploma procedures.&lt;SEP&gt;The Student Government of Gdańsk University of Technology represents the student body and cooperates with the Students' Parliament of the Republic of Poland.&lt;SEP&gt;The Student Government represents students and has a role in the examination process.&lt;SEP&gt;The Student Government represents the interests of students and provides a platform for student involvement.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0&lt;SEP&gt;chunk-a397f7b8bfa4a207ad6cd378c5b3307d&lt;SEP&gt;chunk-032e5b3b72dda6d933da7b17e8db77d7&lt;SEP&gt;chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Students' Parliament of the Republic of Poland">
+  <data key="d0">Students' Parliament of the Republic of Poland</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Students' Parliament of the Republic of Poland is a student organization that represents the interests of students in Poland.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Semester 7">
+  <data key="d0">Semester 7</data>
+  <data key="d1">event</data>
+  <data key="d2">Semester 7 is a part of the master's degree studies, which lasts for one year.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Semester 1">
+  <data key="d0">Semester 1</data>
+  <data key="d1">event</data>
+  <data key="d2">Semester 1 is part of the first year of studies, covering semesters 1 and 2.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Semester 3">
+  <data key="d0">Semester 3</data>
+  <data key="d1">event</data>
+  <data key="d2">Semester 3 is part of the second year of studies, ending after the 3rd semester.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Recruitment">
+  <data key="d0">Recruitment</data>
+  <data key="d1">event</data>
+  <data key="d2">Recruitment is the process of admitting students to studies at Gdańsk University of Technology.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Transfer from another national or foreign university">
+  <data key="d0">Transfer from another national or foreign university</data>
+  <data key="d1">event</data>
+  <data key="d2">Transfer from another university is the process of admitting students from other institutions.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Confirmation of learning outcomes">
+  <data key="d0">Confirmation of learning outcomes</data>
+  <data key="d1">event</data>
+  <data key="d2">Confirmation of learning outcomes is a process of validating student's previous knowledge and skills.</data>
+  <data key="d3">chunk-669ff00f7693c44a8d79f866d4ced627</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Gdańsk Tech Student Government">
+  <data key="d0">Gdańsk Tech Student Government</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Gdańsk Tech Student Government is responsible for representing students and initiating activities aimed at improving studying conditions.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Faculty Student Council">
+  <data key="d0">Faculty Student Council</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Faculty Student Council serves as the main representative body of students at a given faculty and works to support their interests.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Faculty">
+  <data key="d0">Faculty</data>
+  <data key="d1">organization</data>
+  <data key="d2">A Faculty is a department within the university that offers specific courses and programs.&lt;SEP&gt;A faculty is a department within the university that oversees specific study programs.&lt;SEP&gt;Faculty members are responsible for teaching and academic supervision of students.&lt;SEP&gt;The Faculty is a part of the University, responsible for managing academic affairs.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d&lt;SEP&gt;chunk-22b24eee61f86b22874de9d17674ca2c&lt;SEP&gt;chunk-319b284475bad9d99609580c6c8ecfee&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student Group">
+  <data key="d0">Student Group</data>
+  <data key="d1">organization</data>
+  <data key="d2">A student group is a unit of students with a president and representative.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Starosta">
+  <data key="d0">Starosta</data>
+  <data key="d1">person</data>
+  <data key="d2">The starosta is the representative of the student group and year.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Faculty Website">
+  <data key="d0">Faculty Website</data>
+  <data key="d1">geo</data>
+  <data key="d2">The faculty website is a platform for publishing study information and regulations.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Public Information Bulletin (BIP)">
+  <data key="d0">Public Information Bulletin (BIP)</data>
+  <data key="d1">category</data>
+  <data key="d2">BIP is a bulletin that publishes study program information and changes.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Ects Catalog">
+  <data key="d0">Ects Catalog</data>
+  <data key="d1">category</data>
+  <data key="d2">The ECTS catalog is a system for managing study programs and credits.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student University Mail Account">
+  <data key="d0">Student University Mail Account</data>
+  <data key="d1">category</data>
+  <data key="d2">Student university mail account is used for electronic correspondence.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Code of Administrative Procedure">
+  <data key="d0">Code of Administrative Procedure</data>
+  <data key="d1">category</data>
+  <data key="d2">The Code of Administrative Procedure is a set of rules for administrative procedures.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Regulations of the Student Government of Gdańsk University of Technology">
+  <data key="d0">Regulations of the Student Government of Gdańsk University of Technology</data>
+  <data key="d1">category</data>
+  <data key="d2">The regulations outline the rules and responsibilities of the student government.</data>
+  <data key="d3">chunk-22b24eee61f86b22874de9d17674ca2c</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student">
+  <data key="d0">Student</data>
+  <data key="d1">person</data>
+  <data key="d2">The student is an individual enrolled in a course of study at a higher education institution, specifically pursuing academic programs, and is associated with Gdańsk University of Technology. This individual has various rights and responsibilities, including the right to study and participate in academic activities, and is accountable for meeting the conditions for taking exams and credits.</data>
+  <data key="d3">chunk-2c67c1f6a9de439c93e08bde9451bf50&lt;SEP&gt;chunk-319b284475bad9d99609580c6c8ecfee&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a&lt;SEP&gt;chunk-a397f7b8bfa4a207ad6cd378c5b3307d&lt;SEP&gt;chunk-032e5b3b72dda6d933da7b17e8db77d7&lt;SEP&gt;chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student's Representative">
+  <data key="d0">Student's Representative</data>
+  <data key="d1">person</data>
+  <data key="d2">Student representatives participate in decision-making activities of the collegial bodies at Gdańsk University of Technology.</data>
+  <data key="d3">chunk-319b284475bad9d99609580c6c8ecfee</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Study Program">
+  <data key="d0">Study Program</data>
+  <data key="d1">category</data>
+  <data key="d2">Study programs are designed to provide students with knowledge and skills in a specific field.</data>
+  <data key="d3">chunk-319b284475bad9d99609580c6c8ecfee</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Moja PG system">
+  <data key="d0">Moja PG system</data>
+  <data key="d1">category</data>
+  <data key="d2">Moja PG system is an online platform for students to access information and services.&lt;SEP&gt;The Moja PG system is an online platform for student registration and management.</data>
+  <data key="d3">chunk-319b284475bad9d99609580c6c8ecfee&lt;SEP&gt;chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Ects Credits">
+  <data key="d0">Ects Credits</data>
+  <data key="d1">category</data>
+  <data key="d2">Ects credits are a measure of academic achievement and progress.</data>
+  <data key="d3">chunk-319b284475bad9d99609580c6c8ecfee</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Academic Teacher">
+  <data key="d0">Academic Teacher</data>
+  <data key="d1">person</data>
+  <data key="d2">Academic teachers are responsible for teaching and academic supervision of students.&lt;SEP&gt;An Academic Teacher is a faculty member responsible for teaching and academic guidance.&lt;SEP&gt;An academic teacher is a university instructor responsible for teaching and grading students.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf&lt;SEP&gt;chunk-319b284475bad9d99609580c6c8ecfee&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student Financial Assistance">
+  <data key="d0">Student Financial Assistance</data>
+  <data key="d1">category</data>
+  <data key="d2">Student financial assistance is provided to support students in their studies.</data>
+  <data key="d3">chunk-319b284475bad9d99609580c6c8ecfee</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student Organizations">
+  <data key="d0">Student Organizations</data>
+  <data key="d1">organization</data>
+  <data key="d2">Student organizations and scientific circles provide opportunities for students to engage in extracurricular activities.</data>
+  <data key="d3">chunk-319b284475bad9d99609580c6c8ecfee</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Research and Development">
+  <data key="d0">Research and Development</data>
+  <data key="d1">category</data>
+  <data key="d2">Research and development projects are conducted at Gdańsk University of Technology.</data>
+  <data key="d3">chunk-319b284475bad9d99609580c6c8ecfee</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student Prizes and Awards">
+  <data key="d0">Student Prizes and Awards</data>
+  <data key="d1">category</data>
+  <data key="d2">Student prizes and awards are given to recognize academic achievement and excellence.</data>
+  <data key="d3">chunk-319b284475bad9d99609580c6c8ecfee</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Disciplinary Proceedings">
+  <data key="d0">Disciplinary Proceedings</data>
+  <data key="d1">category</data>
+  <data key="d2">Disciplinary proceedings are conducted to address student misconduct and academic integrity issues.</data>
+  <data key="d3">chunk-319b284475bad9d99609580c6c8ecfee</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Teacher">
+  <data key="d0">Teacher</data>
+  <data key="d1">person</data>
+  <data key="d2">Teachers are responsible for individual subjects and have the right to announce an additional exam term.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Examination Committee">
+  <data key="d0">Examination Committee</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Examination Committee is responsible for reviewing exam results and making decisions.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student Government Representative">
+  <data key="d0">Student Government Representative</data>
+  <data key="d1">person</data>
+  <data key="d2">The Student Government Representative has a role in the examination process.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Examination Session">
+  <data key="d0">Examination Session</data>
+  <data key="d1">event</data>
+  <data key="d2">The Examination Session is a period when exams are held.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Moja PG System">
+  <data key="d0">Moja PG System</data>
+  <data key="d1">system</data>
+  <data key="d2">The Moja PG System is a platform for managing the examination process.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Gdańsk Tech Student Government regulations">
+  <data key="d0">Gdańsk Tech Student Government regulations</data>
+  <data key="d1">document</data>
+  <data key="d2">The Gdańsk Tech Student Government regulations govern the student government's activities.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="University">
+  <data key="d0">University</data>
+  <data key="d1">organization</data>
+  <data key="d2">The University is the parent institution of Gdańsk University of Technology.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Department">
+  <data key="d0">Department</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Department is a part of the Faculty, responsible for managing academic subjects.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Head of Department">
+  <data key="d0">Head of Department</data>
+  <data key="d1">person</data>
+  <data key="d2">The Head of Department is responsible for managing the Department.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Head of Teaching Unit">
+  <data key="d0">Head of Teaching Unit</data>
+  <data key="d1">person</data>
+  <data key="d2">The Head of Teaching Unit is responsible for managing the Teaching Unit.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Teaching Unit">
+  <data key="d0">Teaching Unit</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Teaching Unit is a part of the Faculty, responsible for managing academic affairs.</data>
+  <data key="d3">chunk-a397f7b8bfa4a207ad6cd378c5b3307d</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="teacher">
+  <data key="d0">teacher</data>
+  <data key="d1">person</data>
+  <data key="d2">The teacher is responsible for submitting grade changes and keeping marked semester papers.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="deans office">
+  <data key="d0">deans office</data>
+  <data key="d1">organization</data>
+  <data key="d2">The dean's office is responsible for receiving and processing grade changes.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="grade change">
+  <data key="d0">grade change</data>
+  <data key="d1">category</data>
+  <data key="d2">A grade change refers to a modification to a student's grade.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="semester">
+  <data key="d0">semester</data>
+  <data key="d1">event</data>
+  <data key="d2">A semester is a period of academic study, typically lasting several months.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="ECTS credits">
+  <data key="d0">ECTS credits</data>
+  <data key="d1">category</data>
+  <data key="d2">ECTS credits measure the academic workload and duration of a course.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Federal Credit and Grading System">
+  <data key="d0">Federal Credit and Grading System</data>
+  <data key="d1">category</data>
+  <data key="d2">The Federal Credit and Grading System is a standardized system for evaluating student performance.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Global Grade Point Average">
+  <data key="d0">Global Grade Point Average</data>
+  <data key="d1">category</data>
+  <data key="d2">The Global Grade Point Average is a measure of a student's overall academic performance.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rectors Regulation on the Rules of Adopting Study Plans and Curriculums">
+  <data key="d0">Rectors Regulation on the Rules of Adopting Study Plans and Curriculums</data>
+  <data key="d1">Rector’s Regulation on the Rules of Adopting Study Plans and Curriculums</data>
+  <data key="d2">The Rector's Regulation outlines the rules for adopting study plans and curriculums.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Bachelors Degree Studies">
+  <data key="d0">Bachelors Degree Studies</data>
+  <data key="d1">Bachelor’s Degree Studies</data>
+  <data key="d2">Bachelor's degree studies are a type of academic program.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Masters Degree Studies">
+  <data key="d0">Masters Degree Studies</data>
+  <data key="d1">Master’s Degree Studies</data>
+  <data key="d2">Master's degree studies are a type of academic program.</data>
+  <data key="d3">chunk-1d2ba71a99c8dc6a56c4079711db838a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student Register">
+  <data key="d0">Student Register</data>
+  <data key="d1">category</data>
+  <data key="d2">The Student Register is a database of enrolled students at Gdańsk University of Technology, comprising a list of students with their academic progress and credit points, as well as a record of students enrolled in academic studies. It serves as a comprehensive database of enrolled students, encompassing both their enrollment process and academic status, which is a result of the student registration process of enrolling in academic programs.</data>
+  <data key="d3">chunk-2c67c1f6a9de439c93e08bde9451bf50&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a&lt;SEP&gt;chunk-032e5b3b72dda6d933da7b17e8db77d7&lt;SEP&gt;chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="ECTS Credits">
+  <data key="d0">ECTS Credits</data>
+  <data key="d1">category</data>
+  <data key="d2">ECTS Credits are a measure of academic progress and achievement in higher education.</data>
+  <data key="d3">chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Study Plan">
+  <data key="d0">Study Plan</data>
+  <data key="d1">category</data>
+  <data key="d2">Study Plan is a personalized academic plan outlining student's courses and credits.</data>
+  <data key="d3">chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Semester">
+  <data key="d0">Semester</data>
+  <data key="d1">category</data>
+  <data key="d2">Semester is a period of academic study, typically lasting several months.</data>
+  <data key="d3">chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Academic Supervisor">
+  <data key="d0">Academic Supervisor</data>
+  <data key="d1">person</data>
+  <data key="d2">Academic Supervisor is a faculty member guiding and advising students.</data>
+  <data key="d3">chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Faculty Board">
+  <data key="d0">Faculty Board</data>
+  <data key="d1">organization</data>
+  <data key="d2">Faculty Board is a committee overseeing academic programs and student progress.&lt;SEP&gt;Faculty Board is responsible for establishing and enforcing rules for the faculty.&lt;SEP&gt;The Faculty Board is responsible for guidelines and decisions regarding diploma theses.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0&lt;SEP&gt;chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Diploma Thesis">
+  <data key="d0">Diploma Thesis</data>
+  <data key="d1">category</data>
+  <data key="d2">A Diploma Thesis is a research project completed by students as part of their studies.&lt;SEP&gt;A diploma thesis is a written work required for academic degree.&lt;SEP&gt;The Diploma Thesis is a comprehensive research paper required for graduation.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0&lt;SEP&gt;chunk-e1906f54f365c852397ed6dfb096a37a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Bachelor's Degree Studies">
+  <data key="d0">Bachelor's Degree Studies</data>
+  <data key="d1">category</data>
+  <data key="d2">Bachelor's Degree Studies is a level of academic attainment.&lt;SEP&gt;Bachelor's Degree Studies is a type of academic program at Gdańsk University of Technology.&lt;SEP&gt;Bachelor's degree studies are academic programs with specific requirements.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0&lt;SEP&gt;chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Master's Degree Studies">
+  <data key="d0">Master's Degree Studies</data>
+  <data key="d1">category</data>
+  <data key="d2">Master's Degree Studies is a level of academic attainment.&lt;SEP&gt;Master's Degree Studies is a type of academic program at Gdańsk University of Technology.&lt;SEP&gt;Master's degree studies are advanced academic programs with specific requirements.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7&lt;SEP&gt;chunk-a9b3e1b56be12bbc641446bd4ef4c0e0&lt;SEP&gt;chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Diploma Semester">
+  <data key="d0">Diploma Semester</data>
+  <data key="d1">event</data>
+  <data key="d2">A diploma semester is a period for completing diploma theses.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Faculty Guidelines">
+  <data key="d0">Faculty Guidelines</data>
+  <data key="d1">document</data>
+  <data key="d2">Faculty guidelines provide rules and regulations for diploma theses.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Unified Anti-plagiarism System">
+  <data key="d0">Unified Anti-plagiarism System</data>
+  <data key="d1">technology</data>
+  <data key="d2">The Unified Anti-plagiarism System is a tool for verifying originality of work.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Bachelor's Degree Student">
+  <data key="d0">Bachelor's Degree Student</data>
+  <data key="d1">person</data>
+  <data key="d2">A student in Bachelor's degree studies is working towards an undergraduate degree.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Master's Degree Student">
+  <data key="d0">Master's Degree Student</data>
+  <data key="d1">person</data>
+  <data key="d2">A student in Master's degree studies is working towards a graduate degree.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Magister inżynier">
+  <data key="d0">Magister inżynier</data>
+  <data key="d1">title</data>
+  <data key="d2">Magister inżynier is a title awarded to individuals with engineering expertise.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Magister">
+  <data key="d0">Magister</data>
+  <data key="d1">title</data>
+  <data key="d2">Magister is a title awarded to individuals with academic expertise.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Master of Science">
+  <data key="d0">Master of Science</data>
+  <data key="d1">title</data>
+  <data key="d2">Master of Science is a title awarded to individuals with academic expertise.</data>
+  <data key="d3">chunk-032e5b3b72dda6d933da7b17e8db77d7</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="University Rector">
+  <data key="d0">University Rector</data>
+  <data key="d1">person</data>
+  <data key="d2">The University Rector is responsible for decision-making and administrative tasks within the university.</data>
+  <data key="d3">chunk-a9b3e1b56be12bbc641446bd4ef4c0e0</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Diploma Examination Committee">
+  <data key="d0">Diploma Examination Committee</data>
+  <data key="d1">event</data>
+  <data key="d2">The Diploma Examination Committee is responsible for conducting the diploma examination.</data>
+  <data key="d3">chunk-a9b3e1b56be12bbc641446bd4ef4c0e0</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Diploma">
+  <data key="d0">Diploma</data>
+  <data key="d1">category</data>
+  <data key="d2">Diploma is a document certifying academic achievement.</data>
+  <data key="d3">chunk-a9b3e1b56be12bbc641446bd4ef4c0e0</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Graduation">
+  <data key="d0">Graduation</data>
+  <data key="d1">event</data>
+  <data key="d2">Graduation is the culmination of academic studies.</data>
+  <data key="d3">chunk-a9b3e1b56be12bbc641446bd4ef4c0e0</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="student">
+  <data key="d0">student</data>
+  <data key="d1">person</data>
+  <data key="d2">A student is a person enrolled in academic studies at Gdańsk University of Technology.</data>
+  <data key="d3">chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Academic Year">
+  <data key="d0">Academic Year</data>
+  <data key="d1">event</data>
+  <data key="d2">An Academic Year is a period of study at Gdańsk University of Technology.</data>
+  <data key="d3">chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Academic Semester">
+  <data key="d0">Academic Semester</data>
+  <data key="d1">event</data>
+  <data key="d2">An Academic Semester is a period of study within an Academic Year.</data>
+  <data key="d3">chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Academic Year 2023/2024">
+  <data key="d0">Academic Year 2023/2024</data>
+  <data key="d1">event</data>
+  <data key="d2">Academic Year 2023/2024 is a specific period of study at Gdańsk University of Technology.</data>
+  <data key="d3">chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="University of Technology">
+  <data key="d0">University of Technology</data>
+  <data key="d1">organization</data>
+  <data key="d2">University of Technology is an educational institution.</data>
+  <data key="d3">chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Faculty of Computer Science">
+  <data key="d0">Faculty of Computer Science</data>
+  <data key="d1">category</data>
+  <data key="d2">Faculty of Computer Science is a department within Gdańsk University of Technology.</data>
+  <data key="d3">chunk-d5be31ddd2249f61f9aa89ae86ffeeb3</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="University Classes">
+  <data key="d0">University Classes</data>
+  <data key="d1">event</data>
+  <data key="d2">University Classes are educational sessions offered to students at Gdańsk University of Technology.</data>
+  <data key="d3">chunk-e1906f54f365c852397ed6dfb096a37a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Diploma with Distinction">
+  <data key="d0">Diploma with Distinction</data>
+  <data key="d1">category</data>
+  <data key="d2">A Diploma with Distinction is a recognition of academic achievement awarded to students.</data>
+  <data key="d3">chunk-e1906f54f365c852397ed6dfb096a37a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Diploma Examination">
+  <data key="d0">Diploma Examination</data>
+  <data key="d1">category</data>
+  <data key="d2">A Diploma Examination is an evaluation of a student's knowledge and skills.</data>
+  <data key="d3">chunk-e1906f54f365c852397ed6dfb096a37a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Disciplinary Committee">
+  <data key="d0">Disciplinary Committee</data>
+  <data key="d1">organization</data>
+  <data key="d2">A Disciplinary Committee is a group that handles student disciplinary cases.</data>
+  <data key="d3">chunk-e1906f54f365c852397ed6dfb096a37a</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Student's Transcript of Records">
+  <data key="d0">Student's Transcript of Records</data>
+  <data key="d1">category</data>
+  <data key="d2">Student's Transcript of Records is a document that records a student's academic achievements and attendance.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rules">
+  <data key="d0">Rules</data>
+  <data key="d1">category</data>
+  <data key="d2">The rules are a set of guidelines that regulate student behavior and academic performance.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Secondary School Student">
+  <data key="d0">Secondary School Student</data>
+  <data key="d1">person</data>
+  <data key="d2">A secondary school student is an individual who attends secondary school and may receive a certificate confirming attendance.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Certificate Confirming Attendance">
+  <data key="d0">Certificate Confirming Attendance</data>
+  <data key="d1">category</data>
+  <data key="d2">A certificate confirming attendance is a document that verifies a student's attendance in classes.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Learning Outcomes">
+  <data key="d0">Learning Outcomes</data>
+  <data key="d1">category</data>
+  <data key="d2">Learning outcomes refer to the skills and knowledge acquired by students through academic programs.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Academic Year 2024/2025">
+  <data key="d0">Academic Year 2024/2025</data>
+  <data key="d1">event</data>
+  <data key="d2">The academic year 2024/2025 is a period of study at Gdańsk University of Technology.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Act of 27 July 2005, the Law on Higher Education">
+  <data key="d0">Act of 27 July 2005, the Law on Higher Education</data>
+  <data key="d1">legislation</data>
+  <data key="d2">The Act of 27 July 2005, the Law on Higher Education is a legal framework governing higher education in Poland.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf</data>
+  <data key="d4">unknown_source</data>
+</node>
+<node id="Rector of Gdańsk University of Technology">
+  <data key="d0">Rector of Gdańsk University of Technology</data>
+  <data key="d1">person</data>
+  <data key="d2">The Rector of Gdańsk University of Technology is the chief executive of the university.</data>
+  <data key="d3">chunk-c5c5b0ae6a0af584de39e08ba8e54ccf</data>
+  <data key="d4">unknown_source</data>
+</node>
+<edge source="Gdańsk University of Technology" target="Student Register">
+  <data key="d5">8.0</data>
+  <data key="d6">The university maintains a student register to track academic progress and credit points.</data>
+  <data key="d7">institutional record, academic tracking</data>
+  <data key="d8">chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Gdańsk University of Technology" target="University Rector">
+  <data key="d5">8.0</data>
+  <data key="d6">The University Rector is responsible for administrative tasks within the university.</data>
+  <data key="d7">institutional structure, administrative role</data>
+  <data key="d8">chunk-a9b3e1b56be12bbc641446bd4ef4c0e0</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Dean" target="Faculty Board">
+  <data key="d5">9.0</data>
+  <data key="d6">The dean is responsible for making academic decisions and regulations.</data>
+  <data key="d7">leadership, institutional governance</data>
+  <data key="d8">chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Dean" target="Diploma Examination Committee">
+  <data key="d5">8.0</data>
+  <data key="d6">The Dean chairs the Diploma Examination Committee and makes decisions on the examination date and time.</data>
+  <data key="d7">administrative role, examination management</data>
+  <data key="d8">chunk-a9b3e1b56be12bbc641446bd4ef4c0e0</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Student Government" target="Faculty Board">
+  <data key="d5">7.0</data>
+  <data key="d6">Student Government collaborates with the Faculty Board to establish rules for the faculty.</data>
+  <data key="d7">student representation, academic governance</data>
+  <data key="d8">chunk-a9b3e1b56be12bbc641446bd4ef4c0e0</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Student" target="Study Plan">
+  <data key="d5">7.0</data>
+  <data key="d6">Students follow a personalized study plan outlining their courses and credits.</data>
+  <data key="d7">academic guidance, course structure</data>
+  <data key="d8">chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Student" target="Academic Supervisor">
+  <data key="d5">9.0</data>
+  <data key="d6">Students are advised and guided by academic supervisors throughout their studies.</data>
+  <data key="d7">academic support, guidance</data>
+  <data key="d8">chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Student Register" target="Faculty Board">
+  <data key="d5">8.0</data>
+  <data key="d6">The faculty board oversees student registration and academic progress.</data>
+  <data key="d7">institutional oversight, academic management</data>
+  <data key="d8">chunk-2c67c1f6a9de439c93e08bde9451bf50</data>
+  <data key="d9">unknown_source</data>
+</edge>
+<edge source="Faculty Board" target="Diploma Examination Committee">
+  <data key="d5">9.0</data>
+  <data key="d6">The Faculty Board establishes rules for the Diploma Examination Committee.</data>
+  <data key="d7">academic governance, examination process</data>
+  <data key="d8">chunk-a9b3e1b56be12bbc641446bd4ef4c0e0</data>
+  <data key="d9">unknown_source</data>
+</edge>
+</graph></graphml>

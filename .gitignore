@@ -5,8 +5,8 @@ venv/
 dickens*
 dickens/
 .dickens/
-knowledge_bases/
-.knowledge_bases/
+# knowledge_bases/
+# .knowledge_bases/
 book.txt
 
 # Ignorowanie plików kompilowanych Pythona
