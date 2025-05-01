@@ -1,6 +1,7 @@
 import copy
 import os
 from functools import lru_cache
+from dotenv import load_dotenv
 
 import pipmaster as pm  # Pipmaster for dynamic library install
 
@@ -39,11 +40,17 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 @lru_cache(maxsize=1)
 def initialize_hf_model(model_name):
+    hf_token = os.getenv("HF_TOKEN")  
+
+    if not hf_token:
+        raise ValueError("Missing env 'HF_TOKEN'.")
     hf_tokenizer = AutoTokenizer.from_pretrained(
-        model_name, device_map="auto", trust_remote_code=True
+        model_name, device_map="auto", trust_remote_code=True, 
+        token=hf_token
     )
     hf_model = AutoModelForCausalLM.from_pretrained(
-        model_name, device_map="auto", trust_remote_code=True
+        model_name, device_map="auto", trust_remote_code=True, 
+        token=hf_token
     )
     if hf_tokenizer.pad_token is None:
         hf_tokenizer.pad_token = hf_tokenizer.eos_token

@@ -2,6 +2,9 @@
 venv/
 .venv/
 
+dickens/
+.dickens/
+
 # Ignorowanie plików kompilowanych Pythona
 __pycache__/
 *.py[cod]
