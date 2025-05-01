@@ -17,7 +17,7 @@ if not pm.is_installed("numpy"):
 if not pm.is_installed("tenacity"):
     pm.install("tenacity")
 
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from tenacity import (
     retry,
     stop_after_attempt,
@@ -41,7 +41,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 @lru_cache(maxsize=1)
 def initialize_hf_model(model_name):
     hf_token = os.getenv("HF_TOKEN")  
-
+    quant_config = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_compute_dtype="bfloat16")
     if not hf_token:
         raise ValueError("Missing env 'HF_TOKEN'.")
     hf_tokenizer = AutoTokenizer.from_pretrained(
@@ -49,7 +49,7 @@ def initialize_hf_model(model_name):
         token=hf_token
     )
     hf_model = AutoModelForCausalLM.from_pretrained(
-        model_name, device_map="auto", trust_remote_code=True, 
+        model_name, device_map="auto", trust_remote_code=True, quantization_config=quant_config,
         token=hf_token
     )
     if hf_tokenizer.pad_token is None:
