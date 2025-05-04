@@ -66,7 +66,7 @@ def configure_logging():
             "loggers": {
                 "lightrag": {
                     "handlers": ["console", "file"],
-                    "level": "INFO",
+                    "level": "DEBUG",
                     "propagate": False,
                 },
             },
@@ -74,11 +74,11 @@ def configure_logging():
     )
 
     # Set the logger level to INFO
-    logger.setLevel(logging.INFO)
+    logger.setLevel(logging.DEBUG)
     # Enable verbose debug if needed
     set_verbose_debug(os.getenv("VERBOSE_DEBUG", "false").lower() == "true")
 
-WORKING_DIR = "./dickens"
+WORKING_DIR = "./knowledge_bases/pg_rules_llama_8b_neo4j"
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
@@ -89,6 +89,7 @@ async def initialize_rag():
         working_dir=WORKING_DIR,
         llm_model_func=hf_model_complete,
         llm_model_name="meta-llama/Llama-3.1-8B-Instruct",
+        graph_storage="Neo4JStorage",
         embedding_func=EmbeddingFunc(
             embedding_dim=384,
             max_token_size=5000,
