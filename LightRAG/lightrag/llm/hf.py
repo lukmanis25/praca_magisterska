@@ -45,11 +45,11 @@ def initialize_hf_model(model_name):
     if not hf_token:
         raise ValueError("Missing env 'HF_TOKEN'.")
     hf_tokenizer = AutoTokenizer.from_pretrained(
-        model_name, device_map="auto", trust_remote_code=True, 
+        model_name, device_map=os.getenv("DEVICE"), trust_remote_code=True, 
         token=hf_token
     )
     hf_model = AutoModelForCausalLM.from_pretrained(
-        model_name, device_map="auto", trust_remote_code=True, quantization_config=quant_config,
+        model_name, device_map=os.getenv("DEVICE"), trust_remote_code=True, quantization_config=quant_config,
         token=hf_token
     )
     if hf_tokenizer.pad_token is None:
@@ -152,7 +152,7 @@ async def hf_embed(texts: list[str], tokenizer, embed_model) -> np.ndarray:
         device = torch.device("mps")  # Use MPS for Apple Silicon
     else:
         device = torch.device("cpu")  # Fallback to CPU
-
+    device = os.getenv("DEVICE")
     # Move the model to the detected device
     embed_model = embed_model.to(device)
 

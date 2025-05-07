@@ -370,6 +370,15 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "How can students graduate from university?"
+    },
+    "fa821e7e8df6316420a6c32a093a7a16": {
+      "return": "According to the provided Document Chunks, a student is defined as:\n\n* Secondary school students who wish to participate in university classes (§3)\n* Students admitted to studies at Gdańsk University of Technology (§3)\n* Students pursuing individual study plans or curricula (§4)\n* Students of master's degree studies (§21)\n* Students of bachelor's degree studies (§21)\n\nThese students have various rights and obligations, such as receiving a student's transcript of records (§34), obtaining a student ID card (§5), and undergoing mandatory training (§3(6)).\n\nReferences:\n- [KG] unknown_source\n- [DC] unknown_source\n- [KG] unknown_source\n- [DC] unknown_source\n- [KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is student?"
     }
   },
   "local": {
@@ -390,6 +399,24 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "How can students graduate from university?"
+    },
+    "9cc4233b2d378093ba62aa4b7b681e06": {
+      "return": "{\"high_level_keywords\": [\"Student\"], \"low_level_keywords\": [\"Education\", \"Academics\", \"Learning\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is student?"
+    },
+    "459ee8d50a858946f8f10dd62248b1f4": {
+      "return": "**Student**\n\nA Student is an individual enrolled in a study program or course of study at Gdańsk University of Technology, with rights and responsibilities. They participate in studies, complete subjects, and may have individual study plans. Furthermore, they are required to follow the rules and regulations of the university. In addition, they submit a diploma thesis, take diploma examinations, and receive diplomas upon completion of their academic program.\n\n**Key Responsibilities**\n\n* Participate in studies\n* Complete subjects\n* Follow university rules and regulations\n* Submit a diploma thesis\n* Take diploma examinations\n* Receive diplomas upon completion of their academic program\n\n**References**\n\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is student?"
     }
   },
   "global": {
@@ -410,6 +437,24 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "How can students graduate from university?"
+    },
+    "2128b996056cdbd1967938d74694a58d": {
+      "return": "{\"high_level_keywords\": [\"Student\", \"Education\"], \"low_level_keywords\": [\"Person\", \"Academic\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is student?"
+    },
+    "66e565675f6b5de6c192d3a90897d596": {
+      "return": "Based on the provided Knowledge Base, a student is a person who is enrolled in Gdańsk University of Technology, as indicated by the entity \"Student Government\" which is a representative body at the faculty level.\n\nStudent Government is an organization that represents students' interests and provides input on university policies and decisions. This suggests that students are individuals who are part of this organization and are affected by its activities.\n\nAs a student at Gdańsk University of Technology, one would be subject to the university's rules and regulations, including guidelines for diploma theses and awarding diplomas, as well as rules and regulations for studying and awarding credits.\n\n### References\n\n* [KG] unknown_source\n* [KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is student?"
     }
   },
   "hybrid": {
@@ -430,6 +475,24 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "How can students graduate from university?"
+    },
+    "dfe03d0205fa5a361efedb17ec4e1036": {
+      "return": "{\"high_level_keywords\": [\"Education\", \"Student\", \"Person\"], \"low_level_keywords\": [\"School\", \"University\", \"Teacher\", \"Classroom\", \"Student life\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is student?"
+    },
+    "602992c20baa9e588060a02895d79999": {
+      "return": "**Student**\n\nA student is an individual enrolled in a study program or course of study at Gdańsk University of Technology, with rights and responsibilities. They participate in studies, complete subjects, and may have individual study plans. Furthermore, they are required to follow the rules and regulations of the university. In addition, they submit a diploma thesis, take diploma examinations, and receive diplomas upon completion of their academic program.\n\n**Key Responsibilities and Rights**\n\n* Participate in studies\n* Complete subjects\n* Follow university rules and regulations\n* Submit a diploma thesis\n* Take diploma examinations\n* Receive diplomas upon completion of their academic program\n\n**References**\n\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is student?"
     }
   }
 }

@@ -254,52 +254,5 @@
       "embedding_max": null,
       "original_prompt": "How can students graduate from university?"
     }
-  },
-  "hybrid": {
-    "dca8a5a45c16eb78c5ceeea4753a27ab": {
-      "return": "{\"high_level_keywords\": [\"Student\"], \"low_level_keywords\": [\"Education\", \"Academia\", \"Learning\"]}",
-      "cache_type": "keywords",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "who is student"
-    },
-    "39dba147021b4d591ff5be65215c5fe5": {
-      "return": "{\"high_level_keywords\": [\"Education\", \"University\", \"Graduation\"], \"low_level_keywords\": [\"Students\", \"Diploma\", \"Degree\", \"Academic requirements\", \"Higher education\"]}",
-      "cache_type": "keywords",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "How students can graduate from university?"
-    },
-    "094283aa7bf35b40eddeefbc216d24a4": {
-      "return": "{\"high_level_keywords\": [\"Education\", \"Graduation\", \"Students\"], \"low_level_keywords\": [\"School graduation\", \"Diploma\", \"High school\", \"College degree\", \"Academic requirements\"]}",
-      "cache_type": "keywords",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "How students can graduate from school"
-    },
-    "fe19d16a07c60cc57a489bcdc4b4d01f": {
-      "return": "{\"high_level_keywords\": [\"Academic writing\", \"Research\", \"Education\"], \"low_level_keywords\": [\"Dissertation\", \"Paper\", \"Student\", \"University\", \"Research paper\"]}",
-      "cache_type": "keywords",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "What is thesis"
-    },
-    "a273e2c024831a47a7beecf7aa89193a": {
-      "return": "To graduate from Gdańsk University of Technology, students need to complete their studies and meet certain requirements. The process involves several steps:\n\n*   Completing all the semesters in accordance with the curriculum, including obligatory training courses and internships, and obtaining ECTS credits as provided for in the study program of a given course.\n*   Obtaining a positive evaluation of the diploma thesis in the case of master's degree and uniform master's studies, and in the case of bachelor's degree studies if this is required by the study program.\n*   Passing the diploma examination, which includes an open and closed part, and is assessed in accordance with the scale defined in §16(1), and then rounded to binding grades.\n*   Receiving a positive grade for the diploma thesis, which is a research project required for graduation, written in a foreign language if permitted.\n*   Meeting the credit point system rules, including the condition for registration for subsequent semesters, which is the credit point deficit not exceeding 12 ECTS credits counted to the semester for which the registration is conducted.\n\nUpon meeting these requirements, students will be awarded a diploma that confirms completion of higher education and certifies obtaining a particular professional title.\n\nReferences:\n\n*   [KG] unknown_source\n*   [KG] unknown_source\n*   [KG] unknown_source\n*   [KG] unknown_source\n*   [KG] unknown_source",
-      "cache_type": "query",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "How students can graduate from school"
-    }
   }
 }
