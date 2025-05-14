@@ -1,0 +1,5 @@
+pip install graphrag
+graphrag init --root .
+<ustawienie tokenu w .env>
+<settings.yaml jak w repo>
+graphrag index --root . --method standard --logger rich
