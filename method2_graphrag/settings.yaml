@@ -7,22 +7,32 @@
 models:
   default_chat_model:
     type: openai_chat # or azure_openai_chat
-    api_base: https://api.groq.com/openai/v1
+
+    #INDEXING
+    # api_base: https://api.groq.com/openai/v1
+    # model: llama3-70b-8192
+    # api_key: ${GROQ_API_KEY}
+    # max_retries: -1                   # set to -1 for dynamic retry logic (most optimal setting based on server response)
+    # tokens_per_minute: 6000              # set to 0 to disable rate limiting
+    # requests_per_minute: 30            # set to 0 to disable rate limiting
+
+    #Prompt local
+    api_base: http://localhost:65432/v1
+    model: /home/macierz/s184306/.cache/huggingface/hub/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659
+    api_key: ${VLLM_TOKEN}
+    
     # api_version: 2024-05-01-preview
     auth_type: api_key # or azure_managed_identity
-    api_key: ${GROQ_API_KEY} # set this in the generated .env file
+     # set this in the generated .env file
     # audience: "https://cognitiveservices.azure.com/.default"
     # organization: <organization_id>
-    model: llama3-70b-8192
     # deployment_name: <azure_model_deployment_name>
     encoding_model: cl100k_base # automatically set by tiktoken if left undefined
     model_supports_json: true # recommended if this is available for your model.
-    concurrent_requests: 25 # max number of simultaneous LLM requests allowed
+    concurrent_requests: 1 # max number of simultaneous LLM requests allowed
     async_mode: threaded # or asyncio
     retry_strategy: native
-    max_retries: -1                   # set to -1 for dynamic retry logic (most optimal setting based on server response)
-    tokens_per_minute: 6000              # set to 0 to disable rate limiting
-    requests_per_minute: 30            # set to 0 to disable rate limiting
+
   default_embedding_model:
     type: openai_embedding # or azure_openai_embedding
     api_base: https://api.together.xyz/v1
