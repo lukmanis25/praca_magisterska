@@ -300,6 +300,24 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "How students can graduate from school"
+    },
+    "e1947f16865438f63dbc638b767f236e": {
+      "return": "{\"high_level_keywords\": [\"Education\", \"Student roles\", \"Responsibilities\"], \"low_level_keywords\": [\"Homework\", \"Class attendance\", \"Extracurricular activities\", \"Study habits\", \"Academic performance\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the responsibilities of a student?"
+    },
+    "260e03b6e2ba8725f02c74961a58aed4": {
+      "return": "According to the provided Knowledge Base, a student's responsibilities include:\n\n* Completing coursework and academic activities during semesters\n* Participating in academic activities during a semester\n* Attending classes during the semester\n* Submitting a diploma thesis as part of their studies\n* Participating in academic activities during an academic year\n* Following the rules and regulations of the university\n* Submitting registration applications to enroll in a course of study\n* Completing subjects to earn credits and achieve learning outcomes\n* Attending classes to earn credits\n* Pursuing individual research studies, including individual -interdisciplinary studies\n* Participating in industrial research internships as part of their academic program\n* Paying fees for their academic studies\n* Taking a leave of absence from their academic studies if needed\n\nThese responsibilities are outlined in various relationships and sources within the Knowledge Base, including:\n\n* Relationship \"Students\" -> \"Subjects\" with description \"Students complete subjects to earn credits and achieve learning outcomes.\"\n* Source \"§18\" with content \"Student registration for subsequent semesters is based on the student’s academic progress measured by the number of awarded ECTS credits and on the condition of passing the obligatory training courses referred to in §3(6).\"\n* Source \"§17\" with content \"Students may take an individual study plan or curriculum based on the rules defined by the dean.\"\n\nReferences:\n* [KG] §18\n* [KG] §17\n* [KG] Relationship \"Students\" -> \"Subjects\"\n* [KG] Source \"§18\"\n* [KG] Source \"§17\"",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the responsibilities of a student?"
     }
   }
 }

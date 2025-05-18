@@ -1,0 +1,32 @@
+Question:
+What are the responsibilities of a student?
+
+Answer:
+According to the provided Knowledge Base, a student's responsibilities include:
+
+* Completing coursework and academic activities during semesters
+* Participating in academic activities during a semester
+* Attending classes during the semester
+* Submitting a diploma thesis as part of their studies
+* Participating in academic activities during an academic year
+* Following the rules and regulations of the university
+* Submitting registration applications to enroll in a course of study
+* Completing subjects to earn credits and achieve learning outcomes
+* Attending classes to earn credits
+* Pursuing individual research studies, including individual -interdisciplinary studies
+* Participating in industrial research internships as part of their academic program
+* Paying fees for their academic studies
+* Taking a leave of absence from their academic studies if needed
+
+These responsibilities are outlined in various relationships and sources within the Knowledge Base, including:
+
+* Relationship "Students" -> "Subjects" with description "Students complete subjects to earn credits and achieve learning outcomes."
+* Source "§18" with content "Student registration for subsequent semesters is based on the student’s academic progress measured by the number of awarded ECTS credits and on the condition of passing the obligatory training courses referred to in §3(6)."
+* Source "§17" with content "Students may take an individual study plan or curriculum based on the rules defined by the dean."
+
+References:
+* [KG] §18
+* [KG] §17
+* [KG] Relationship "Students" -> "Subjects"
+* [KG] Source "§18"
+* [KG] Source "§17"

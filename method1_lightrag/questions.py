@@ -109,7 +109,6 @@ async def initialize_rag():
         working_dir=WORKING_DIR,
         llm_model_func=fun,
         llm_model_name=os.getenv("LLM_MODEL_NAME"),
-        llm_model_max_token_size=12000,
         graph_storage="Neo4JStorage",
         embedding_func=EmbeddingFunc(
             embedding_dim=384,
@@ -137,7 +136,7 @@ def save_answer_to_file(question, answer):
 
     # Create a unique filename based on timestamp
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"ans/answer_{timestamp}_{os.getenv("WORKING_DIR")}.txt"
+    filename = f"ans/answer_{timestamp}_{os.path.basename(os.getenv('WORKING_DIR'))}.txt"
 
     # Write the question and answer to the file
     with open(filename, "w", encoding="utf-8") as f:
@@ -154,8 +153,11 @@ async def main():
             print("Session ended.")
             break
 
+        # result = rag.query(question, param=QueryParam(mode=os.getenv("ANS_MODE"), top_k=int(os.getenv("TOP_K"))))
+        # print("Answer:", result)
+        # save_answer_to_file(question, str(result))
         try:
-            result = rag.query(question, param=QueryParam(mode=os.getenv("ANS_MODE"), top_k=os.getenv("TOP_K")))
+            result = rag.query(question, param=QueryParam(mode=os.getenv("ANS_MODE"), top_k=int(os.getenv("TOP_K"))))
             print("Answer:", result)
             save_answer_to_file(question, str(result))
         except Exception as e:
