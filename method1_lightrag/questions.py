@@ -3,7 +3,7 @@ import logging
 import asyncio
 import logging.config
 from lightrag import LightRAG, QueryParam
-from lightrag.llm.openai import openai_complete_if_cache
+from lightrag.llm.openai import openai_complete_if_cache, openai_embed
 from lightrag.llm.hf import hf_model_complete, hf_embed
 from lightrag.utils import EmbeddingFunc, logger, set_verbose_debug
 from transformers import AutoModel, AutoTokenizer
@@ -113,14 +113,11 @@ async def initialize_rag():
         embedding_func=EmbeddingFunc(
             embedding_dim=384,
             max_token_size=5000,
-            func=lambda texts: hf_embed(
+            func=lambda texts: openai_embed(
                 texts,
-                tokenizer=AutoTokenizer.from_pretrained(
-                    "sentence-transformers/all-MiniLM-L6-v2"
-                ),
-                embed_model=AutoModel.from_pretrained(
-                    "sentence-transformers/all-MiniLM-L6-v2"
-                ),
+                model= os.getenv("EMBED_MODEL"),
+                base_url= os.getenv("EMBED_URL"),
+                api_key= os.getenv("EMBED_TOKEN")
             ),
         ),
     )

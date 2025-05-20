@@ -318,6 +318,42 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "What are the responsibilities of a student?"
+    },
+    "ed66ae347a5ce7d8d6a99ce24ec26499": {
+      "return": "{\"high_level_keywords\": [\"Education technology\", \"Student engagement\", \"Learning management system\"], \"low_level_keywords\": [\"Moja PG\", \"Student portal\", \"Grade tracking\", \"Assignment submission\", \"Student feedback\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the purpose of the “Moja PG” system, and how is it used by students?"
+    },
+    "b6038a839d2e5e28806fdf0c7aad9535": {
+      "return": "The \"Moja PG\" system is an online platform used by Gdańsk University of Technology for student information, registration, and application submission. It is also used for tracking student progress, grades, and learning outcomes.\n\nAccording to the relationships in the Knowledge Base, students use the Moja PG system to manage their academic affairs, including:\n\n* Tracking their progress and grades\n* Accessing information and resources\n* Submitting diploma theses\n* Receiving notifications and accessing their accounts\n* Managing their individual study plans and academic activities\n\nThe system is designed to provide students with a comprehensive overview of their academic status, allowing them to stay organized and on top of their coursework.\n\nHere are some key points about the Moja PG system:\n\n* Students can access their individual accounts in the Moja PG system to view their grades, learning outcomes, and other academic information.\n* The system allows students to submit their diploma theses and receive feedback from instructors.\n* Moja PG is also used for tracking student progress and grades, enabling students to monitor their academic performance.\n* The system provides students with access to information and resources related to their courses and academic programs.\n* Students can use Moja PG to communicate with instructors and other university staff regarding their academic affairs.\n\nOverall, the Moja PG system plays a crucial role in supporting students' academic success and providing them with the tools and resources needed to navigate their academic journey.\n\nReferences:\n\n* [KG] \"0\" from Relationships\n* [KG] \"12\" from Relationships\n* [KG] \"16\" from Relationships\n* [KG] \"20\" from Relationships\n* [KG] \"37\" from Relationships",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the purpose of the “Moja PG” system, and how is it used by students?"
+    },
+    "fcd67edea6ba805dbea76fb11a9f0f53": {
+      "return": "{\"high_level_keywords\": [\"Thesis\", \"Academic writing\", \"Research\"], \"low_level_keywords\": [\"Dissertation\", \"Proposal\", \"Argumentation\", \"Methodology\", \"Literature review\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is thesis?"
+    },
+    "0b14a5d03ae950610e4fe6aa1cddeff5": {
+      "return": "**Thesis Definition**\n\nA thesis is a research project that is part of the studies at Gdańsk University of Technology. It is a document presented during the diploma examination.\n\n**Types of Thesis**\n\nThere are different types of thesis, including:\n\n*   Bachelor Diploma Thesis: submitted for Bachelor’s degree studies\n*   Master’s Diploma Thesis: submitted for Master’s degree studies\n\n**Purpose of Thesis**\n\nThe purpose of a thesis is to demonstrate a student's knowledge and skills in a particular field of study. It is an opportunity for students to conduct original research and contribute to the body of knowledge in their field.\n\n**Submission Requirements**\n\nTheses must be submitted through the \"Moja PG\" system, and the student must declare independent completion of the thesis. The thesis supervisor must approve the thesis and send it for review.\n\n**Grading**\n\nThe final grade of the thesis is determined by the supervisor, reviewer, and commission, depending on the faculty diploma rules.\n\n**References**\n\n*   [KG] file_path: unknown_source\n*   [DC] file_path: unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "what is thesis?"
     }
   }
 }

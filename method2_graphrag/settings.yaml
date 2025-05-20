@@ -35,17 +35,17 @@ models:
 
   default_embedding_model:
     type: openai_embedding # or azure_openai_embedding
-    api_base: https://api.together.xyz/v1
+    api_base: http://localhost:54321/v1
     # api_version: 2024-05-01-preview
     auth_type: api_key # or azure_managed_identity
-    api_key: ${TOGETHER_API_KEY}
+    api_key: ${EMBED_TOKEN}
     # audience: "https://cognitiveservices.azure.com/.default"
     # organization: <organization_id>
-    model: togethercomputer/m2-bert-80M-8k-retrieval
+    model: sentence-transformers/all-MiniLM-L6-v2
     # deployment_name: <azure_model_deployment_name>
     encoding_model: cl100k_base # automatically set by tiktoken if left undefined
     model_supports_json: true # recommended if this is available for your model.
-    concurrent_requests: 25 # max number of simultaneous LLM requests allowed
+    concurrent_requests: 1 # max number of simultaneous LLM requests allowed
     async_mode: threaded # or asyncio
     retry_strategy: native
     max_retries: -1                   # set to -1 for dynamic retry logic (most optimal setting based on server response)
@@ -83,7 +83,7 @@ reporting:
 vector_store:
   default_vector_store:
     type: lancedb
-    db_uri: output\lancedb
+    db_uri: output/lancedb
     container_name: default
     overwrite: True
 

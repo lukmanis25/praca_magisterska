@@ -1,0 +1,33 @@
+Question:
+What is the purpose of the “Moja PG” system, and how is it used by students?
+
+Answer:
+The "Moja PG" system is an online platform used by Gdańsk University of Technology for student information, registration, and application submission. It is also used for tracking student progress, grades, and learning outcomes.
+
+According to the relationships in the Knowledge Base, students use the Moja PG system to manage their academic affairs, including:
+
+* Tracking their progress and grades
+* Accessing information and resources
+* Submitting diploma theses
+* Receiving notifications and accessing their accounts
+* Managing their individual study plans and academic activities
+
+The system is designed to provide students with a comprehensive overview of their academic status, allowing them to stay organized and on top of their coursework.
+
+Here are some key points about the Moja PG system:
+
+* Students can access their individual accounts in the Moja PG system to view their grades, learning outcomes, and other academic information.
+* The system allows students to submit their diploma theses and receive feedback from instructors.
+* Moja PG is also used for tracking student progress and grades, enabling students to monitor their academic performance.
+* The system provides students with access to information and resources related to their courses and academic programs.
+* Students can use Moja PG to communicate with instructors and other university staff regarding their academic affairs.
+
+Overall, the Moja PG system plays a crucial role in supporting students' academic success and providing them with the tools and resources needed to navigate their academic journey.
+
+References:
+
+* [KG] "0" from Relationships
+* [KG] "12" from Relationships
+* [KG] "16" from Relationships
+* [KG] "20" from Relationships
+* [KG] "37" from Relationships

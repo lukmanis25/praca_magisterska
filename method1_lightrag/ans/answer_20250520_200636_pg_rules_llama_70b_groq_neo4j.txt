@@ -1,0 +1,31 @@
+Question:
+what is thesis?
+
+Answer:
+**Thesis Definition**
+
+A thesis is a research project that is part of the studies at Gdańsk University of Technology. It is a document presented during the diploma examination.
+
+**Types of Thesis**
+
+There are different types of thesis, including:
+
+*   Bachelor Diploma Thesis: submitted for Bachelor’s degree studies
+*   Master’s Diploma Thesis: submitted for Master’s degree studies
+
+**Purpose of Thesis**
+
+The purpose of a thesis is to demonstrate a student's knowledge and skills in a particular field of study. It is an opportunity for students to conduct original research and contribute to the body of knowledge in their field.
+
+**Submission Requirements**
+
+Theses must be submitted through the "Moja PG" system, and the student must declare independent completion of the thesis. The thesis supervisor must approve the thesis and send it for review.
+
+**Grading**
+
+The final grade of the thesis is determined by the supervisor, reviewer, and commission, depending on the faculty diploma rules.
+
+**References**
+
+*   [KG] file_path: unknown_source
+*   [DC] file_path: unknown_source
