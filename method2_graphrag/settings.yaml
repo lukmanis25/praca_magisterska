@@ -20,6 +20,9 @@ models:
     api_base: http://localhost:65432/v1
     model: /home/macierz/s184306/.cache/huggingface/hub/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659
     api_key: ${VLLM_TOKEN}
+    max_retries: -1                   # set to -1 for dynamic retry logic (most optimal setting based on server response)
+    tokens_per_minute: 0              # set to 0 to disable rate limiting
+    requests_per_minute: 0            # set to 0 to disable rate limiting
     
     # api_version: 2024-05-01-preview
     auth_type: api_key # or azure_managed_identity
@@ -49,8 +52,8 @@ models:
     async_mode: threaded # or asyncio
     retry_strategy: native
     max_retries: -1                   # set to -1 for dynamic retry logic (most optimal setting based on server response)
-    tokens_per_minute: 3000              # set to 0 to disable rate limiting
-    requests_per_minute: 2            # set to 0 to disable rate limiting
+    tokens_per_minute: 0              # set to 0 to disable rate limiting
+    requests_per_minute: 0           # set to 0 to disable rate limiting
 
 ### Input settings ###
 
