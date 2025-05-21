@@ -354,6 +354,116 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "what is thesis?"
+    },
+    "0d1225ec4026066c20985c364bcc901e": {
+      "return": "{\"high_level_keywords\": [\"Student removal\", \"Absence classification\", \"Education policy\"], \"low_level_keywords\": [\"Disciplinary action\", \"Medical leave\", \"Attendance policy\", \"Truancy laws\", \"School administration\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances can a student be removed from classes, and how is such an absence classified?"
+    },
+    "f353881973a51a3e1819b3e4715e76e7": {
+      "return": "According to the provided Knowledge Base, a student can be removed from classes under the following circumstances:\n\n* Unjustified absence from 4 classes as part of the same form of classes in the selected subject covered by the study plan (Section XI, Paragraph 7).\n\nThe absence is classified as \"removal from the student register due to absence from compulsory classes.\"\n\nIt is also mentioned that students who fail to submit a registration application (Section XI, Paragraph 8) may be removed from the student register.\n\nAdditionally, students who fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies (Section XI, Paragraph 8).\n\nReferences:\n\n* [KG] Section XI, Paragraph 7\n* [KG] Section XI, Paragraph 8\n* [KG] Section XI, Paragraph 9\n* [KG] Section XI, Paragraph 10\n* [KG] Section XI, Paragraph 11",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances can a student be removed from classes, and how is such an absence classified?"
+    },
+    "db8933402ce6dba3b87672243c9055ab": {
+      "return": "{\"high_level_keywords\": [\"Student removal\", \"Academic circumstances\", \"School policies\"], \"low_level_keywords\": [\"Attendance policy\", \"Misbehavior\", \"Low grades\", \"Attendance tracking\", \"Disciplinary actions\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances can a student be removed from classes"
+    },
+    "7058706c136de90f7f9e029ad82d13b0": {
+      "return": "According to the provided Knowledge Base, a student can be removed from classes under the following circumstances:\n\n* If a student fails to submit their diploma thesis on time, they may be removed from the student register, as specified in paragraph 12 of the source with ID 0.\n* If a student is absent from an exam without a justified reason, they may miss one examination date, as specified in paragraph 9 of the source with ID 1.\n* If a student is absent from an exam due to illness, they may be eligible for an extension of the examination session, as specified in paragraph 10 of the source with ID 1.\n* If a student is absent from an exam due to another exam carried out in accordance with the study plan at Gdańsk University of Technology or by representing the university as part of various events, they may be eligible for an extension of the examination session, as specified in paragraph 10 of the source with ID 1.\n\nPlease note that these circumstances may have specific requirements or procedures that must be followed, as outlined in the provided sources.\n\nReferences:\n\n* [KG] ID 0, file_path: unknown_source\n* [KG] ID 1, file_path: unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances can a student be removed from classes"
+    },
+    "71b41158fa1ce63d23e33d2b4f4295a1": {
+      "return": "{\"high_level_keywords\": [\"Academic teachers\", \"Student attendance\", \"Class types\"], \"low_level_keywords\": [\"Class registration\", \"Attendance monitoring\", \"Student tracking\", \"Teacher responsibilities\", \"Class schedules\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?"
+    },
+    "5b064803081b3716aebfa9943d8fbbe2": {
+      "return": "According to the Knowledge Base, academic teachers are responsible for conducting classes and publishing subject cards. They are also responsible for marking semester papers, projects, reports, examination papers, and class tests.\n\nIn relation to registering and monitoring student attendance, academic teachers are responsible for:\n\n* Keeping marked semester papers, projects, reports, examination papers, and class tests until the end of the subsequent semester.\n* Recording student results in the transcript of records.\n* Confirming student attendance in classes and subjects completed.\n* Exempting students from having to complete the same subjects, provided the learning outcomes of these subjects have not been changed.\n\nIt is also mentioned that academic teachers may extend the duration of studies (extended study mode) for students who are winners of the \"Gdańsk University of Technology Talent Scholarship\" competition, allowing them to start studies with an individual study program from the first semester of studies.\n\nThese responsibilities are mentioned in the following sources:\n\n* [KG] unknown_source (Section: \"INDIVIDUAL STUDY PLAN AND CURRICULUM\")\n* [KG] unknown_source (Section: \"FINAL AND TRANSITIONAL PROVISIONS\")\n* [KG] unknown_source (Section: \"RULES FOR CHANGING THE FIELD OR FORM OF STUDY, OR UNIVERSITY\")\n\nReferences:\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?"
+    },
+    "58fd7d7664d9d75b2b63ee8078681f5f": {
+      "return": "{\"high_level_keywords\": [\"Weighted average grade calculation\", \"Course exclusion\", \"Academic performance\"], \"low_level_keywords\": [\"Grade calculation formula\", \"GPA calculation\", \"Excluded courses\", \"Course prerequisites\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How is the weighted average grade calculated, and which courses are excluded from this calculation?"
+    },
+    "b97255e830c036b3bde6bce752d88d23": {
+      "return": "The weighted average grade is calculated using the following formula:\n\nweighted average grade = ∑ o p / ∑ p i\n\nwhere:\n\n* o i is the grade for a given subject\n* p i is the number of ECTS credits assigned to a given subject\n\nThe courses that are excluded from this calculation are those that were not assigned ECTS credits or were passed without a grade.\n\nAccording to the rules, the weighted average of the grades for the semester is calculated taking into account the grades in all subjects. Missing grades in subjects result in no weighted average for a given semester.\n\nThis information is available in the following sources:\n\n* [KG] page 9\n* [KG] page 10\n* [KG] page 11",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How is the weighted average grade calculated, and which courses are excluded from this calculation?"
+    }
+  },
+  "local": {
+    "696e8970f91231166b03c7b399dbcb11": {
+      "return": "{\"high_level_keywords\": [\"Academic teachers\", \"Student attendance\", \"Class types\"], \"low_level_keywords\": [\"Teacher responsibilities\", \"Attendance registration\", \"Monitoring student attendance\", \"Class types\", \"Student engagement\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?"
+    },
+    "03513ece0f93c97cff542f9e89a52f06": {
+      "return": "According to the Knowledge Base, academic teachers are responsible for conducting classes, providing information on consultation hours, and completing subject cards. However, there is no specific information provided about their responsibilities in relation to registering and monitoring student attendance during different types of classes.\n\nIt is mentioned that students attend classes to earn credits and achieve learning outcomes, and that classes are academic courses that students attend and complete to earn credits. Additionally, students are required to attend classes during the semester, and academic activities during a semester include coursework and academic activities.\n\nGiven the information available, it appears that academic teachers are responsible for teaching classes, but the specifics of their role in registering and monitoring student attendance are not clear. If you have any further questions or would like more information on a related topic, please let me know.\n\nReferences:\n- [KG] id: 0\n- [KG] id: 3\n- [KG] id: 61\n- [DC] id: 0\n- [DC] id: 1",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?"
+    },
+    "e9f830e9955e1be151a7175d3f362ecc": {
+      "return": "{\"high_level_keywords\": [\"Student absence\", \"Class removal\", \"Absence classification\"], \"low_level_keywords\": [\"Disciplinary action\", \"Medical leave\", \"Excused absence\", \"Unexcused absence\", \"Attendance policy\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances can a student be removed from classes, and how is such an absence classified?"
+    },
+    "4ac850292821ec4f079254ca32c0ad4f": {
+      "return": "**Removal from Classes: Circumstances and Classification**\n\nAccording to the provided knowledge base, a student can be removed from classes in the following circumstances:\n\n*   **Unjustified absence from 4 classes as part of the same form of classes in the selected subject covered by the study plan.** This implies that if a student fails to attend classes without a valid reason for 4 times within the same type of classes in a particular subject, they may be removed from the student register.\n\nThe absence is classified as **removal from the student register due to absence from compulsory classes.**\n\nThese circumstances are outlined in the provided text:\n\n> 7. Removal from the student register due to absence from compulsory classes occurs in the event of unjustified absence from 4 classes as part of the same form of classes in the selected subject covered by the study plan.\n\n**References**\n\n*   [KG] unknown_source (Section XI, Paragraph 7)\n*   [KG] unknown_source (Section XII, Paragraph 1)\n*   [KG] unknown_source (Section XII, Paragraph 3)\n*   [KG] unknown_source (Section XII, Paragraph 7)\n*   [KG] unknown_source (Section XII, Paragraph 9)",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances can a student be removed from classes, and how is such an absence classified?"
     }
   }
 }

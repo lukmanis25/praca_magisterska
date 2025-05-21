@@ -1,0 +1,2 @@
+cd praca_magisterska/praca_magisterska/method1_lightrag && \
+source venv/bin/activate

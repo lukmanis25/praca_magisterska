@@ -1,0 +1,27 @@
+Question:
+What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?
+
+Answer:
+According to the Knowledge Base, academic teachers are responsible for conducting classes and publishing subject cards. They are also responsible for marking semester papers, projects, reports, examination papers, and class tests.
+
+In relation to registering and monitoring student attendance, academic teachers are responsible for:
+
+* Keeping marked semester papers, projects, reports, examination papers, and class tests until the end of the subsequent semester.
+* Recording student results in the transcript of records.
+* Confirming student attendance in classes and subjects completed.
+* Exempting students from having to complete the same subjects, provided the learning outcomes of these subjects have not been changed.
+
+It is also mentioned that academic teachers may extend the duration of studies (extended study mode) for students who are winners of the "Gdańsk University of Technology Talent Scholarship" competition, allowing them to start studies with an individual study program from the first semester of studies.
+
+These responsibilities are mentioned in the following sources:
+
+* [KG] unknown_source (Section: "INDIVIDUAL STUDY PLAN AND CURRICULUM")
+* [KG] unknown_source (Section: "FINAL AND TRANSITIONAL PROVISIONS")
+* [KG] unknown_source (Section: "RULES FOR CHANGING THE FIELD OR FORM OF STUDY, OR UNIVERSITY")
+
+References:
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source

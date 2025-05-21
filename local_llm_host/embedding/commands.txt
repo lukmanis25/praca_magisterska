@@ -1,3 +1,6 @@
 pip install fastapi uvicorn sentence-transformers pydantic
 
+cd praca_magisterska/praca_magisterska/local_llm_host && \
+source venv/bin/activate && \
+cd embedding && \
 uvicorn embedding_server:app --host 127.0.0.1 --port 54321

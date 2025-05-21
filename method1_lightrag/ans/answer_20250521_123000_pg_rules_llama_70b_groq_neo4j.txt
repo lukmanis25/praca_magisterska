@@ -1,0 +1,17 @@
+Question:
+Under what circumstances can a student be removed from classes
+
+Answer:
+According to the provided Knowledge Base, a student can be removed from classes under the following circumstances:
+
+* If a student fails to submit their diploma thesis on time, they may be removed from the student register, as specified in paragraph 12 of the source with ID 0.
+* If a student is absent from an exam without a justified reason, they may miss one examination date, as specified in paragraph 9 of the source with ID 1.
+* If a student is absent from an exam due to illness, they may be eligible for an extension of the examination session, as specified in paragraph 10 of the source with ID 1.
+* If a student is absent from an exam due to another exam carried out in accordance with the study plan at Gdańsk University of Technology or by representing the university as part of various events, they may be eligible for an extension of the examination session, as specified in paragraph 10 of the source with ID 1.
+
+Please note that these circumstances may have specific requirements or procedures that must be followed, as outlined in the provided sources.
+
+References:
+
+* [KG] ID 0, file_path: unknown_source
+* [KG] ID 1, file_path: unknown_source

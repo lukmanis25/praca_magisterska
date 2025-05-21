@@ -1,0 +1,16 @@
+Question:
+What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?
+
+Answer:
+According to the Knowledge Base, academic teachers are responsible for conducting classes, providing information on consultation hours, and completing subject cards. However, there is no specific information provided about their responsibilities in relation to registering and monitoring student attendance during different types of classes.
+
+It is mentioned that students attend classes to earn credits and achieve learning outcomes, and that classes are academic courses that students attend and complete to earn credits. Additionally, students are required to attend classes during the semester, and academic activities during a semester include coursework and academic activities.
+
+Given the information available, it appears that academic teachers are responsible for teaching classes, but the specifics of their role in registering and monitoring student attendance are not clear. If you have any further questions or would like more information on a related topic, please let me know.
+
+References:
+- [KG] id: 0
+- [KG] id: 3
+- [KG] id: 61
+- [DC] id: 0
+- [DC] id: 1
