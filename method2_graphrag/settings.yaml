@@ -15,6 +15,7 @@ models:
     # max_retries: -1                   # set to -1 for dynamic retry logic (most optimal setting based on server response)
     # tokens_per_minute: 6000              # set to 0 to disable rate limiting
     # requests_per_minute: 30            # set to 0 to disable rate limiting
+    # concurrent_requests: 1
 
     #Prompt local
     api_base: http://localhost:65432/v1
@@ -23,7 +24,8 @@ models:
     max_retries: -1                   # set to -1 for dynamic retry logic (most optimal setting based on server response)
     tokens_per_minute: 0              # set to 0 to disable rate limiting
     requests_per_minute: 0            # set to 0 to disable rate limiting
-    
+    concurrent_requests: 5         # max number of simultaneous LLM requests allowed
+
     # api_version: 2024-05-01-preview
     auth_type: api_key # or azure_managed_identity
      # set this in the generated .env file
@@ -32,7 +34,6 @@ models:
     # deployment_name: <azure_model_deployment_name>
     encoding_model: cl100k_base # automatically set by tiktoken if left undefined
     model_supports_json: true # recommended if this is available for your model.
-    concurrent_requests: 1 # max number of simultaneous LLM requests allowed
     async_mode: threaded # or asyncio
     retry_strategy: native
 
@@ -48,7 +49,7 @@ models:
     # deployment_name: <azure_model_deployment_name>
     encoding_model: cl100k_base # automatically set by tiktoken if left undefined
     model_supports_json: true # recommended if this is available for your model.
-    concurrent_requests: 1 # max number of simultaneous LLM requests allowed
+    concurrent_requests: 5 # max number of simultaneous LLM requests allowed
     async_mode: threaded # or asyncio
     retry_strategy: native
     max_retries: -1                   # set to -1 for dynamic retry logic (most optimal setting based on server response)
@@ -158,6 +159,19 @@ drift_search:
   embedding_model_id: default_embedding_model
   prompt: "prompts/drift_search_system_prompt.txt"
   reduce_prompt: "prompts/drift_search_reduce_prompt.txt"
+  drift_k_followups: 3
+  primer_folds: 1
+  n_depth:  3
+  local_search_top_k_mapped_entities: 3
+  local_search_top_k_relationships: 3
+  local_search_top_p: 1
+  local_search_n: 1
+  primer_llm_max_tokens: 2000
+  reduce_max_tokens: 2000
+  reduce_max_completion_tokens: 2000
+  data_max_token: 2000
+  local_search_max_data_tokens: 2000
+  local_search_llm_max_gen_tokens: 2000
 
 basic_search:
   chat_model_id: default_chat_model
