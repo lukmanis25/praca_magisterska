@@ -1,0 +1,10 @@
+Read the text below and generate exactly 3 open-ended questions in English that are:
+Directly supported by this text only (do not rely on external or assumed context).
+Specific and detailed, based only on information present in this text.
+Single-part questions only: each question must ask about one specific thing, not multiple ideas combined.
+Avoid compound questions (e.g. using "and", "or", or combining causes with consequences).
+Use clear, academic language.
+
+For each question, provide a short, accurate expected answer based strictly on the content of this text. Do not infer or speculate.
+
+Text:

@@ -1,0 +1,140 @@
+IX. DIPLOMA AWARDING PROCESS
+§20
+The condition for completing studies and obtaining the diploma of completion of studies is: obtaining
+the learning outcomes and the number of ECTS points specified in the curriculum, passing the
+diploma examination and positive evaluation of the diploma thesis in the case of master’s degree and
+uniform master's studies, and in the case of bachelor’s degree studies if this is required by the study
+program.
+§ 21
+1. Master’s diploma theses are written by students under the guidance of supervisors. A supervisor may
+be a person with at least the title of a doctor. With the authorization of the faculty board, an
+engineering (inżynier) or bachelor’s (licencjant) diploma may be supervised by a person with the title
+of a master of engineering (magister inżynier) or a master of science (magister).
+2. The dean, in consultation with the faculty board, may allow for diploma theses to be written under the
+supervision of specialists from outside Gdańsk University of Technology.
+3. At the student's request, approved by the diploma thesis supervisor, the dean may consent to
+submitting the diploma thesis in the form of an article published or accepted for publication in a peerreviewed journal or post-conference materials (in accordance with the current ministerial list for a
+minimum of 100 points), related to learning outcomes achieved in a given field, level and profile of
+studies. Additionally, the students is required to submit a self-report. In the case of multi-authored
+publications, the diploma student should be the first author.
+4. Only the persons who fulfill the requirements for a diploma thesis supervisor as defined in paragraph 1
+and 2 may become reviewers of diploma theses (depending on the level of study). The reviewer of the
+work referred to in paragraph 3 cannot be a co-author of the article.
+5. Collective diploma theses have to be issued jointly. Contributions of individual students to such theses
+need to be clearly distinguished. The supervisor and reviewer are obliged to write separate opinions
+and reviews for each individual author of a collective diploma thesis.
+6. Details of the procedure for awarding diplomas are provided for in faculty guidelines, confirmed by the
+faculty board and consultation with the Student Government at the faculty.
+7. Subjects of diploma theses for bachelor’s degree studies and master’s degree studies are announced
+in “Moja PG” at least ten months before the end of the diploma semester.
+8. The diploma thesis is checked before being credited in terms of the original nature of the work,
+including the use of the Unified Anti-plagiarism System. The principles of verification and acceptance
+of diploma theses at Gdańsk University of Technology are specified in the university procedure nr 3.
+9. A diploma thesis is considered to be successfully submitted when the following conditions are fulfilled
+jointly:
+1) the student submits a declaration of independent completion of the diploma thesis
+2) the diploma thesis is uploaded with attachments to the university repository of written diploma
+theses using the “MojaPG”, university system,
+3) the thesis supervisor approves the thesis and sends it for review.
+10. The date of effective submission of the diploma thesis is the date of approval of the thesis by the
+diploma thesis supervisor and sending it for review.
+11. The student shall submit the diploma thesis approved by the thesis supervisor in electronic form not
+later than:
+1) by the first day of the basic examination session in the diploma semester – for bachelor’s degree
+studies,
+2) by 30 April – for master’s degree studies ending in the winter semester,
+3) by 30 September – for master’s degree studies ending in the summer semester.
+12. A student who has been registered for a diploma semester of second-cycle studies but does not
+submit a diploma thesis on time shall be removed from the student register, within the deadline
+provided for in these rules. Upon a written application of the student, who has passed all subjects
+except the diploma thesis, after consulting the thesis supervisor, the dean may extend the deadline for
+submitting the diploma thesis in exceptional cases.
+13. Submission of a master’s diploma thesis by a student who has been removed from the student’s
+register and has subsequently been reinstated as a student shall be treated as a repetition of the
+course ‘Master’s diploma thesis’ in the diploma semester.
+14. The supervisor and the reviewer prepare reviews in the “Moja PG” system within 14 days from the
+moment of submitting the paper for review.
+15. Depending on the adopted faculty diploma rules, pursuant to paragraph 6, the final grade of the
+master diploma thesis, engineering diploma project, engineering diploma thesis or bachelor diploma
+thesis is the average of the positive grades given by:
+1) the supervisor and the reviewer,
+2) issued by the commission,
+rounded up pursuant to §16(1), based on the table below:
+c – arithmetic
+mean
+3,00 ≤c<3,25 3,25≤c<3,75 3,75≤c<4,25 4,25≤c<4,75 4,75≤c
+in written form satisfactory satisfactory
+plus
+good good plus very good
+16. If the assessment is negative, the dean will appoint an additional reviewer or a commission (grading
+commission) to assess the thesis in question. The negative reassessment is final.
+§22
+1. The diploma examination at master’s degree studies may be open at the student's request submitted
+to the dean, not later than on the day of submission of the diploma thesis, or in accordance with the
+conditions specified in the faculty diploma rules.
+2. Information regarding an open diploma examination shall be posted on the faculty internet site not
+later than seven days before the diploma examination is due to take place, and shall include the
+names of the examination committee members, the time and place where the examination is to be
+held, the full name of the student taking the examination and the subject of the diploma thesis.
+3. An open diploma examination comprises an open and closed part. During the open part the student
+presents the diploma thesis and answers questions concerning this thesis. During the closed part the
+student answers questions regarding their studies, in front of the members of the examination
+committee only.
+§ 23
+1. In order to be admitted to the diploma examination it is a prerequisite to complete all the semesters in
+accordance with the curriculum, including obligatory training courses and internships, obtaining ECTS
+credits as provided for in the study program of a given course, as well as in the case of master’s
+degree studies obtaining a positive evaluation of the diploma thesis.
+2. The dean or a person authorized by the dean decides on the date and time of the diploma
+examination and appoints the examination committee members.
+3. Students are informed of the date and time of the diploma examination through their individual “Moja
+PG” account, at least seven days before the examination is due to take place.
+4. The chairperson of the diploma examination committee should be the dean or an academic teacher
+who holds the title of a professor, or a university professor.
+5. The chairperson of the examination committee in the case of the bachelor’s degree studies may also
+be an academic teacher holding the title of docent.
+6. The diploma examination takes place within two months from the date of fulfillment of the conditions
+referred to in paragraph 1.
+§24
+1. The diploma examination is an oral examination which is assessed in accordance with the scale 
+defined in §16(1), and then rounded to binding grades.
+2. The diploma examination includes at least three questions concerning the subjects studied, with the
+details of the examination established in compliance with the faculty rules, confirmed by the faculty
+board after consultation with Gdańsk Tech Student Government at the faculty.
+3. Negative evaluation of any of the answers to the examination questions requires repetition of the
+diploma examination.
+4. The diploma examination may only be repeated once.
+§ 25
+1. University graduates receive diplomas that confirm completion of higher education and certify
+obtaining a particular professional title.
+2. The final results of bachelor’s degree studies are calculated with accuracy
+to the nearest two decimal places after the decimal point, in accordance with the following formula:
+w = 0,8a + 0,2c
+where:
+a – is the final weighted grade average in accordance with the rules stipulated in §16,
+c – is a positive grade for the diploma examination.
+3. The final results of master’s degree studies are calculated with accuracy to the nearest two decimal
+places after the decimal point, in accordance with the following formula:
+w = 0,6a + 0,3b + 0,1c
+where:
+a – is the final weighted grade average in accordance with the rules stipulated in §16,
+b – is a positive grade for the diploma thesis,
+c – is a positive grade for the diploma examination.
+The final result of studies (paragraph 2 and 3) is entered in the diploma in accordance with the
+following credit scale:
+Credit scale Final grade for studies
+w ≥ 4,50 very good
+4,10 ≤ w < 4,50 good plus
+3,70 ≤ w < 4,10 good
+3,30 ≤ w < 3,70 satisfactory plus
+3,00≤ w < 3,30 satisfactory
+4. In justified cases, the diploma examination committee may raise the final grade calculated in
+accordance with paragraphs 2 or 3 by half a grade.
+5. Under the conditions defined in §31 a graduation diploma with distinction can be issued.
+6. Before receiving their diplomas, graduates should discharge all their obligations to Gdańsk University
+of Technology.
+7. Diploma candidates who fail to appear at the diploma examination for justified reasons or receive an
+unsatisfactory grade may take the same diploma examination within two months of the initial
+examination date.
+8. A diploma candidate who received an unsatisfactory grade on the second diploma exam, is removed
+from the student register, pursuant to §26(1)(3).
