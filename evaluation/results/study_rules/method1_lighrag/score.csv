@@ -1,0 +1,185 @@
+user_input,response,reference,answer_correctness,answer_relevancy
+What is the procedure and timeline for a student to apply for a transfer from another university to Gdańsk University of Technology?,"**Procedure for Transfer from Another University to Gdańsk University of Technology**
+
+According to the provided Knowledge Base, a student can transfer from another university to Gdańsk University of Technology upon the consent of a person authorized by the rector. The procedure involves submitting a transfer application not later than one month before the beginning of the subsequent semester.
+
+**Timeline for Transfer Application**
+
+The student must submit a transfer application within the specified timeframe, which is one month before the beginning of the subsequent semester. This allows the university to process the application and make necessary arrangements for the student's transfer.
+
+**Required Steps for Transfer**
+
+After the transfer application is approved, the student is required to take the following steps:
+
+1.  Take an oath, pursuant to the Statute of Gdańsk University of Technology.
+2.  Sign the contract referred to in §9(1)(4) of these rules.
+3.  Undergo training courses referred to in §3(6).
+
+**Refusal of Transfer**
+
+Refusal to transfer the student from another university is an administrative decision.
+
+**Recognition of Learning Outcomes**
+
+The detailed rules for the transfer and recognition of learning outcomes when changing the field of study, faculty, and university are provided for in university procedure No. 11.
+
+**References**
+
+*   [KG] page 5, file_path: ""unknown_source""
+*   [KG] page 4, file_path: ""unknown_source""
+*   [KG] page 16, file_path: ""unknown_source""
+*   [KG] page 17, file_path: ""unknown_source""
+*   [KG] page 18, file_path: ""unknown_source""","A student may transfer from another university to Gdańsk University of Technology with the consent of a person authorized by the rector, and the transfer can only occur after the end of a semester. The application for transfer must be submitted no later than one month before the beginning of the subsequent semester. Upon approval, the student must take an oath, sign a contract as per §9(1)(4), and undergo specified training courses.",0.7663525264117097,0.9287772509211806
+What types of training are students required to complete during the first semester of studies at Gdańsk University of Technology?,"**Training Requirements for First Semester Students**
+
+During the first semester of studies at Gdańsk University of Technology, students are required to complete various types of training. These include:
+
+* Health and safety training
+* Library training
+* Study rules training
+* Training on the use of the 'Moja PG' system
+* Preparation for participation in classes conducted using distance learning methods and techniques
+
+These training sessions are mandatory for all first-semester students, and they aim to ensure that students are well-prepared for their academic journey at Gdańsk University of Technology.
+
+**References**
+
+* [KG] unknown_source (Section III, §4, Paragraph 6)
+* [KG] unknown_source (Section III, §4, Paragraph 7)
+* [KG] unknown_source (Section III, §4, Paragraph 8)
+* [KG] unknown_source (Section III, §4, Paragraph 9)
+* [KG] unknown_source (Section III, §4, Paragraph 10)","Students are required to complete training in health and safety, library use, study rules, the use of the ""Moja PG"" system, and preparation for participation in classes conducted using distance learning methods and techniques.",0.7390270661822752,0.9313481454768427
+How does Gdańsk University of Technology define the process and limitations of confirming learning outcomes for admission?,"Confirming learning outcomes for admission at Gdańsk University of Technology is a process that allows students to transfer credits from another university. According to the university's rules, this process is conducted by a committee appointed by the rector.
+
+The learning outcomes are confirmed in the scope corresponding to the learning outcomes specified in the curriculum. As a result of confirming the learning outcomes, no more than 50% of ECTS credits assigned to the classes included in the study program may be credited.
+
+The order of admission is determined by the result of learning outcome confirmation. The dean may appoint a tutor for the student accepted for studies as a result of confirming the learning outcomes.
+
+Detailed rules regarding confirmation of learning outcomes at Gdańsk University of Technology are set out in separate regulations.
+
+**References**
+
+* [KG] source_id: 102
+* [KG] source_id: 103
+* [DC] source_id: 0, file_path: ""unknown_source""
+* [DC] source_id: 1, file_path: ""unknown_source""
+* [KG] source_id: 104","Confirmation of learning outcomes is conducted by a committee appointed by a person authorized by the rector, and learning outcomes must correspond to those specified in the curriculum. No more than 50% of ECTS credits assigned to the study program may be credited through this process, and the order of admission is determined by the confirmation results. The dean may appoint a tutor for the student, and further details are outlined in separate regulations.",0.7215045261932612,0.9231469267662781
+What are the responsibilities of the Faculty Student Council as outlined in the regulations of the Gdańsk Tech Student Government?,"The Faculty Student Council is a representative body that represents students' interests. According to the regulations of the Gdańsk Tech Student Government, the Faculty Student Council has the responsibility to initiate activities aimed at improving studying conditions.
+
+This information can be found in the relationships between entities in the Knowledge Base, specifically in the relationship between ""Faculty Student Council"" and ""Gdańsk Tech Student Government"".
+
+Please note that the specific responsibilities of the Faculty Student Council may be outlined in more detail in other sections of the regulations, but this is the general information available in the Knowledge Base.
+
+References:
+- [KG] relationships between ""Faculty Student Council"" and ""Gdańsk Tech Student Government""","The Faculty Student Council is responsible for representing students before faculty bodies, providing opinions on decisions regarding student affairs as specified in the Student Government regulations, and supporting initiatives aimed at improving the quality of education and student life at the faculty.",0.552258989538494,0.7724365878687908
+Under what circumstances can classes from the study program planned in Polish be conducted in a foreign language?,"Based on the provided Knowledge Base, I was unable to find specific information regarding the circumstances under which classes from the study program planned in Polish can be conducted in a foreign language. However, I can provide some related information.
+
+According to the provided Knowledge Base, students pursuing individual study plans or curriculums are obliged to follow Study Rules, including the deadlines specific to their study plans (Source: [KG] unknown_source, id: 11).
+
+Additionally, the Knowledge Base mentions that students may be exempted from having to complete the same subjects, provided the learning outcomes of these subjects have not been changed, and the final decision in this matter is made by the academic teacher conducting classes in the particular subject (Source: [KG] unknown_source, id: 3).
+
+It is also mentioned that the dean may allow for diploma theses to be written under the supervision of specialists from outside Gdańsk University of Technology, but this does not provide specific information about conducting classes in a foreign language (Source: [KG] unknown_source, id: 21).
+
+I recommend consulting the official website of Gdańsk University of Technology or contacting their administration directly for more detailed and accurate information regarding this topic.
+
+References:
+- [KG] unknown_source, id: 11
+- [KG] unknown_source, id: 3
+- [KG] unknown_source, id: 21","Such classes may be conducted in a foreign language if they are offered or co-offered by academic teachers and specialists from abroad, or if international students attend the classes. The language of credits in these cases is determined in consultation with the Group Representative.",0.1413759030301322,0.0
+What procedures must academic teachers follow for publishing and updating subject cards in the ‘Moja PG’ system and ECTS catalog?,"According to the Knowledge Base, academic teachers responsible for conducting classes and publishing subject cards are required to complete the ECTS catalog.
+
+Here are the relevant procedures:
+
+**Publishing Subject Cards in the ECTS Catalog**
+
+* Academic teachers are responsible for publishing subject cards in the ECTS catalog.
+* Subject cards include information such as subject assumptions and objectives, learning outcomes, ECTS credits, prerequisites, forms of classes, methods and means of verifying learning outcomes, curriculum, list of essential and supplementary literature, rules of obtaining credits, and the name of the academic teacher responsible for the subject.
+
+**Updating Subject Cards in the ECTS Catalog**
+
+* Academic teachers are responsible for updating subject cards in the ECTS catalog.
+* The ECTS catalog is completed by academic teachers responsible for conducting classes and publishing subject cards.
+
+**Procedure for Updating Subject Cards**
+
+* Academic teachers must follow the rules and regulations defined by the dean for updating subject cards.
+* The dean may appoint tutors for students pursuing individual curricula, and the tutor may also be responsible for updating subject cards.
+
+**Procedure for Publishing and Updating Subject Cards**
+
+* Academic teachers must complete the ECTS catalog by publishing and updating subject cards.
+* The ECTS catalog is a platform for publishing subject cards and study plans.
+
+**References**
+
+* [KG] ""Academic Teacher|>\""The ECTS catalog is completed by academic teachers responsible for conducting classes and publishing subject cards.\"""" file_path: unknown_source
+* [KG] ""ECTS Catalog"" file_path: unknown_source
+* [KG] ""Subject card"" file_path: unknown_source
+* [KG] ""Moja PG system"" file_path: unknown_source
+* [KG] ""Rector of Gdańsk University of Technology"" file_path: unknown_source","Academic teachers complete subject cards in the ‘Moja PG’ portal, and the ECTS catalog coordinator publishes them in the ECTS catalog. For subjects in the curriculum, publication must occur within 14 days of study program adoption. For optional subjects, cards must be published no later than 14 days before student registration. Updates to subject cards during the learning cycle are allowed, subject to the same provisions.",0.4232264100178663,0.7963077871833328
+What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?,"According to the Knowledge Base, academic teachers are responsible for marking semester papers, projects, reports, examination papers, and class tests. Additionally, they are involved in the following processes related to student attendance and registration:
+
+*   Academic teachers are responsible for keeping marked semester papers, projects, reports, examination papers, and class tests until the end of the subsequent semester.
+*   They are involved in the process of assigning ECTS credits to individual subjects, taking into account the rector's regulation on the rules of adopting study plans and curriculums at Gdańsk University of Technology.
+*   Academic teachers may be required to compensate for differences in curriculum resulting from changes that occurred in the study program during a student's leave.
+
+In terms of registering and monitoring student attendance, academic teachers are not explicitly mentioned in the provided Knowledge Base. However, it can be inferred that they play a role in the process of student registration and attendance monitoring, possibly through the ""Moja PG"" system.
+
+References:
+
+*   [KG] unknown_source (Section 3, paragraph 1)
+*   [KG] unknown_source (Section 3, paragraph 3)
+*   [KG] unknown_source (Section XIII, paragraph 2)
+*   [KG] unknown_source (Section XIV, paragraph 4)
+*   [KG] unknown_source (Section XVI, paragraph 4)","Academic teachers must register student attendance in classes, laboratory and project work, seminars, workshops, foreign language, and physical education classes. They may also monitor attendance during lectures.",0.23601512258290824,0.5315544531123665
+"Under what circumstances can a student be removed from classes, and how is such an absence classified?","**Removal from Classes**
+
+According to the provided knowledge base, a student can be removed from classes in the following circumstances:
+
+* **Unjustified absence from compulsory classes**: A student may be removed from the student register if they are absent from 4 classes as part of the same form of classes in the selected subject covered by the study plan.
+* **Failure to submit a registration application**: If a student fails to submit a registration application, as provided for in §28(9).
+* **Lack of progress in studies**: Students who have been registered and fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies.
+
+**Classification of Absence**
+
+The absence of a student from classes can be classified as follows:
+
+* **Sick leave**: A student may take a sick leave due to illness or injury.
+* **Pregnant student leave**: A student may take a pregnant student leave during their pregnancy.
+* **Parent leave**: A student may take a parent leave for childcare responsibilities.
+* **Leave of absence**: A student can take one semester or one year off, except for paragraphs 2 and 3.
+
+Please note that the specific classification of absence may depend on the circumstances and the decision made by the dean.
+
+**References**
+
+* [KG] unknown_source (Section XI, §27)
+* [KG] unknown_source (Section XII, §28)
+* [KG] unknown_source (Section XV, §35)
+* [KG] unknown_source (Section XVI)
+* [KG] unknown_source (Section XVII)","A student can be removed from classes if their behavior threatens the life or health of others or disrupts the course; in such cases, the absence is considered unjustified.",0.2683419168070304,0.9355410745399526
+"How is the weighted average grade calculated, and which courses are excluded from this calculation?","**Calculation of Weighted Average Grade**
+
+According to the provided knowledge base, the weighted average grade is calculated as the average of the positive grades given by the supervisor and the reviewer, as well as the grade issued by the commission. The grades are rounded up based on the table below:
+
+| Grade | Description |
+| --- | --- |
+| c | arithmetic mean |
+| 3.00 ≤ c < 3.25 | satisfactory |
+| 3.25 ≤ c < 3.75 | satisfactory plus |
+| 3.75 ≤ c < 4.25 | good |
+| 4.25 ≤ c | very good |
+
+**Courses Excluded from Calculation**
+
+The knowledge base does not explicitly mention which courses are excluded from the weighted average grade calculation. However, it is mentioned that the condition for completing studies and obtaining the diploma of completion of studies is: obtaining the learning outcomes and the number of ECTS points specified in the curriculum, passing the diploma examination, and positive evaluation of the diploma thesis in the case of master's degree and uniform master's studies.
+
+**References**
+
+* [KG] file_path: ""unknown_source""
+* [KG] file_path: ""unknown_source""
+* [KG] file_path: ""unknown_source""
+* [DC] file_path: ""unknown_source""
+* [DC] file_path: ""unknown_source""
+
+Note: The references section will be updated once the file paths are available.",The weighted average grade is calculated by dividing the sum of each subject's grade multiplied by its ECTS credits by the total ECTS credits. Courses without assigned ECTS credits or passed without a grade are excluded from this calculation.,0.1814253342196327,0.9956166475985192

@@ -1,9 +1,8 @@
-cd praca_magisterska/praca_magisterska/evaluation && \
-source venv/bin/activate
-
 0. Generate question.txt
 1. Init test set
 
+cd praca_magisterska/praca_magisterska/evaluation && \
+source venv/bin/activate && \
 python init_test_set.py
 
 2. Fill in answers
@@ -13,3 +12,6 @@ cd ../../.. && \
 cd praca_magisterska/praca_magisterska/method1_lightrag && \
 source venv/bin/activate && \
 python fill_test_set.py
+
+
+3. Calc metrics (set correct env) - run in evaluate.ipynb notebook
