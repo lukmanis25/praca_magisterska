@@ -1,0 +1,23 @@
+Question:
+What procedures must academic teachers follow for publishing and updating subject cards in the ‘Moja PG’ system and ECTS catalog?
+
+Answer:
+**Publishing and Updating Subject Cards in the 'Moja PG' System and ECTS Catalog**
+
+According to the knowledge base, academic teachers are responsible for publishing subject cards in the ECTS catalog. However, there is limited information available about the specific procedures they must follow for publishing and updating subject cards in the 'Moja PG' system and ECTS catalog.
+
+**Procedure for Publishing Subject Cards**
+
+The knowledge base mentions that academic teachers are responsible for conducting classes and publishing subject cards. However, it does not provide detailed information about the procedures they must follow for publishing subject cards.
+
+**Procedure for Updating Subject Cards**
+
+Similarly, the knowledge base does not provide information about the procedures academic teachers must follow for updating subject cards in the ECTS catalog or the 'Moja PG' system.
+
+**References**
+
+* [KG] unknown_source (Relationships: Academic Teacher|>\"The ECTS catalog is completed by academic teachers responsible for conducting classes and publishing subject cards.\")
+* [KG] unknown_source (Relationships: Academic Teacher|>\"The ECTS catalog is completed by academic teachers responsible for conducting classes and publishing subject cards.\")
+* [KG] unknown_source (Entities: Academic Teacher, type: person, description: teaching responsibilities, curriculum management)
+* [KG] unknown_source (Entities: ECTS Catalog, type: geo, description: The ECTS catalog is a platform for publishing subject cards and study plans.)
+* [KG] unknown_source (Entities: Moja PG System, type: category, description: Moja PG System is an online platform for students to manage their academic affairs.)

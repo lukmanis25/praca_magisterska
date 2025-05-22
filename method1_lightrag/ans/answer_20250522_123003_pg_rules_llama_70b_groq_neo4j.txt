@@ -1,0 +1,12 @@
+Question:
+What are the responsibilities of the Faculty Student Council as outlined in the regulations of the Gdańsk Tech Student Government?
+
+Answer:
+The Faculty Student Council is a representative body that represents students' interests. According to the regulations of the Gdańsk Tech Student Government, the Faculty Student Council has the responsibility to initiate activities aimed at improving studying conditions.
+
+This information can be found in the relationships between entities in the Knowledge Base, specifically in the relationship between "Faculty Student Council" and "Gdańsk Tech Student Government".
+
+Please note that the specific responsibilities of the Faculty Student Council may be outlined in more detail in other sections of the regulations, but this is the general information available in the Knowledge Base.
+
+References:
+- [KG] relationships between "Faculty Student Council" and "Gdańsk Tech Student Government"

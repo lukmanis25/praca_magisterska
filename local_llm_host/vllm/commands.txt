@@ -4,4 +4,4 @@ pip install bitsandbytes>=0.45.3
 
 cd praca_magisterska/praca_magisterska/local_llm_host && \
 source venv/bin/activate && \
-python -m vllm.entrypoints.openai.api_server --model ~/.cache/huggingface/hub/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659 --quantization bitsandbytes  --api_key token-abc123 --max-model-len 15000 --max_num_seqs=8 --port 65432 --kv-cache-dtype fp8
+python -m vllm.entrypoints.openai.api_server --model ~/.cache/huggingface/hub/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659 --quantization bitsandbytes  --api_key token-abc123 --max-model-len 16000 --max_num_seqs=2 --port 65432 --kv-cache-dtype fp8 --compilation-config 3

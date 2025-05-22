@@ -256,104 +256,131 @@
     }
   },
   "hybrid": {
-    "dca8a5a45c16eb78c5ceeea4753a27ab": {
-      "return": "{\"high_level_keywords\": [\"Student\"], \"low_level_keywords\": [\"Education\", \"Academia\", \"Learning\"]}",
+    "784052dc1bb5367d6ce353c4687dd89d": {
+      "return": "{\"high_level_keywords\": [\"University transfer\", \"Admission procedure\", \"Higher education\", \"Academic process\"], \"low_level_keywords\": [\"Application form\", \"Transcript records\", \"Language proficiency\", \"Student visa\", \"Gda\\u0144sk University of Technology\", \"Transfer semester\", \"Enrollment requirements\"]}",
       "cache_type": "keywords",
       "embedding": null,
       "embedding_shape": null,
       "embedding_min": null,
       "embedding_max": null,
-      "original_prompt": "who is student"
+      "original_prompt": "What is the procedure and timeline for a student to apply for a transfer from another university to Gdańsk University of Technology?"
     },
-    "39dba147021b4d591ff5be65215c5fe5": {
-      "return": "{\"high_level_keywords\": [\"Education\", \"University\", \"Graduation\"], \"low_level_keywords\": [\"Students\", \"Diploma\", \"Degree\", \"Academic requirements\", \"Higher education\"]}",
-      "cache_type": "keywords",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "How students can graduate from university?"
-    },
-    "094283aa7bf35b40eddeefbc216d24a4": {
-      "return": "{\"high_level_keywords\": [\"Education\", \"Graduation\", \"Students\"], \"low_level_keywords\": [\"School graduation\", \"Diploma\", \"High school\", \"College degree\", \"Academic requirements\"]}",
-      "cache_type": "keywords",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "How students can graduate from school"
-    },
-    "fe19d16a07c60cc57a489bcdc4b4d01f": {
-      "return": "{\"high_level_keywords\": [\"Academic writing\", \"Research\", \"Education\"], \"low_level_keywords\": [\"Dissertation\", \"Paper\", \"Student\", \"University\", \"Research paper\"]}",
-      "cache_type": "keywords",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "What is thesis"
-    },
-    "a273e2c024831a47a7beecf7aa89193a": {
-      "return": "To graduate from Gdańsk University of Technology, students need to complete their studies and meet certain requirements. The process involves several steps:\n\n*   Completing all the semesters in accordance with the curriculum, including obligatory training courses and internships, and obtaining ECTS credits as provided for in the study program of a given course.\n*   Obtaining a positive evaluation of the diploma thesis in the case of master's degree and uniform master's studies, and in the case of bachelor's degree studies if this is required by the study program.\n*   Passing the diploma examination, which includes an open and closed part, and is assessed in accordance with the scale defined in §16(1), and then rounded to binding grades.\n*   Receiving a positive grade for the diploma thesis, which is a research project required for graduation, written in a foreign language if permitted.\n*   Meeting the credit point system rules, including the condition for registration for subsequent semesters, which is the credit point deficit not exceeding 12 ECTS credits counted to the semester for which the registration is conducted.\n\nUpon meeting these requirements, students will be awarded a diploma that confirms completion of higher education and certifies obtaining a particular professional title.\n\nReferences:\n\n*   [KG] unknown_source\n*   [KG] unknown_source\n*   [KG] unknown_source\n*   [KG] unknown_source\n*   [KG] unknown_source",
+    "25dcbfb4e0bf7111258d485ec8daadb6": {
+      "return": "**Procedure for Transfer from Another University to Gdańsk University of Technology**\n\nAccording to the provided Knowledge Base, a student can transfer from another university to Gdańsk University of Technology upon the consent of a person authorized by the rector. The procedure involves submitting a transfer application not later than one month before the beginning of the subsequent semester.\n\n**Timeline for Transfer Application**\n\nThe student must submit a transfer application within the specified timeframe, which is one month before the beginning of the subsequent semester. This allows the university to process the application and make necessary arrangements for the student's transfer.\n\n**Required Steps for Transfer**\n\nAfter the transfer application is approved, the student is required to take the following steps:\n\n1.  Take an oath, pursuant to the Statute of Gdańsk University of Technology.\n2.  Sign the contract referred to in §9(1)(4) of these rules.\n3.  Undergo training courses referred to in §3(6).\n\n**Refusal of Transfer**\n\nRefusal to transfer the student from another university is an administrative decision.\n\n**Recognition of Learning Outcomes**\n\nThe detailed rules for the transfer and recognition of learning outcomes when changing the field of study, faculty, and university are provided for in university procedure No. 11.\n\n**References**\n\n*   [KG] page 5, file_path: \"unknown_source\"\n*   [KG] page 4, file_path: \"unknown_source\"\n*   [KG] page 16, file_path: \"unknown_source\"\n*   [KG] page 17, file_path: \"unknown_source\"\n*   [KG] page 18, file_path: \"unknown_source\"",
       "cache_type": "query",
       "embedding": null,
       "embedding_shape": null,
       "embedding_min": null,
       "embedding_max": null,
-      "original_prompt": "How students can graduate from school"
+      "original_prompt": "What is the procedure and timeline for a student to apply for a transfer from another university to Gdańsk University of Technology?"
     },
-    "e1947f16865438f63dbc638b767f236e": {
-      "return": "{\"high_level_keywords\": [\"Education\", \"Student roles\", \"Responsibilities\"], \"low_level_keywords\": [\"Homework\", \"Class attendance\", \"Extracurricular activities\", \"Study habits\", \"Academic performance\"]}",
+    "1033ddcc91a7f24573238f77572a4c11": {
+      "return": "{\"high_level_keywords\": [\"Education\", \"Training\", \"Studies\"], \"low_level_keywords\": [\"Gda\\u0144sk University of Technology\", \"Semester\", \"Students\", \"Required\"]}",
       "cache_type": "keywords",
       "embedding": null,
       "embedding_shape": null,
       "embedding_min": null,
       "embedding_max": null,
-      "original_prompt": "What are the responsibilities of a student?"
+      "original_prompt": "What types of training are students required to complete during the first semester of studies at Gdańsk University of Technology?"
     },
-    "260e03b6e2ba8725f02c74961a58aed4": {
-      "return": "According to the provided Knowledge Base, a student's responsibilities include:\n\n* Completing coursework and academic activities during semesters\n* Participating in academic activities during a semester\n* Attending classes during the semester\n* Submitting a diploma thesis as part of their studies\n* Participating in academic activities during an academic year\n* Following the rules and regulations of the university\n* Submitting registration applications to enroll in a course of study\n* Completing subjects to earn credits and achieve learning outcomes\n* Attending classes to earn credits\n* Pursuing individual research studies, including individual -interdisciplinary studies\n* Participating in industrial research internships as part of their academic program\n* Paying fees for their academic studies\n* Taking a leave of absence from their academic studies if needed\n\nThese responsibilities are outlined in various relationships and sources within the Knowledge Base, including:\n\n* Relationship \"Students\" -> \"Subjects\" with description \"Students complete subjects to earn credits and achieve learning outcomes.\"\n* Source \"§18\" with content \"Student registration for subsequent semesters is based on the student’s academic progress measured by the number of awarded ECTS credits and on the condition of passing the obligatory training courses referred to in §3(6).\"\n* Source \"§17\" with content \"Students may take an individual study plan or curriculum based on the rules defined by the dean.\"\n\nReferences:\n* [KG] §18\n* [KG] §17\n* [KG] Relationship \"Students\" -> \"Subjects\"\n* [KG] Source \"§18\"\n* [KG] Source \"§17\"",
+    "5856bfb5b7f07b5daee6368487cc9100": {
+      "return": "**Training Requirements for First Semester Students**\n\nDuring the first semester of studies at Gdańsk University of Technology, students are required to complete various types of training. These include:\n\n* Health and safety training\n* Library training\n* Study rules training\n* Training on the use of the 'Moja PG' system\n* Preparation for participation in classes conducted using distance learning methods and techniques\n\nThese training sessions are mandatory for all first-semester students, and they aim to ensure that students are well-prepared for their academic journey at Gdańsk University of Technology.\n\n**References**\n\n* [KG] unknown_source (Section III, §4, Paragraph 6)\n* [KG] unknown_source (Section III, §4, Paragraph 7)\n* [KG] unknown_source (Section III, §4, Paragraph 8)\n* [KG] unknown_source (Section III, §4, Paragraph 9)\n* [KG] unknown_source (Section III, §4, Paragraph 10)",
       "cache_type": "query",
       "embedding": null,
       "embedding_shape": null,
       "embedding_min": null,
       "embedding_max": null,
-      "original_prompt": "What are the responsibilities of a student?"
+      "original_prompt": "What types of training are students required to complete during the first semester of studies at Gdańsk University of Technology?"
     },
-    "ed66ae347a5ce7d8d6a99ce24ec26499": {
-      "return": "{\"high_level_keywords\": [\"Education technology\", \"Student engagement\", \"Learning management system\"], \"low_level_keywords\": [\"Moja PG\", \"Student portal\", \"Grade tracking\", \"Assignment submission\", \"Student feedback\"]}",
+    "2f2e8c57dddc54e67423a467810426b1": {
+      "return": "{\"high_level_keywords\": [\"Admission process\", \"Learning outcomes\", \"Higher education\"], \"low_level_keywords\": [\"Gda\\u0144sk University of Technology\", \"Admission requirements\", \"Learning assessment\", \"Academic standards\", \"Degree requirements\"]}",
       "cache_type": "keywords",
       "embedding": null,
       "embedding_shape": null,
       "embedding_min": null,
       "embedding_max": null,
-      "original_prompt": "What is the purpose of the “Moja PG” system, and how is it used by students?"
+      "original_prompt": "How does Gdańsk University of Technology define the process and limitations of confirming learning outcomes for admission?"
     },
-    "b6038a839d2e5e28806fdf0c7aad9535": {
-      "return": "The \"Moja PG\" system is an online platform used by Gdańsk University of Technology for student information, registration, and application submission. It is also used for tracking student progress, grades, and learning outcomes.\n\nAccording to the relationships in the Knowledge Base, students use the Moja PG system to manage their academic affairs, including:\n\n* Tracking their progress and grades\n* Accessing information and resources\n* Submitting diploma theses\n* Receiving notifications and accessing their accounts\n* Managing their individual study plans and academic activities\n\nThe system is designed to provide students with a comprehensive overview of their academic status, allowing them to stay organized and on top of their coursework.\n\nHere are some key points about the Moja PG system:\n\n* Students can access their individual accounts in the Moja PG system to view their grades, learning outcomes, and other academic information.\n* The system allows students to submit their diploma theses and receive feedback from instructors.\n* Moja PG is also used for tracking student progress and grades, enabling students to monitor their academic performance.\n* The system provides students with access to information and resources related to their courses and academic programs.\n* Students can use Moja PG to communicate with instructors and other university staff regarding their academic affairs.\n\nOverall, the Moja PG system plays a crucial role in supporting students' academic success and providing them with the tools and resources needed to navigate their academic journey.\n\nReferences:\n\n* [KG] \"0\" from Relationships\n* [KG] \"12\" from Relationships\n* [KG] \"16\" from Relationships\n* [KG] \"20\" from Relationships\n* [KG] \"37\" from Relationships",
+    "7411a72326b011e6730c09f2d2779d72": {
+      "return": "Confirming learning outcomes for admission at Gdańsk University of Technology is a process that allows students to transfer credits from another university. According to the university's rules, this process is conducted by a committee appointed by the rector.\n\nThe learning outcomes are confirmed in the scope corresponding to the learning outcomes specified in the curriculum. As a result of confirming the learning outcomes, no more than 50% of ECTS credits assigned to the classes included in the study program may be credited.\n\nThe order of admission is determined by the result of learning outcome confirmation. The dean may appoint a tutor for the student accepted for studies as a result of confirming the learning outcomes.\n\nDetailed rules regarding confirmation of learning outcomes at Gdańsk University of Technology are set out in separate regulations.\n\n**References**\n\n* [KG] source_id: 102\n* [KG] source_id: 103\n* [DC] source_id: 0, file_path: \"unknown_source\"\n* [DC] source_id: 1, file_path: \"unknown_source\"\n* [KG] source_id: 104",
       "cache_type": "query",
       "embedding": null,
       "embedding_shape": null,
       "embedding_min": null,
       "embedding_max": null,
-      "original_prompt": "What is the purpose of the “Moja PG” system, and how is it used by students?"
+      "original_prompt": "How does Gdańsk University of Technology define the process and limitations of confirming learning outcomes for admission?"
     },
-    "fcd67edea6ba805dbea76fb11a9f0f53": {
-      "return": "{\"high_level_keywords\": [\"Thesis\", \"Academic writing\", \"Research\"], \"low_level_keywords\": [\"Dissertation\", \"Proposal\", \"Argumentation\", \"Methodology\", \"Literature review\"]}",
+    "5c9aa5c10aace7b8cf20d55c00cadc02": {
+      "return": "{\"high_level_keywords\": [\"Responsibilities\", \"Student Government\", \"Regulations\"], \"low_level_keywords\": [\"Faculty Student Council\", \"Gda\\u0144sk Tech Student Government\"]}",
       "cache_type": "keywords",
       "embedding": null,
       "embedding_shape": null,
       "embedding_min": null,
       "embedding_max": null,
-      "original_prompt": "what is thesis?"
+      "original_prompt": "What are the responsibilities of the Faculty Student Council as outlined in the regulations of the Gdańsk Tech Student Government?"
     },
-    "0b14a5d03ae950610e4fe6aa1cddeff5": {
-      "return": "**Thesis Definition**\n\nA thesis is a research project that is part of the studies at Gdańsk University of Technology. It is a document presented during the diploma examination.\n\n**Types of Thesis**\n\nThere are different types of thesis, including:\n\n*   Bachelor Diploma Thesis: submitted for Bachelor’s degree studies\n*   Master’s Diploma Thesis: submitted for Master’s degree studies\n\n**Purpose of Thesis**\n\nThe purpose of a thesis is to demonstrate a student's knowledge and skills in a particular field of study. It is an opportunity for students to conduct original research and contribute to the body of knowledge in their field.\n\n**Submission Requirements**\n\nTheses must be submitted through the \"Moja PG\" system, and the student must declare independent completion of the thesis. The thesis supervisor must approve the thesis and send it for review.\n\n**Grading**\n\nThe final grade of the thesis is determined by the supervisor, reviewer, and commission, depending on the faculty diploma rules.\n\n**References**\n\n*   [KG] file_path: unknown_source\n*   [DC] file_path: unknown_source",
+    "aaa855667ef0737acf64d3f57b3cd16a": {
+      "return": "The Faculty Student Council is a representative body that represents students' interests. According to the regulations of the Gdańsk Tech Student Government, the Faculty Student Council has the responsibility to initiate activities aimed at improving studying conditions.\n\nThis information can be found in the relationships between entities in the Knowledge Base, specifically in the relationship between \"Faculty Student Council\" and \"Gdańsk Tech Student Government\".\n\nPlease note that the specific responsibilities of the Faculty Student Council may be outlined in more detail in other sections of the regulations, but this is the general information available in the Knowledge Base.\n\nReferences:\n- [KG] relationships between \"Faculty Student Council\" and \"Gdańsk Tech Student Government\"",
       "cache_type": "query",
       "embedding": null,
       "embedding_shape": null,
       "embedding_min": null,
       "embedding_max": null,
-      "original_prompt": "what is thesis?"
+      "original_prompt": "What are the responsibilities of the Faculty Student Council as outlined in the regulations of the Gdańsk Tech Student Government?"
+    },
+    "ef3a4cf1034c9c0b94fde550035040a8": {
+      "return": "{\"high_level_keywords\": [\"Language\", \"Education\", \"Study program\"], \"low_level_keywords\": [\"Polish classes\", \"Foreign language\", \"Study program planned\", \"Language of instruction\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances can classes from the study program planned in Polish be conducted in a foreign language?"
+    },
+    "8e5ca16e8c739b27f94d4fdfdeabae11": {
+      "return": "Based on the provided Knowledge Base, I was unable to find specific information regarding the circumstances under which classes from the study program planned in Polish can be conducted in a foreign language. However, I can provide some related information.\n\nAccording to the provided Knowledge Base, students pursuing individual study plans or curriculums are obliged to follow Study Rules, including the deadlines specific to their study plans (Source: [KG] unknown_source, id: 11).\n\nAdditionally, the Knowledge Base mentions that students may be exempted from having to complete the same subjects, provided the learning outcomes of these subjects have not been changed, and the final decision in this matter is made by the academic teacher conducting classes in the particular subject (Source: [KG] unknown_source, id: 3).\n\nIt is also mentioned that the dean may allow for diploma theses to be written under the supervision of specialists from outside Gdańsk University of Technology, but this does not provide specific information about conducting classes in a foreign language (Source: [KG] unknown_source, id: 21).\n\nI recommend consulting the official website of Gdańsk University of Technology or contacting their administration directly for more detailed and accurate information regarding this topic.\n\nReferences:\n- [KG] unknown_source, id: 11\n- [KG] unknown_source, id: 3\n- [KG] unknown_source, id: 21",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances can classes from the study program planned in Polish be conducted in a foreign language?"
+    },
+    "fa6018129c10014fd0e93eb07455bfcf": {
+      "return": "{\"high_level_keywords\": [\"Academic publishing\", \"Subject cards\", \"System integration\"], \"low_level_keywords\": [\"Moja PG system\", \"ECTS catalog\", \"Teacher procedures\", \"Publishing guidelines\", \"Subject card updates\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What procedures must academic teachers follow for publishing and updating subject cards in the ‘Moja PG’ system and ECTS catalog?"
+    },
+    "f46f8612ce87afb9fc50c35a659d55dc": {
+      "return": "According to the Knowledge Base, academic teachers responsible for conducting classes and publishing subject cards are required to complete the ECTS catalog.\n\nHere are the relevant procedures:\n\n**Publishing Subject Cards in the ECTS Catalog**\n\n* Academic teachers are responsible for publishing subject cards in the ECTS catalog.\n* Subject cards include information such as subject assumptions and objectives, learning outcomes, ECTS credits, prerequisites, forms of classes, methods and means of verifying learning outcomes, curriculum, list of essential and supplementary literature, rules of obtaining credits, and the name of the academic teacher responsible for the subject.\n\n**Updating Subject Cards in the ECTS Catalog**\n\n* Academic teachers are responsible for updating subject cards in the ECTS catalog.\n* The ECTS catalog is completed by academic teachers responsible for conducting classes and publishing subject cards.\n\n**Procedure for Updating Subject Cards**\n\n* Academic teachers must follow the rules and regulations defined by the dean for updating subject cards.\n* The dean may appoint tutors for students pursuing individual curricula, and the tutor may also be responsible for updating subject cards.\n\n**Procedure for Publishing and Updating Subject Cards**\n\n* Academic teachers must complete the ECTS catalog by publishing and updating subject cards.\n* The ECTS catalog is a platform for publishing subject cards and study plans.\n\n**References**\n\n* [KG] \"Academic Teacher|>\\\"The ECTS catalog is completed by academic teachers responsible for conducting classes and publishing subject cards.\\\"\" file_path: unknown_source\n* [KG] \"ECTS Catalog\" file_path: unknown_source\n* [KG] \"Subject card\" file_path: unknown_source\n* [KG] \"Moja PG system\" file_path: unknown_source\n* [KG] \"Rector of Gdańsk University of Technology\" file_path: unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What procedures must academic teachers follow for publishing and updating subject cards in the ‘Moja PG’ system and ECTS catalog?"
+    },
+    "71b41158fa1ce63d23e33d2b4f4295a1": {
+      "return": "{\"high_level_keywords\": [\"Academic teachers\", \"Student attendance\", \"Class management\"], \"low_level_keywords\": [\"Registration\", \"Monitoring\", \"Student tracking\", \"Class types\", \"Attendance policies\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?"
+    },
+    "5b064803081b3716aebfa9943d8fbbe2": {
+      "return": "According to the Knowledge Base, academic teachers are responsible for marking semester papers, projects, reports, examination papers, and class tests. Additionally, they are involved in the following processes related to student attendance and registration:\n\n*   Academic teachers are responsible for keeping marked semester papers, projects, reports, examination papers, and class tests until the end of the subsequent semester.\n*   They are involved in the process of assigning ECTS credits to individual subjects, taking into account the rector's regulation on the rules of adopting study plans and curriculums at Gdańsk University of Technology.\n*   Academic teachers may be required to compensate for differences in curriculum resulting from changes that occurred in the study program during a student's leave.\n\nIn terms of registering and monitoring student attendance, academic teachers are not explicitly mentioned in the provided Knowledge Base. However, it can be inferred that they play a role in the process of student registration and attendance monitoring, possibly through the \"Moja PG\" system.\n\nReferences:\n\n*   [KG] unknown_source (Section 3, paragraph 1)\n*   [KG] unknown_source (Section 3, paragraph 3)\n*   [KG] unknown_source (Section XIII, paragraph 2)\n*   [KG] unknown_source (Section XIV, paragraph 4)\n*   [KG] unknown_source (Section XVI, paragraph 4)",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?"
     },
     "0d1225ec4026066c20985c364bcc901e": {
       "return": "{\"high_level_keywords\": [\"Student removal\", \"Absence classification\", \"Education policy\"], \"low_level_keywords\": [\"Disciplinary action\", \"Medical leave\", \"Attendance policy\", \"Truancy laws\", \"School administration\"]}",
@@ -365,7 +392,7 @@
       "original_prompt": "Under what circumstances can a student be removed from classes, and how is such an absence classified?"
     },
     "f353881973a51a3e1819b3e4715e76e7": {
-      "return": "According to the provided Knowledge Base, a student can be removed from classes under the following circumstances:\n\n* Unjustified absence from 4 classes as part of the same form of classes in the selected subject covered by the study plan (Section XI, Paragraph 7).\n\nThe absence is classified as \"removal from the student register due to absence from compulsory classes.\"\n\nIt is also mentioned that students who fail to submit a registration application (Section XI, Paragraph 8) may be removed from the student register.\n\nAdditionally, students who fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies (Section XI, Paragraph 8).\n\nReferences:\n\n* [KG] Section XI, Paragraph 7\n* [KG] Section XI, Paragraph 8\n* [KG] Section XI, Paragraph 9\n* [KG] Section XI, Paragraph 10\n* [KG] Section XI, Paragraph 11",
+      "return": "**Removal from Classes**\n\nAccording to the provided knowledge base, a student can be removed from classes in the following circumstances:\n\n* **Unjustified absence from compulsory classes**: A student may be removed from the student register if they are absent from 4 classes as part of the same form of classes in the selected subject covered by the study plan.\n* **Failure to submit a registration application**: If a student fails to submit a registration application, as provided for in §28(9).\n* **Lack of progress in studies**: Students who have been registered and fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies.\n\n**Classification of Absence**\n\nThe absence of a student from classes can be classified as follows:\n\n* **Sick leave**: A student may take a sick leave due to illness or injury.\n* **Pregnant student leave**: A student may take a pregnant student leave during their pregnancy.\n* **Parent leave**: A student may take a parent leave for childcare responsibilities.\n* **Leave of absence**: A student can take one semester or one year off, except for paragraphs 2 and 3.\n\nPlease note that the specific classification of absence may depend on the circumstances and the decision made by the dean.\n\n**References**\n\n* [KG] unknown_source (Section XI, §27)\n* [KG] unknown_source (Section XII, §28)\n* [KG] unknown_source (Section XV, §35)\n* [KG] unknown_source (Section XVI)\n* [KG] unknown_source (Section XVII)",
       "cache_type": "query",
       "embedding": null,
       "embedding_shape": null,
@@ -373,44 +400,8 @@
       "embedding_max": null,
       "original_prompt": "Under what circumstances can a student be removed from classes, and how is such an absence classified?"
     },
-    "db8933402ce6dba3b87672243c9055ab": {
-      "return": "{\"high_level_keywords\": [\"Student removal\", \"Academic circumstances\", \"School policies\"], \"low_level_keywords\": [\"Attendance policy\", \"Misbehavior\", \"Low grades\", \"Attendance tracking\", \"Disciplinary actions\"]}",
-      "cache_type": "keywords",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "Under what circumstances can a student be removed from classes"
-    },
-    "7058706c136de90f7f9e029ad82d13b0": {
-      "return": "According to the provided Knowledge Base, a student can be removed from classes under the following circumstances:\n\n* If a student fails to submit their diploma thesis on time, they may be removed from the student register, as specified in paragraph 12 of the source with ID 0.\n* If a student is absent from an exam without a justified reason, they may miss one examination date, as specified in paragraph 9 of the source with ID 1.\n* If a student is absent from an exam due to illness, they may be eligible for an extension of the examination session, as specified in paragraph 10 of the source with ID 1.\n* If a student is absent from an exam due to another exam carried out in accordance with the study plan at Gdańsk University of Technology or by representing the university as part of various events, they may be eligible for an extension of the examination session, as specified in paragraph 10 of the source with ID 1.\n\nPlease note that these circumstances may have specific requirements or procedures that must be followed, as outlined in the provided sources.\n\nReferences:\n\n* [KG] ID 0, file_path: unknown_source\n* [KG] ID 1, file_path: unknown_source",
-      "cache_type": "query",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "Under what circumstances can a student be removed from classes"
-    },
-    "71b41158fa1ce63d23e33d2b4f4295a1": {
-      "return": "{\"high_level_keywords\": [\"Academic teachers\", \"Student attendance\", \"Class types\"], \"low_level_keywords\": [\"Class registration\", \"Attendance monitoring\", \"Student tracking\", \"Teacher responsibilities\", \"Class schedules\"]}",
-      "cache_type": "keywords",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?"
-    },
-    "5b064803081b3716aebfa9943d8fbbe2": {
-      "return": "According to the Knowledge Base, academic teachers are responsible for conducting classes and publishing subject cards. They are also responsible for marking semester papers, projects, reports, examination papers, and class tests.\n\nIn relation to registering and monitoring student attendance, academic teachers are responsible for:\n\n* Keeping marked semester papers, projects, reports, examination papers, and class tests until the end of the subsequent semester.\n* Recording student results in the transcript of records.\n* Confirming student attendance in classes and subjects completed.\n* Exempting students from having to complete the same subjects, provided the learning outcomes of these subjects have not been changed.\n\nIt is also mentioned that academic teachers may extend the duration of studies (extended study mode) for students who are winners of the \"Gdańsk University of Technology Talent Scholarship\" competition, allowing them to start studies with an individual study program from the first semester of studies.\n\nThese responsibilities are mentioned in the following sources:\n\n* [KG] unknown_source (Section: \"INDIVIDUAL STUDY PLAN AND CURRICULUM\")\n* [KG] unknown_source (Section: \"FINAL AND TRANSITIONAL PROVISIONS\")\n* [KG] unknown_source (Section: \"RULES FOR CHANGING THE FIELD OR FORM OF STUDY, OR UNIVERSITY\")\n\nReferences:\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source",
-      "cache_type": "query",
-      "embedding": null,
-      "embedding_shape": null,
-      "embedding_min": null,
-      "embedding_max": null,
-      "original_prompt": "What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?"
-    },
     "58fd7d7664d9d75b2b63ee8078681f5f": {
-      "return": "{\"high_level_keywords\": [\"Weighted average grade calculation\", \"Course exclusion\", \"Academic performance\"], \"low_level_keywords\": [\"Grade calculation formula\", \"GPA calculation\", \"Excluded courses\", \"Course prerequisites\"]}",
+      "return": "{\"high_level_keywords\": [\"Weighted average grade\", \"Calculation\", \"Education\", \"Academic performance\"], \"low_level_keywords\": [\"Grade point average\", \"Course weights\", \"Exclusion criteria\", \"GPA calculation methods\", \"Course prerequisites\"]}",
       "cache_type": "keywords",
       "embedding": null,
       "embedding_shape": null,
@@ -419,7 +410,7 @@
       "original_prompt": "How is the weighted average grade calculated, and which courses are excluded from this calculation?"
     },
     "b97255e830c036b3bde6bce752d88d23": {
-      "return": "The weighted average grade is calculated using the following formula:\n\nweighted average grade = ∑ o p / ∑ p i\n\nwhere:\n\n* o i is the grade for a given subject\n* p i is the number of ECTS credits assigned to a given subject\n\nThe courses that are excluded from this calculation are those that were not assigned ECTS credits or were passed without a grade.\n\nAccording to the rules, the weighted average of the grades for the semester is calculated taking into account the grades in all subjects. Missing grades in subjects result in no weighted average for a given semester.\n\nThis information is available in the following sources:\n\n* [KG] page 9\n* [KG] page 10\n* [KG] page 11",
+      "return": "**Calculation of Weighted Average Grade**\n\nAccording to the provided knowledge base, the weighted average grade is calculated as the average of the positive grades given by the supervisor and the reviewer, as well as the grade issued by the commission. The grades are rounded up based on the table below:\n\n| Grade | Description |\n| --- | --- |\n| c | arithmetic mean |\n| 3.00 ≤ c < 3.25 | satisfactory |\n| 3.25 ≤ c < 3.75 | satisfactory plus |\n| 3.75 ≤ c < 4.25 | good |\n| 4.25 ≤ c | very good |\n\n**Courses Excluded from Calculation**\n\nThe knowledge base does not explicitly mention which courses are excluded from the weighted average grade calculation. However, it is mentioned that the condition for completing studies and obtaining the diploma of completion of studies is: obtaining the learning outcomes and the number of ECTS points specified in the curriculum, passing the diploma examination, and positive evaluation of the diploma thesis in the case of master's degree and uniform master's studies.\n\n**References**\n\n* [KG] file_path: \"unknown_source\"\n* [KG] file_path: \"unknown_source\"\n* [KG] file_path: \"unknown_source\"\n* [DC] file_path: \"unknown_source\"\n* [DC] file_path: \"unknown_source\"\n\nNote: The references section will be updated once the file paths are available.",
       "cache_type": "query",
       "embedding": null,
       "embedding_shape": null,

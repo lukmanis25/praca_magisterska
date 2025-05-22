@@ -1,0 +1,17 @@
+Question:
+What types of training are students required to complete during the first semester of studies at Gdańsk University of Technology?
+
+Answer:
+According to the provided Knowledge Base, during the first semester of studies at Gdańsk University of Technology, students are required to undergo mandatory training, which includes:
+
+* Health and safety training
+* Library training
+* Study rules training
+* Training on the use of the 'Moja PG' system
+* Preparation for participation in classes conducted using distance learning methods and techniques.
+
+These trainings are aimed at ensuring that students are well-equipped with the necessary knowledge and skills to navigate the university's systems and procedures, as well as to prepare them for their academic journey.
+
+References:
+- [KG] §6.7 (from unknown_source)
+- [DC] §3.6 (from unknown_source)

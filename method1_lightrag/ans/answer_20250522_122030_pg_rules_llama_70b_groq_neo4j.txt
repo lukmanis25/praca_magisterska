@@ -1,0 +1,29 @@
+Question:
+What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?
+
+Answer:
+**Academic Teacher Responsibilities**
+
+Academic teachers have several responsibilities in relation to registering and monitoring student attendance during different types of classes. According to the provided knowledge base, academic teachers are responsible for:
+
+* Marking semester papers, projects, reports, examination papers, and class tests
+* Completing subject cards and publishing them in the ECTS catalog
+* Providing information on consultation hours
+* Keeping marked semester papers, projects, reports, examination papers, and class tests until the end of the subsequent semester
+
+**Registration and Monitoring Student Attendance**
+
+In terms of registering and monitoring student attendance, academic teachers are responsible for:
+
+* Registering students in the "Moja PG" portal for optional subjects entered into modules for a given semester
+* Updating subject cards during the learning cycle, subject to paragraph 2 of the regulations
+* Announcing a detailed schedule of classes with the names of academic teachers at least 7 days before the beginning of each semester
+* Providing information on the hours of consultation, not later than 14 days after starting the classes
+
+**References**
+
+* [KG] "§ 16. Grading scale" (unknown_source)
+* [KG] "§ 7. Organizational unit of students" (unknown_source)
+* [KG] "§ 5. Subject cards" (unknown_source)
+* [DC] "§ 10. Students' rights" (unknown_source)
+* [KG] "§ 17. Individual study plan and curriculum" (unknown_source)

@@ -1,0 +1,18 @@
+Question:
+Under what circumstances can classes from the study program planned in Polish be conducted in a foreign language?
+
+Answer:
+Based on the provided Knowledge Base, there is no explicit information on the circumstances under which classes from the study program planned in Polish can be conducted in a foreign language. However, it is mentioned that Gdańsk University of Technology offers classes to students and has a curriculum set by the university. 
+
+It is also mentioned that students may change their field of study after completing a semester, and the detailed rules for the transfer and recognition of learning outcomes when changing the field of study, faculty, and university are provided for in university procedure No. 11. 
+
+Additionally, it is mentioned that students of master’s degree studies can apply for an extension of their studies by one semester, in order to complete a long-term industrial research internship. However, there is no specific information on the language of instruction for these classes.
+
+To provide a more accurate answer, further information or clarification from the relevant authorities or sources would be necessary.
+
+References:
+- [KG] unknown_source (Knowledge Graph)
+- [KG] unknown_source (Knowledge Graph)
+- [KG] unknown_source (Knowledge Graph)
+- [DC] unknown_source (Vector Data)
+- [DC] unknown_source (Vector Data)

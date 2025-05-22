@@ -1,0 +1,18 @@
+Question:
+Under what circumstances can classes from the study program planned in Polish be conducted in a foreign language?
+
+Answer:
+Based on the provided Knowledge Base, I was unable to find specific information regarding the circumstances under which classes from the study program planned in Polish can be conducted in a foreign language. However, I can provide some related information.
+
+According to the provided Knowledge Base, students pursuing individual study plans or curriculums are obliged to follow Study Rules, including the deadlines specific to their study plans (Source: [KG] unknown_source, id: 11).
+
+Additionally, the Knowledge Base mentions that students may be exempted from having to complete the same subjects, provided the learning outcomes of these subjects have not been changed, and the final decision in this matter is made by the academic teacher conducting classes in the particular subject (Source: [KG] unknown_source, id: 3).
+
+It is also mentioned that the dean may allow for diploma theses to be written under the supervision of specialists from outside Gdańsk University of Technology, but this does not provide specific information about conducting classes in a foreign language (Source: [KG] unknown_source, id: 21).
+
+I recommend consulting the official website of Gdańsk University of Technology or contacting their administration directly for more detailed and accurate information regarding this topic.
+
+References:
+- [KG] unknown_source, id: 11
+- [KG] unknown_source, id: 3
+- [KG] unknown_source, id: 21

@@ -1,0 +1,19 @@
+Question:
+How does Gdańsk University of Technology define the process and limitations of confirming learning outcomes for admission?
+
+Answer:
+Confirming learning outcomes for admission at Gdańsk University of Technology is a process that allows students to transfer credits from another university. According to the university's rules, this process is conducted by a committee appointed by the rector.
+
+The learning outcomes are confirmed in the scope corresponding to the learning outcomes specified in the curriculum. As a result of confirming the learning outcomes, no more than 50% of ECTS credits assigned to the classes included in the study program may be credited.
+
+The order of admission is determined by the result of learning outcome confirmation. The dean may appoint a tutor for the student accepted for studies as a result of confirming the learning outcomes.
+
+Detailed rules regarding confirmation of learning outcomes at Gdańsk University of Technology are set out in separate regulations.
+
+**References**
+
+* [KG] source_id: 102
+* [KG] source_id: 103
+* [DC] source_id: 0, file_path: "unknown_source"
+* [DC] source_id: 1, file_path: "unknown_source"
+* [KG] source_id: 104

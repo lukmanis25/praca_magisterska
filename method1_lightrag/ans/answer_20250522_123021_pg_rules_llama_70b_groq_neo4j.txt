@@ -1,0 +1,35 @@
+Question:
+What procedures must academic teachers follow for publishing and updating subject cards in the ‘Moja PG’ system and ECTS catalog?
+
+Answer:
+According to the Knowledge Base, academic teachers responsible for conducting classes and publishing subject cards are required to complete the ECTS catalog.
+
+Here are the relevant procedures:
+
+**Publishing Subject Cards in the ECTS Catalog**
+
+* Academic teachers are responsible for publishing subject cards in the ECTS catalog.
+* Subject cards include information such as subject assumptions and objectives, learning outcomes, ECTS credits, prerequisites, forms of classes, methods and means of verifying learning outcomes, curriculum, list of essential and supplementary literature, rules of obtaining credits, and the name of the academic teacher responsible for the subject.
+
+**Updating Subject Cards in the ECTS Catalog**
+
+* Academic teachers are responsible for updating subject cards in the ECTS catalog.
+* The ECTS catalog is completed by academic teachers responsible for conducting classes and publishing subject cards.
+
+**Procedure for Updating Subject Cards**
+
+* Academic teachers must follow the rules and regulations defined by the dean for updating subject cards.
+* The dean may appoint tutors for students pursuing individual curricula, and the tutor may also be responsible for updating subject cards.
+
+**Procedure for Publishing and Updating Subject Cards**
+
+* Academic teachers must complete the ECTS catalog by publishing and updating subject cards.
+* The ECTS catalog is a platform for publishing subject cards and study plans.
+
+**References**
+
+* [KG] "Academic Teacher|>\"The ECTS catalog is completed by academic teachers responsible for conducting classes and publishing subject cards.\"" file_path: unknown_source
+* [KG] "ECTS Catalog" file_path: unknown_source
+* [KG] "Subject card" file_path: unknown_source
+* [KG] "Moja PG system" file_path: unknown_source
+* [KG] "Rector of Gdańsk University of Technology" file_path: unknown_source

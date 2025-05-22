@@ -1,0 +1,25 @@
+Question:
+How is the weighted average grade calculated, and which courses are excluded from this calculation?
+
+Answer:
+Calculating the Weighted Average Grade
+=====================================
+
+The weighted average grade is calculated using the following formula:
+
+weighted average grade = ∑ (o i \* p i) / ∑ p i
+
+where:
+- o i is the grade for a given subject
+- p i is the number of ECTS credits assigned to a given subject
+
+Courses Excluded from Calculation
+---------------------------------
+
+Courses that are excluded from this calculation are those that were not assigned ECTS credits or were passed without a grade.
+
+Reference
+----------
+
+* [KG] page 9
+* [KG] page 10

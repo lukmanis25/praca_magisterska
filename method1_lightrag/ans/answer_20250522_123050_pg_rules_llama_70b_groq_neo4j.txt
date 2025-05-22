@@ -1,0 +1,29 @@
+Question:
+How is the weighted average grade calculated, and which courses are excluded from this calculation?
+
+Answer:
+**Calculation of Weighted Average Grade**
+
+According to the provided knowledge base, the weighted average grade is calculated as the average of the positive grades given by the supervisor and the reviewer, as well as the grade issued by the commission. The grades are rounded up based on the table below:
+
+| Grade | Description |
+| --- | --- |
+| c | arithmetic mean |
+| 3.00 ≤ c < 3.25 | satisfactory |
+| 3.25 ≤ c < 3.75 | satisfactory plus |
+| 3.75 ≤ c < 4.25 | good |
+| 4.25 ≤ c | very good |
+
+**Courses Excluded from Calculation**
+
+The knowledge base does not explicitly mention which courses are excluded from the weighted average grade calculation. However, it is mentioned that the condition for completing studies and obtaining the diploma of completion of studies is: obtaining the learning outcomes and the number of ECTS points specified in the curriculum, passing the diploma examination, and positive evaluation of the diploma thesis in the case of master's degree and uniform master's studies.
+
+**References**
+
+* [KG] file_path: "unknown_source"
+* [KG] file_path: "unknown_source"
+* [KG] file_path: "unknown_source"
+* [DC] file_path: "unknown_source"
+* [DC] file_path: "unknown_source"
+
+Note: The references section will be updated once the file paths are available.

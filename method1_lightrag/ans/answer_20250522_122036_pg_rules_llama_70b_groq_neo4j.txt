@@ -1,0 +1,15 @@
+Question:
+Under what circumstances can a student be removed from classes, and how is such an absence classified?
+
+Answer:
+According to the provided Knowledge Base, a student can be removed from classes under the following circumstances:
+
+* Unjustified absence from 4 classes as part of the same form of classes in the selected subject covered by the study plan (Source: §28(7) in the university procedure).
+* Failure to submit a registration application, as provided for in §28(9) (Source: §28(9) in the university procedure).
+* Students who have been registered and fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies (Source: §28(9) in the university procedure).
+
+These circumstances are mentioned in the university procedure, specifically in the sections related to removal from the student register due to absence from compulsory classes.
+
+References:
+* [KG] file_path: unknown_source (Source: §28(7) in the university procedure)
+* [KG] file_path: unknown_source (Source: §28(9) in the university procedure)
