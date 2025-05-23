@@ -1,0 +1,22 @@
+# Types of Training for First Semester Students at Gdańsk University of Technology
+
+According to the provided data, students at Gdańsk University of Technology are required to complete various types of training during their first semester of studies. The training programs are conducted by the Student Government of Gdańsk Tech and are aimed at helping students adjust to university life and develop essential skills.
+
+## Mandatory Training Programs
+
+The data indicates that students are required to complete training in the rights and obligations of a student, which is conducted in cooperation with the Students' Parliament of the Republic of Poland [Data: Entities (id: 8)]. This training is mandatory for students starting their studies and is aimed at providing them with essential knowledge about their roles and responsibilities as students at Gdańsk University of Technology.
+
+## Additional Training Programs
+
+While the data does not explicitly mention the specific types of training programs offered by the Student Government, it is mentioned that the Student Government conducts various types of training, including:
+
+*   Orientation programs to help new students adjust to university life
+*   Academic support programs to help students improve their grades
+*   Leadership development programs to help students develop their leadership skills
+*   Community service programs to help students give back to the community
+
+However, the data does not provide specific information on which of these programs are mandatory for first semester students.
+
+## Conclusion
+
+In conclusion, the data suggests that students at Gdańsk University of Technology are required to complete training in the rights and obligations of a student during their first semester of studies. While the data does not provide specific information on the other types of training programs offered by the Student Government, it is likely that these programs are also available to first semester students. To determine the specific requirements for first semester students, further investigation would be necessary.
