@@ -8,7 +8,7 @@ sys.path.append(".")
 from query import query
 
 INPUT_FILE = "../evaluation/test_data/study_rules/test_set.json"
-OUTPUT_FILE = "../evaluation/test_data/study_rules/test_set_method2_graphrag_draft.json"
+OUTPUT_FILE = "../evaluation/test_data/study_rules/test_set_method2_graphrag_drift.json"
 
 
 def load_json(path):
