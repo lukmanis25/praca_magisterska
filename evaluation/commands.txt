@@ -17,7 +17,7 @@ python fill_test_set.py
 GRAPHRAG:
 deactivate && \
 cd ../../.. && \
-cd praca_magisterska/praca_magisterska/method1_lightrag && \
+cd praca_magisterska/praca_magisterska/method2_graphrag && \
 source venv/bin/activate && \
 python fill_test_set.py
 
