@@ -1,0 +1,11 @@
+You are an expert at summarizing technical or conceptual content.
+
+Please provide a concise summary of the following content. Focus on preserving the most important information, removing redundancy, and highlighting key ideas.
+
+Text:
+"""
+<INSERT YOUR CHUNK HERE>
+"""
+
+Output:
+- Summary (max 150-200 words):

@@ -1,0 +1,24 @@
+Question:
+Under what circumstances can a student request an examination to be conducted before a committee, and what is the composition of such a committee?
+
+Answer:
+According to the provided Knowledge Base, a student can request an examination to be conducted before a committee in the following circumstances:
+
+* The student can request an open diploma examination, as specified in §22 of the rules. This means that the student can choose to have their diploma examination conducted in an open and transparent manner, with the committee members present.
+* The student can also request a committee examination, as implied in the rules. However, the specific details of this examination are not clearly specified.
+
+Regarding the composition of the committee, the Knowledge Base does not provide explicit information. However, based on the rules, it can be inferred that the committee may consist of experts in the relevant field, possibly including academics, researchers, or industry professionals.
+
+For a more detailed explanation, please refer to the following rules:
+
+* §22: "The diploma examination at master’s degree studies may be open at the student's request submitted to the dean, not later than on the day of submission of the diploma thesis, or in accordance with the conditions specified in the faculty diploma rules."
+* §23: "In order to be admitted to the diploma examination it is a prerequisite to complete all the semesters in the study programme."
+
+Please note that the exact composition and procedures for the committee examination are not clearly specified in the provided Knowledge Base.
+
+References:
+* [KG] "Student rights and obligations" (unknown_source)
+* [KG] "Diploma examination rules" (unknown_source)
+* [KG] "Faculty diploma rules" (unknown_source)
+* [KG] "Study programme" (unknown_source)
+* [KG] "Dean's office" (unknown_source)

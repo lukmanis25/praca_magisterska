@@ -1,0 +1,36 @@
+Question:
+What are the eligibility criteria for a student to receive a diploma with distinction at Gdańsk University of Technology?
+
+Answer:
+To determine the eligibility criteria for a student to receive a diploma with distinction at Gdańsk University of Technology, we need to look at the relevant information from the Knowledge Base.
+
+According to the relationship between "Diploma with Distinction" and "Gdańsk University of Technology", we can find the description: "Gdańsk University of Technology awards diplomas with distinction to outstanding students."
+
+However, to get the specific eligibility criteria, we need to look at the relationship between "Diploma with Distinction" and "Rector". The description is: "The dean may apply to the rector to issue a diploma with distinction to students who meet all of the following criteria:"
+
+Then we can find the detailed criteria in the source:
+
+* Obtained a weighted average grade not lower than 4.5 through the entire period of studies
+* Demonstrated outstanding scientific achievements related to the field of study, which they documented no later than the date of the diploma examination
+* Obtained a ‘very good’ (5.0) grade for the diploma thesis (if provided for in the study program)
+* Obtained a ‘very good’ (5.0) grade for the diploma examination
+* Have not been penalized by a disciplinary committee or a student disciplinary panel
+* Submitted their diploma thesis within the time specified in §21(11), including the extension granted previously, if provided for in the study program.
+
+Therefore, the eligibility criteria for a student to receive a diploma with distinction at Gdańsk University of Technology include:
+
+* High weighted average grade
+* Outstanding scientific achievements
+* Good grades for diploma thesis and examination
+* No disciplinary penalties
+* Timely submission of diploma thesis
+
+These criteria are based on the information provided in the Knowledge Base.
+
+References:
+
+* [KG] "Diploma with Distinction" and "Gdańsk University of Technology" relationship
+* [KG] "Diploma with Distinction" and "Rector" relationship
+* [DC] Source 0: page 17
+* [DC] Source 1: page 17
+* [DC] Source 0: page 17

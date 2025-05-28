@@ -1,0 +1,17 @@
+Question:
+What training components are mandatory for students during their first semester at Gdańsk University of Technology?
+
+Answer:
+Mandatory training components for students during their first semester at Gdańsk University of Technology include:
+
+* Health and safety training
+* Library training
+* Study rules training
+* Use of the 'Moja PG' system training
+* Preparation for participation in classes conducted using distance learning methods and techniques
+
+These training components are designed to ensure that students are well-equipped to navigate the university's policies and procedures, as well as to effectively utilize the university's resources.
+
+References:
+[KG] unknown_source (Knowledge Graph)
+[DC] unknown_source (Vector Data)

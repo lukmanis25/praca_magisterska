@@ -1,0 +1,18 @@
+Question:
+Under what circumstances can a student request an examination to be conducted before a committee, and what is the composition of such a committee?
+
+Answer:
+# Examination Before a Committee
+
+According to the Knowledge Base, a student can request an examination to be conducted before a committee under certain circumstances. However, the specific details regarding these circumstances are not explicitly mentioned in the provided information.
+
+# Composition of the Committee
+
+The Knowledge Base does provide information about the composition of the Diploma Examination Committee, which is responsible for assessing the student's answers during the diploma examination. The committee is appointed by the Dean, and its members are likely to include academic experts in the relevant field.
+
+However, to determine the exact composition of the committee and the circumstances under which a student can request an examination, further information from the Knowledge Base or external sources would be necessary.
+
+## References
+
+* [KG] file_path: unknown_source (Source 0)
+* [KG] file_path: unknown_source (Source 1)

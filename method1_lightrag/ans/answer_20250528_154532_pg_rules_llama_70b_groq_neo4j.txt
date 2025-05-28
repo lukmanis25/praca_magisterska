@@ -1,0 +1,13 @@
+Question:
+What are the specific conditions under which a student may be removed from a class, and how is such an absence classified?
+
+Answer:
+According to the provided Knowledge Base, a student may be removed from a class due to unjustified absence from 4 classes as part of the same form of classes in the selected subject covered by the study plan (Source: [KG] id "1", content paragraph 7).
+
+Regarding the classification of such an absence, it is stated that removal from the student register due to absence from compulsory classes occurs in the event of unjustified absence from 4 classes as part of the same form of classes in the selected subject covered by the study plan (Source: [KG] id "1", content paragraph 7).
+
+Please note that the exact conditions and classification may vary depending on the specific circumstances and the university's policies, which are not fully detailed in the provided Knowledge Base.
+
+References:
+- [KG] id "1", content paragraph 7
+- [KG] id "2", content paragraph 7

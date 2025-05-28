@@ -1,0 +1,22 @@
+You are designing an evaluation set for a knowledge-intensive language model.
+
+Given the following summaries of a knowledge base, your task is to:
+1. Identify **3 potential users** who would meaningfully interact with this dataset.
+2. For each user, describe **3 specific tasks** they would perform using this dataset.
+3. For each (user, task) combination, generate **3 high-level questions** that require a deep, holistic understanding of the dataset.
+
+Summarized knowledge base:
+"""
+<INSERT YOUR SUMMARIES HERE>
+"""
+
+Output format:
+- User 1: [brief user description]
+    - Task 1: [short description]
+        - Question 1:
+        - Question 2:
+        - Question 3:
+    - Task 2: ...
+    - Task 3: ...
+- User 2: ...
+- User 3: ...

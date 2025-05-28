@@ -1,0 +1,17 @@
+Question:
+What are the responsibilities of academic teachers regarding the creation and use of the “eNauczanie” platform for each subject?
+
+Answer:
+According to the Knowledge Base, academic teachers are responsible for conducting classes, providing information on consultation hours, and completing subject cards. Additionally, they use the "eNauczanie" platform for communicating learning outcomes.
+
+In more detail, the relationships in the Knowledge Base indicate that:
+
+* Academic teachers are responsible for using the "eNauczanie" platform for communicating learning outcomes (Relationship ID: 5, source: "Teacher", target: "eNauczanie").
+* Academic teachers are responsible for conducting classes and publishing subject cards, which are then published in the ECTS catalog by the ECTS catalog coordinator (Relationship ID: 9, source: "Academic Teacher|>\"The ECTS catalog is completed by academic teachers responsible for conducting classes and publishing subject cards.", target: "ECTS Catalog").
+
+These responsibilities are also mentioned in the source document, which states that subject cards are completed by academic teachers responsible for the subject and published in the ECTS catalog by the ECTS catalog coordinator.
+
+References:
+* [KG] Relationship ID: 5
+* [KG] Relationship ID: 9
+* [DC] Source document, file_path: "unknown_source"

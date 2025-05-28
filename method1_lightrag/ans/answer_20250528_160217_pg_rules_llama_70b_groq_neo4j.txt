@@ -1,0 +1,18 @@
+Question:
+Under what circumstances may classes at Gdańsk University of Technology be conducted in a foreign language, and how is the language of examination determined in such cases?
+
+Answer:
+According to the Knowledge Base, classes at Gdańsk University of Technology may be conducted in a foreign language in the following circumstances:
+
+* Classes may be carried out in the form of lectures, classes, laboratory classes, workshops, and projects, seminars, and foreign language courses. (Relationship: "Teaching may be carried out in the form of lectures, classes, laboratory classes, workshops and projects, seminars and foreign language courses.")
+
+Regarding the language of examination, the Knowledge Base does not provide specific information. However, it is mentioned that classes may be conducted using distance education methods and techniques. (Relationship: "Classes may also be conducted using distance education methods and techniques.")
+
+It is also worth noting that the Knowledge Base mentions that students of Gdańsk University of Technology may complete part of their study program at other universities, including foreign universities, and students from other universities may complete part of their study at Gdańsk University of Technology, pursuant to bilateral contracts between universities. (Relationship: "Students of Gdańsk University of Technology may complete part of their study program at other universities, including foreign universities, and students from other universities may complete part of their study at Gdańsk University of Technology, pursuant to bilateral contracts between universities.")
+
+References:
+- [KG] Relationships #3
+- [KG] Relationships #4
+- [KG] Relationships #5
+- [DC] unknown_source
+- [DC] unknown_source

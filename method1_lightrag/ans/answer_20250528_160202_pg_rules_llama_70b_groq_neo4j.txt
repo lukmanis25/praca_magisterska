@@ -1,0 +1,22 @@
+Question:
+How does the Gdańsk University of Technology ensure transparency and accessibility of its study programs and subject-related documentation?
+
+Answer:
+The Gdańsk University of Technology ensures transparency and accessibility of its study programs and subject-related documentation in several ways.
+
+Firstly, the university provides detailed information about its study programs, including the curriculum, teaching methods, and assessment criteria, on its website. This information is easily accessible to students and other stakeholders, promoting transparency and clarity.
+
+Secondly, the university has established a system of student rights and obligations, which includes the right to obtain a student ID card, access to the university's electronic system (Moja PG), and the right to receive training in the rights and obligations of a student. This system is outlined in the university's statute and is communicated to students through various channels.
+
+Thirdly, the university provides training on student rights and obligations in cooperation with the Students' Parliament of the Republic of Poland. This training is an essential part of the university's efforts to promote transparency and accessibility.
+
+Lastly, the university has established a system of procedures for conducting the recruitment procedure for higher education, which includes the rules for admission by transfer from another university, confirmation of learning outcomes, and the recognition of credits. These procedures are outlined in the university's regulations and are communicated to students through various channels.
+
+In summary, the Gdańsk University of Technology ensures transparency and accessibility of its study programs and subject-related documentation through its website, student rights and obligations system, training on student rights and obligations, and procedures for conducting the recruitment procedure for higher education.
+
+References:
+- [KG] file_path: unknown_source
+- [KG] file_path: unknown_source
+- [KG] file_path: unknown_source
+- [DC] file_path: unknown_source
+- [DC] file_path: unknown_source

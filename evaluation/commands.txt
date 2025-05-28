@@ -5,13 +5,20 @@ cd praca_magisterska/praca_magisterska/evaluation && \
 source venv/bin/activate && \
 python init_test_set.py
 
-2. Fill in answers
+2. Fill in answers (check dir correctness)
 
+LIGHTRAG:
 deactivate && \
 cd ../../.. && \
 cd praca_magisterska/praca_magisterska/method1_lightrag && \
 source venv/bin/activate && \
 python fill_test_set.py
 
+GRAPHRAG:
+deactivate && \
+cd ../../.. && \
+cd praca_magisterska/praca_magisterska/method1_lightrag && \
+source venv/bin/activate && \
+python fill_test_set.py
 
 3. Calc metrics (set correct env) - run in evaluate.ipynb notebook

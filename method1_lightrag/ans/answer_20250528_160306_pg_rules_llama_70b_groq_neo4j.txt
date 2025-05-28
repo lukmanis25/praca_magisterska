@@ -1,0 +1,20 @@
+Question:
+What are the specific categories of students for whom the dean may agree to implement an individual study plan upon receiving a request within 14 days of the semester's start?
+
+Answer:
+To answer your question, we need to refer to the relevant information in the Knowledge Base.
+
+According to the Knowledge Base, there is a relationship between the dean and students that mentions the dean making decisions about individual study plans. However, the specific categories of students are not explicitly mentioned.
+
+But, we can infer that students who have been removed from the student register may be eligible for reinstatement of their student rights, which involves creating an individual study plan. This is mentioned in the Knowledge Base under the section "Reinstatement of Student Rights".
+
+Additionally, students who have accumulated at least 45 ECTS credits at a given faculty may also be eligible for reinstatement of their student rights.
+
+It's worth noting that these are the only specific categories of students mentioned in the Knowledge Base that may be eligible for individual study plans upon reinstatement of their student rights.
+
+References:
+* [KG] unknown_source (Relationship between dean and students)
+* [KG] unknown_source (Reinstatement of Student Rights)
+* [DC] unknown_source (Section on individual study plans)
+* [KG] unknown_source (ECTS credits)
+* [KG] unknown_source (Student rights reinstatement conditions)

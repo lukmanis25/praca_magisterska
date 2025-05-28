@@ -1,0 +1,19 @@
+Question:
+What are the obligations a student must fulfill after receiving approval for a transfer from another university to Gdańsk University of Technology?\
+
+Answer:
+After receiving approval for a transfer from another university to Gdańsk University of Technology, a student must fulfill the following obligations:
+
+* Take an oath, pursuant to the Statute of Gdańsk University of Technology
+* Sign the contract referred to in §9(1)(4) of these rules
+* Undergo training courses referred to in §3(6)
+
+These obligations are mentioned in the rules for transfer from another university to Gdańsk University of Technology, as stated in the document "Source 1".
+
+### References
+
+* [KG] Source 1: file_path = "unknown_source"
+* [KG] Source 2: file_path = "unknown_source"
+* [KG] Source 3: file_path = "unknown_source"
+* [KG] Source 4: file_path = "unknown_source"
+* [KG] Source 5: file_path = "unknown_source"

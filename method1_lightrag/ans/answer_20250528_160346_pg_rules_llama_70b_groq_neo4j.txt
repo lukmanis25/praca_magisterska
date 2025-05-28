@@ -1,0 +1,12 @@
+Question:
+According to the text, under what circumstances may a diploma thesis be submitted in the form of a published or accepted article, and what additional requirement must be met in such cases?
+
+Answer:
+According to the text, a diploma thesis may be submitted in the form of a published or accepted article under the following circumstances:
+
+* At the student's request, approved by the diploma thesis supervisor
+* The student must have achieved the learning outcomes in the given field, level, and profile of studies
+* The article must be published or accepted for publication in a peer-reviewed journal or post-conference materials (in accordance with the current ministerial list for a minimum of 100 points)
+* The student must submit a self-report in addition to the article
+
+Additionally, the student must be the first author of the article in cases of multi-authored publications.

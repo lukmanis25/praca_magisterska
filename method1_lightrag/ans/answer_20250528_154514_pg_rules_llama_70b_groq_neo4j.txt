@@ -1,0 +1,27 @@
+Question:
+How does the Gdańsk University of Technology ensure transparency and accessibility of its study programs and subject-related documentation?
+
+Answer:
+**Transparency and Accessibility of Study Programs and Documentation**
+
+The Gdańsk University of Technology ensures transparency and accessibility of its study programs and subject-related documentation through various means.
+
+According to the rules and regulations, students have access to detailed information about the study program, including the curriculum, study plan, and individual study plans. This information is made available through the Moja PG electronic system, which allows students to access their individual accounts, grades, and learning outcomes.
+
+Additionally, the university provides training on student rights and obligations in cooperation with the Students' Parliament of the Republic of Poland. This training includes information about the study program, academic rules, and procedures for admission, transfer, and recognition of learning outcomes.
+
+The university also ensures that students have access to detailed information about the curriculum, including the learning outcomes, ECTS credits, and grading scale. This information is made available through the curriculum documents, which are publicly available on the university's website.
+
+Furthermore, the university has a system in place for confirming learning outcomes, which allows students to have their prior learning recognized and credited towards their current study program. This system is based on the rules and procedures outlined in the university's regulations, which are publicly available.
+
+In terms of accessibility, the university provides accommodations for students with disabilities, including pregnant students and students who are parents. The dean may agree to individual study plans for these students, which allows them to complete their studies according to an individual program.
+
+Overall, the Gdańsk University of Technology ensures transparency and accessibility of its study programs and subject-related documentation through a combination of electronic systems, training programs, and accommodations for students with disabilities.
+
+**References**
+
+* [KG] page 17: "Students complete classes according to the rules set out in these rules and their results are recorded in the transcript of records."
+* [KG] page 4: "Each person admitted to studies receives an album number, a university student account, as well as an individual account in the “MojaPG” electronic system."
+* [KG] page 10: "The dean may agree to individual study plans particularly for students who: ... have a specific level and type of disability."
+* [KG] page 18: "The Rector of Gdańsk University of Technology shall act as the appeal body with reference to all the issues included in these rules."
+* [DC] file_path: "unknown_source"

@@ -1,0 +1,18 @@
+Question:
+What are the specific categories of students for whom the dean may agree to implement an individual study plan upon receiving a request within 14 days of the semester's start?
+
+Answer:
+According to the knowledge base, the dean may agree to implement an individual study plan upon receiving a request within 14 days of the semester's start, particularly for students who:
+
+* Pursue a part of their studies at another university
+* Pursue second-cycle studies in an extended mode
+* Pursue more than one field of study
+* Have changed their field of study or faculty
+* Have a specific level and type of disability
+* Are repeating a semester and can take subjects from subsequent semesters
+* Have returned from a gap year, resumed their studies, or have been transferred from another university
+
+These details can be found in the knowledge base, specifically in the source with ID "0" and file path "unknown_source".
+
+References:
+* [KG] unknown_source

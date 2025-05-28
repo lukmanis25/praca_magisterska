@@ -1,0 +1,54 @@
+=== Q1 ===
+What is the procedure and timeline for a student to apply for a transfer from another university to Gdańsk University of Technology?
+
+=== A1 ===
+A student may transfer from another university to Gdańsk University of Technology with the consent of a person authorized by the rector, and the transfer can only occur after the end of a semester. The application for transfer must be submitted no later than one month before the beginning of the subsequent semester. Upon approval, the student must take an oath, sign a contract as per §9(1)(4), and undergo specified training courses.
+
+=== Q2 ===
+What types of training are students required to complete during the first semester of studies at Gdańsk University of Technology?
+
+=== A2 ===
+Students are required to complete training in health and safety, library use, study rules, the use of the "Moja PG" system, and preparation for participation in classes conducted using distance learning methods and techniques.
+
+=== Q3 ===
+How does Gdańsk University of Technology define the process and limitations of confirming learning outcomes for admission?
+
+=== A3 ===
+Confirmation of learning outcomes is conducted by a committee appointed by a person authorized by the rector, and learning outcomes must correspond to those specified in the curriculum. No more than 50% of ECTS credits assigned to the study program may be credited through this process, and the order of admission is determined by the confirmation results. The dean may appoint a tutor for the student, and further details are outlined in separate regulations.
+
+=== Q4 ===
+What are the responsibilities of the Faculty Student Council as outlined in the regulations of the Gdańsk Tech Student Government?
+
+=== A4 ===
+The Faculty Student Council is responsible for representing students before faculty bodies, providing opinions on decisions regarding student affairs as specified in the Student Government regulations, and supporting initiatives aimed at improving the quality of education and student life at the faculty.
+
+=== Q5 ===
+Under what circumstances can classes from the study program planned in Polish be conducted in a foreign language?
+
+=== A5 ===
+Such classes may be conducted in a foreign language if they are offered or co-offered by academic teachers and specialists from abroad, or if international students attend the classes. The language of credits in these cases is determined in consultation with the Group Representative.
+
+=== Q6 ===
+What procedures must academic teachers follow for publishing and updating subject cards in the ‘Moja PG’ system and ECTS catalog?
+
+=== A6 ===
+Academic teachers complete subject cards in the ‘Moja PG’ portal, and the ECTS catalog coordinator publishes them in the ECTS catalog. For subjects in the curriculum, publication must occur within 14 days of study program adoption. For optional subjects, cards must be published no later than 14 days before student registration. Updates to subject cards during the learning cycle are allowed, subject to the same provisions.
+
+=== Q7 ===
+What are the responsibilities of academic teachers in relation to registering and monitoring student attendance during different types of classes?
+
+=== A7 ===
+Academic teachers must register student attendance in classes, laboratory and project work, seminars, workshops, foreign language, and physical education classes. They may also monitor attendance during lectures.
+
+=== Q8 ===
+Under what circumstances can a student be removed from classes, and how is such an absence classified?
+
+=== A8 ===
+A student can be removed from classes if their behavior threatens the life or health of others or disrupts the course; in such cases, the absence is considered unjustified.
+
+=== Q9 ===
+How is the weighted average grade calculated, and which courses are excluded from this calculation?
+
+=== A9 ===
+The weighted average grade is calculated by dividing the sum of each subject's grade multiplied by its ECTS credits by the total ECTS credits. Courses without assigned ECTS credits or passed without a grade are excluded from this calculation.
+

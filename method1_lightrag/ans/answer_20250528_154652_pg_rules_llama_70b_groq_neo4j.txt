@@ -1,0 +1,26 @@
+Question:
+How is the final result of master’s degree studies calculated, and what are the corresponding grade categories based on the calculated score?
+
+Answer:
+The final result of master’s degree studies at Gdańsk University of Technology is calculated as the average of the positive grades given by the supervisor and the reviewer, as well as the grade issued by the commission. The calculation process is specified in the faculty diploma rules, which are confirmed by the faculty board and consultation with the Student Government.
+
+According to the provided information, the final grade is rounded up based on the table below:
+
+| Grade Category | Score Range |
+| --- | --- |
+| Satisfactory | 3.00 ≤ c < 3.25 |
+| Satisfactory plus | 3.25 ≤ c < 3.75 |
+| Good | 3.75 ≤ c < 4.25 |
+| Good plus | 4.25 ≤ c < 4.75 |
+| Very good | 4.75 ≤ c |
+
+If the assessment is negative, the dean will appoint an additional reviewer or a commission (grading commission) to reassess the thesis in question. The negative reassessment is final.
+
+Please note that the detailed rules for diploma thesis evaluation and grading are specified in the faculty diploma rules, which are not provided in the given information.
+
+References:
+- [KG] page 15
+- [KG] page 16
+- [KG] page 17
+- [KG] page 18
+- [KG] page 19

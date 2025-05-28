@@ -151,9 +151,31 @@ def clear_hybrid_field(path):
         json.dump(data, file, indent=2, ensure_ascii=False)
 
     print(f"Cache 'hybrid' cleared in file: {path}")
+    
+def clear_local_field(path):
+    with open(path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    def clear_local(obj):
+        if isinstance(obj, dict):
+            if "local" in obj:
+                obj["local"] = None
+            for value in obj.values():
+                clear_local(value)
+        elif isinstance(obj, list):
+            for item in obj:
+                clear_local(item)
+
+    clear_local(data)
+
+    with open(path, 'w', encoding='utf-8') as file:
+        json.dump(data, file, indent=2, ensure_ascii=False)
+
+    print(f"Cache 'local' cleared in file: {path}")
         
 async def init_rag():
     clear_hybrid_field(f"{WORKING_DIR}/kv_store_llm_response_cache.json")
+    clear_local_field(f"{WORKING_DIR}/kv_store_llm_response_cache.json")
     configure_logging()
     return await initialize_rag()
 

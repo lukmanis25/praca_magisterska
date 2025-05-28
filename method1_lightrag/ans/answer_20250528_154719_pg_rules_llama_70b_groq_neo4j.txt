@@ -1,0 +1,37 @@
+Question:
+What are the procedural requirements and limitations a student must meet when applying for reinstatement of student rights after removal from the student register?
+
+Answer:
+**Reinstatement of Student Rights Procedure**
+
+To apply for reinstatement of student rights after removal from the student register, a student must meet the following procedural requirements and limitations:
+
+**Eligibility**
+
+* The student must have already studied at Gdańsk University of Technology and accumulated at least 45 ECTS credits at a given faculty.
+* The student must not have been removed from the student register for more than 5 years.
+
+**Application Process**
+
+* The student must submit an application at the dean's office at least 30 days prior to the commencement of the semester in which the studies are to be resumed.
+* The application must be made in person or through the "Moja PG" system.
+
+**Conditions for Reinstatement**
+
+* The student must fulfill the conditions set by the dean, which may include:
+	+ Making up for differences in the curriculum within a scope and time limit set by the dean.
+	+ Paying fees for repeated classes or subjects in accordance with the rector's regulation for the given academic year.
+	+ Obtaining the dean's consent to resume studies in a related field, if the student was removed from the student register on courses that are no longer conducted at Gdańsk University of Technology.
+
+**Limitations**
+
+* A student who has been removed from the student register twice in the same field of study and cycle of studies may not apply for reinstatement.
+* Reinstatement of student rights is not possible after 5 years from being removed from the student register.
+
+**References**
+
+* [KG] file_path: unknown_source (Section XI. Reinstatement of Student Rights, §27)
+* [KG] file_path: unknown_source (Section XI. Reinstatement of Student Rights, §28)
+* [KG] file_path: unknown_source (Section XII. Student Leaves, §28)
+* [KG] file_path: unknown_source (Section XII. Student Leaves, §10)
+* [KG] file_path: unknown_source (Section XII. Student Leaves, §9)

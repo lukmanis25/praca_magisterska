@@ -1,0 +1,16 @@
+Question:
+What specific actions or omissions constitute a valid resignation from studies, resulting in removal from the student register?
+
+Answer:
+According to the provided Knowledge Base, a valid resignation from studies, resulting in removal from the student register, is constituted by a student's failure to submit an application for registration in the "Moja PG" system within 14 days before the beginning of the semester they are going to attend.
+
+Please find the relevant information in the provided Knowledge Base:
+
+* Source ID: 0
+* Content: "end of the dean's leave, the student is obliged to submit an application for registration in the “Moja PG” system no later than 14 days before the beginning of the semester they are going to attend. Failure to submit the application within the above deadline is considered as resignation from studies and results in initiation of proceedings for removal from the student register."
+
+This information is found in the "Sources" section of the Knowledge Base, in the source with ID 0.
+
+References:
+
+* [KG] unknown_source

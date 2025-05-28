@@ -1,0 +1,22 @@
+Question:
+What procedures are outlined in the rules for confirming learning outcomes as a method of undertaking studies at Gdańsk University of Technology?
+
+Answer:
+According to the rules outlined in the knowledge base, confirming learning outcomes is one of the procedures for undertaking studies at Gdańsk University of Technology.
+
+The procedures for confirming learning outcomes are as follows:
+
+* Proceedings for admission by transfer from another university are conducted by a committee appointed by a person authorized by the rector.
+* Learning outcomes are confirmed in the scope corresponding to the learning outcomes specified in the curriculum.
+* As a result of confirming the learning outcomes, no more than 50% of ECTS credits assigned to the classes included in the study program may be credited.
+* The order of admission is determined by the result of learning outcome confirmation.
+* The dean may appoint a tutor for the student accepted for studies as a result of confirming the learning outcomes.
+
+Detailed rules regarding confirmation of learning outcomes at Gdańsk University of Technology are set out in separate regulations.
+
+References:
+* [KG] unknown_source (Section III, §2, paragraph 4)
+* [KG] unknown_source (Section III, §2, paragraph 5)
+* [KG] unknown_source (Section III, §2, paragraph 6)
+* [KG] unknown_source (Section III, §2, paragraph 7)
+* [KG] unknown_source (Section III, §2, paragraph 8)

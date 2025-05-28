@@ -1,0 +1,16 @@
+Question:
+Under what conditions can previously completed subjects by secondary school students be recognized or exempted when they apply for studies at Gdańsk University of Technology?
+
+Answer:
+Based on the provided Knowledge Base, the conditions for recognizing or exempting previously completed subjects by secondary school students when they apply for studies at Gdańsk University of Technology are not explicitly stated.
+
+However, the Knowledge Base does mention that students can change their university after the end of the semester (source: §5 of the provided document). Additionally, it is stated that a student can change the university after the end of the semester, and a student who is applying for a change of university submits a transfer application not later than one month before the beginning of the subsequent semester (source: §4 of the provided document).
+
+It is also mentioned that the detailed rules for the transfer and recognition of learning outcomes when changing the field of study, faculty, and university are provided for in university procedure No. 11.
+
+Therefore, it can be inferred that the conditions for recognizing or exempting previously completed subjects by secondary school students may be outlined in the university procedure No. 11, but the specific details are not provided in the Knowledge Base.
+
+References:
+- [KG] §5 of unknown_source
+- [KG] §4 of unknown_source
+- [KG] university procedure No. 11 of unknown_source

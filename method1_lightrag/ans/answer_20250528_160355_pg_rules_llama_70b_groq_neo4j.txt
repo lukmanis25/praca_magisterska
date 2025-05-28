@@ -1,0 +1,23 @@
+Question:
+How is the final result of master’s degree studies calculated, and what are the corresponding grade categories based on the calculated score?
+
+Answer:
+The final result of master’s degree studies is calculated based on the ECTS points achieved by the student during their studies. According to the provided knowledge base, the condition for completing studies and obtaining the diploma of completion of studies is obtaining the learning outcomes and the number of ECTS points specified in the curriculum.
+
+However, the knowledge base does not explicitly state the calculation method for the final result. Nevertheless, it is mentioned that the final result is based on the ECTS points achieved, which implies that the calculation is likely based on the total number of ECTS points earned by the student throughout their master’s degree studies.
+
+As for the corresponding grade categories, the knowledge base does not provide specific information on the grading scale used by Gdańsk University of Technology. However, it is common in European higher education institutions to use the European Credit Transfer and Accumulation System (ECTS) grading scale, which typically includes the following grade categories:
+
+* Excellent: 90-100%
+* Very Good: 80-89%
+* Good: 70-79%
+* Satisfactory: 60-69%
+* Sufficient: 50-59%
+* Fail: below 50%
+
+Please note that this information is not explicitly stated in the knowledge base, and the actual grading scale used by Gdańsk University of Technology may differ.
+
+References:
+
+* [KG] file_path: unknown_source (Knowledge Graph source)
+* [DC] file_path: unknown_source (Vector Data source)

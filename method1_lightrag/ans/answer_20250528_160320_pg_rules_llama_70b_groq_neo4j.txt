@@ -1,0 +1,19 @@
+Question:
+Under what conditions can students of master’s degree programs extend their studies for one semester, and what academic credit is associated with this extension?
+
+Answer:
+**Extended Study Mode for Master's Degree Programs**
+
+According to the provided Knowledge Base, students in master's degree studies can extend their studies for one semester under certain conditions. Specifically, they can do so if they have obtained a high grade point average after the first semester (or subsequent ones).
+
+**Academic Credit Associated with Extension**
+
+The Knowledge Base does not explicitly mention the academic credit associated with this extension. However, it does mention that students can earn ECTS credits for completed subjects, with the sum of awarded ECTS credits being an integer.
+
+**References**
+
+* [KG] Unknown file path
+* [KG] Unknown file path (Section VI, § 17, point 6)
+* [KG] Unknown file path (Section VI, § 17, point 6)
+* [KG] Unknown file path (Section VI, § 17, point 6)
+* [KG] Unknown file path

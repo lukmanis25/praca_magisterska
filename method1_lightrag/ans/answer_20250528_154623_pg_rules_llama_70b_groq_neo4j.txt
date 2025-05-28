@@ -1,0 +1,20 @@
+Question:
+Under what conditions can students of master’s degree programs extend their studies for one semester, and what academic credit is associated with this extension?
+
+Answer:
+According to the provided Knowledge Base, students of master’s degree programs can extend their studies for one semester under the following conditions:
+
+* The student has accumulated at least 45 ECTS credits at a given faculty.
+* The student has been removed from the student register due to resignation, not due to lack of progress in their studies.
+* The student has been removed from the student register on courses that are no longer conducted at Gdańsk University of Technology, and has obtained the dean's consent to resume studies in a related field.
+
+However, the Knowledge Base does not provide information on the academic credit associated with this extension.
+
+It's worth noting that the Knowledge Base does not provide specific information on master’s degree programs, but rather on general rules and regulations for students at Gdańsk University of Technology. Therefore, it is possible that the rules and regulations may vary depending on the specific program and faculty.
+
+References:
+* [KG] page 15
+* [KG] page 16
+* [DC] unknown_source
+* [KG] unknown_source
+* [DC] unknown_source

@@ -1,0 +1,12 @@
+Question:
+Under what specific conditions may a student be removed from the student register for lack of progress in studies, according to §26?
+
+Answer:
+According to the provided Knowledge Base, there is no mention of §26. However, I can provide information on the conditions for removal from the student register based on the provided text.
+
+According to the text, if a student fails to submit an application for registration in the "Moja PG" system within 14 days before the beginning of the semester they are going to attend, it is considered as resignation from studies and results in initiation of proceedings for removal from the student register (Source 0, page 15).
+
+Additionally, the text does not specify the conditions for removal from the student register for lack of progress in studies under §26. If you could provide more context or information about §26, I would be happy to help.
+
+References:
+[KG] unknown_source (Source 0)

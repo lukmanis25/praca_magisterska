@@ -1,0 +1,15 @@
+Question:
+What are the responsibilities of academic teachers regarding the creation and use of the “eNauczanie” platform for each subject?
+
+Answer:
+According to the provided Knowledge Base, academic teachers are responsible for using the "eNauczanie" platform for communicating learning outcomes. This is mentioned in the relationship between "Teacher" and "eNauczanie", which has a weight of 8.0 and a rank of 7.
+
+Here is a summary of the responsibilities of academic teachers regarding the creation and use of the “eNauczanie” platform for each subject:
+
+* Academic teachers are responsible for using the "eNauczanie" platform for communicating learning outcomes.
+* The "eNauczanie" platform is used for grading system, which implies that academic teachers are responsible for updating grades and learning outcomes on the platform.
+
+Please note that the responsibilities mentioned above are based on the information provided in the Knowledge Base and may not be an exhaustive list of the responsibilities of academic teachers regarding the "eNauczanie" platform.
+
+References:
+* [KG] "57", "source": "Teacher", "target": "eNauczanie", "description": "Teacher uses eNauczanie for communicating learning outcomes.", "keywords": "educational platform, grading system", "weight": "8.0", "rank": "7", "created_at": "UNKNOWN", "file_path": "unknown_source"
