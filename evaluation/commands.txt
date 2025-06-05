@@ -21,4 +21,11 @@ cd praca_magisterska/praca_magisterska/method2_graphrag && \
 source venv/bin/activate && \
 python fill_test_set.py
 
+Naive RAG:
+deactivate && \
+cd ../../.. && \
+cd praca_magisterska/praca_magisterska/method1_lightrag && \
+source venv/bin/activate && \
+python fill_test_set_naive_rag.py
+
 3. Calc metrics (set correct env) - run in evaluate.ipynb notebook
