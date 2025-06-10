@@ -1,0 +1,31 @@
+Question:
+What are the specific conditions under which a student may be removed from a class, and how is such an absence classified?
+
+Answer:
+**Student Removal from Class**
+================================
+
+According to the provided regulations, a student may be removed from the student register due to absence from compulsory classes under the following conditions:
+
+### Unjustified Absence
+
+*   The student must be absent from 4 classes as part of the same form of classes in the selected subject covered by the study plan.
+*   The absence is unjustified, implying that the student did not provide a valid reason for their absence.
+
+### Resignation
+
+*   The student submits a declaration of resignation from studies in the Moja PG system.
+*   The student fails to submit a registration application, as provided for in §28(9).
+
+### Lack of Progress in Studies
+
+*   Students who have been registered and fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies.
+
+**References**
+===============
+
+*   [KG] unknown_source: Paragraph 7
+*   [KG] unknown_source: Paragraph 8
+*   [KG] unknown_source: Paragraph 9
+*   [KG] unknown_source: Paragraph 10
+*   [KG] unknown_source: Paragraph 11

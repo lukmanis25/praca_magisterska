@@ -1,0 +1,39 @@
+Question:
+What are the procedural requirements and limitations a student must meet when applying for reinstatement of student rights after removal from the student register?
+
+Answer:
+**Reinstatement of Student Rights: Procedural Requirements and Limitations**
+===========================================================
+
+According to the provided document, a student who has been removed from the student register may apply for reinstatement of student rights under certain conditions.
+
+### Eligibility Requirements
+
+* The student must have previously studied at Gdańsk University of Technology and accumulated at least 45 ECTS credits at a given faculty. [§27(2)]
+* The student must have been removed from the student register, but not necessarily due to their own actions. [§27(1)]
+
+### Time Limitations
+
+* The student may apply for reinstatement of student rights three years after their removal from the student register. [§27(3)]
+* However, if the student did not meet the requirements set out in paragraphs 2 and 3, their reinstatement will be performed in accordance with the same principles which apply to all candidates for bachelor’s degree or master’s degree studies. [§27(4)]
+* Furthermore, reinstatement of student rights is not possible after 5 years from being removed from the student register. [§27(10)]
+
+### Procedural Requirements
+
+* The student must submit an application at the dean’s office at least 30 days prior to the commencement of the semester in which the studies are to be resumed. [§27(5)]
+* The dean may grant the student the right to resume studies in a semester designated by the dean, after the student fulfills the conditions set by the dean. [§27(6)]
+
+### Other Requirements
+
+* If the student was removed from the student register on courses that are no longer conducted at Gdańsk University of Technology, they may obtain the dean's consent to resume studies in a related field. [§27(9)]
+* A student who has been removed from the student register twice and in the same field of study and cycle of studies may not apply for reinstatement. [§27(10)]
+* A student who has resumed studies twice and was then removed from the student register in the same field of study and cycle of studies may not apply for reinstatement. [§27(10)]
+
+### References
+================================
+
+* [KG] unknown_source
+* [DC] none available
+* [KG] unknown_source (§27)
+* [DC] none available
+* [KG] unknown_source (§27(10))

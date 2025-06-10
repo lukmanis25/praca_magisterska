@@ -1,0 +1,17 @@
+Question:
+What training components are mandatory for students during their first semester at Gdańsk University of Technology?
+
+Answer:
+# Mandatory Training Components for First Semester Students
+
+According to the provided study rules, there is no specific information about mandatory training components for students during their first semester at Gdańsk University of Technology.
+
+However, the rules mention the concept of "individual student account in ‘Moja PG’ system" which implies that students will need to familiarize themselves with the University's electronic system 'Moja PG'. 
+
+Additionally, the rules mention "registration for the semester" which is a decision made by the dean, allowing a student to attend classes included in the curriculum of a given semester. This might involve some mandatory orientation or registration process, but the details are not specified.
+
+To confirm the exact mandatory training components, further information or clarification from the University's administration would be necessary.
+
+### References
+* [KG] unknown_source (Study Rules at Gdańsk University of Technology)
+* [DC] unknown_source (unknown path)

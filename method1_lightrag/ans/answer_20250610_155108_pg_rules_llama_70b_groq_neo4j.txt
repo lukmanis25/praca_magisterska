@@ -1,0 +1,35 @@
+Question:
+Under what circumstances can a student request an examination to be conducted before a committee, and what is the composition of such a committee?
+
+Answer:
+**Requesting an Examination Before a Committee**
+=====================================================
+
+According to §14 of the provided document, a student can request an examination to be conducted before a committee in the following circumstances:
+
+*   During the original exam, there were irregularities in its conduct or in the principles of its marking process.
+*   The scope of the examination carried out exceeds the scope specified in the subject card.
+*   The academic teacher did not comply with the deadlines specified in §13(6), (7) and (8) and in §14(4).
+
+Additionally, a student can request a committee examination within 14 days of the announcement of the original exam results, presenting a detailed justification of the charges.
+
+**Composition of the Examination Committee**
+=============================================
+
+The examination committee, referred to in paragraph 5, consists of:
+
+*   The dean as chairperson
+*   The examiner who conducted the examination in question
+*   A specialist appointed by the dean in the subject matter of the exam or a related subject
+*   A specialist indicated by the student in the subject matter of the examination or a related subject
+
+At the request of the student, the examination committee can be joined by a representative of the Student Government.
+
+**References**
+---------------
+
+*   [KG] unknown_source §14
+*   [KG] unknown_source §15
+*   [KG] unknown_source §16
+*   [KG] unknown_source paragraph 5
+*   [KG] unknown_source paragraph 6

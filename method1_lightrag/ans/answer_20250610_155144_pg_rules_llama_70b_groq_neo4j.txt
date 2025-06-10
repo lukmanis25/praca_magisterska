@@ -1,0 +1,28 @@
+Question:
+What specific actions or omissions constitute a valid resignation from studies, resulting in removal from the student register?
+
+Answer:
+**Resignation from Studies**
+==========================
+
+According to the provided document chunks, a valid resignation from studies, resulting in removal from the student register, is constituted by the following actions or omissions:
+
+* Failing to submit a registration application, as provided for in §28(9). [Reference: 9]
+* Submission of a declaration of resignation from studies in the Moja PG system. [Reference: 8]
+
+These actions or omissions are considered grounds for removal from the student register due to resignation.
+
+**Important Note**
+------------------
+
+It is also mentioned that students who have been registered and fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies. [Reference: 9]
+
+**References**
+--------------
+
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source
+* [DC] unknown_source

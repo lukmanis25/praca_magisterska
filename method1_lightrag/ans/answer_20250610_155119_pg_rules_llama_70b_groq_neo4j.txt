@@ -1,0 +1,29 @@
+Question:
+What are the specific conditions that must be jointly fulfilled for a diploma thesis to be considered successfully submitted at Gdańsk University of Technology?
+
+Answer:
+**Conditions for Successful Submission of Diploma Thesis**
+==========================================================
+
+According to the provided rules, a diploma thesis is considered to be successfully submitted when the following conditions are fulfilled jointly:
+
+### 1. Declaration of Independent Completion
+The student submits a declaration of independent completion of the diploma thesis.
+
+### 2. Thesis Upload and Attachments
+The diploma thesis is uploaded with attachments to the university repository of written diploma theses using the “MojaPG”, university system.
+
+### 3. Thesis Supervisor Approval
+The thesis supervisor approves the thesis and sends it for review.
+
+These conditions must be met simultaneously for the diploma thesis to be considered successfully submitted.
+
+**References**
+--------------
+
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source
+* [DC] unknown_source

@@ -245,14 +245,194 @@
     }
   },
   "naive": {
-    "886aed793d6f3254365f9d32eb4f28c0": {
-      "return": "**Graduation Requirements**\n\nTo graduate from Gdańsk University of Technology, students must fulfill certain requirements. These requirements are outlined in the study program and curriculum. Students must attend classes, take examinations, complete internships, and fulfill other requirements stipulated in the study plan and curriculum (§9.1).\n\n**Diploma Thesis and Examination**\n\nStudents must write and defend a diploma thesis in accordance with the study program. The diploma thesis must be submitted within the specified timeframe (§21.11). After successfully defending the thesis, students can participate in the diploma examination.\n\n**Final Examination**\n\nThe final examination consists of a basic examination session and a retake examination session. The basic examination session lasts at least ten consecutive days, whereas the retake examination session lasts at least six consecutive days ().\n\n**Diploma with Distinction**\n\nStudents who meet certain criteria, such as achieving a weighted average grade not lower than 4.5 or demonstrating outstanding scientific achievements, may be granted a diploma with distinction (§31).\n\n**Graduation Ceremony**\n\nAfter completing all requirements, students can participate in the graduation ceremony, where they will receive their diploma.\n\nReferences**\n[KG] unknown_source\n[KG] unknown_source",
+    "1c9aadd13a6612c237bb0d6759f9da9c": {
+      "return": "**Transfer Obligations at Gdańsk University of Technology**\n\nAfter receiving approval for a transfer from another university to Gdańsk University of Technology, a student must fulfill the following obligations:\n\n### Taking the Oath\nThe student must take the oath defined in the Statute of Gdańsk University of Technology.\n\n### Formal Confirmation\nFormal confirmation of taking the oath takes place on the student's individual account in the Moja PG system.\n\n### Obtaining a Student ID Card\nThe student has the right to obtain a student ID card.\n\n### Completion of Mandatory Training\nDuring the first semester of studies at Gdańsk University of Technology, students undergo mandatory training, including:\n\n* Health and safety\n* Library training\n* Study rules\n* The use of the ‘Moja PG’ system\n* Preparation for participation in classes conducted using distance learning methods and techniques\n\n### Signing the Contract\nThe student must sign the contract referred to in §9(1)(4) of these rules.\n\n### Undergoing Training Courses\nThe student must undergo training courses referred to in §3(6).\n\n### Other Obligations\nThe student's rights and obligations expire on the day of graduation or deletion from the student register; the person who has completed bachelor’s degree studies preserves the student rights until October 31 of the year in which they graduated, excluding the right to financial assistance.\n\n### References\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source",
       "cache_type": "query",
       "embedding": null,
       "embedding_shape": null,
       "embedding_min": null,
       "embedding_max": null,
-      "original_prompt": "How can students graduate from university?"
+      "original_prompt": "What are the obligations a student must fulfill after receiving approval for a transfer from another university to Gdańsk University of Technology?\\"
+    },
+    "bf894f2c79a12a6872225c9db845671a": {
+      "return": "**Confirmation of Learning Outcomes as a Method of Undertaking Studies**\n\nAccording to the rules outlined in the document, confirmation of learning outcomes is conducted as a procedure for undertaking studies at Gdańsk University of Technology. The following steps are outlined for this procedure:\n\n* Proceedings for admission by transfer from another university are conducted by a committee appointed by a person authorized by the rector.\n* Learning outcomes are confirmed in the scope corresponding to the learning outcomes specified in the curriculum.\n* As a result of confirming the learning outcomes, no more than 50% of ECTS credits assigned to the classes included in the study program may be credited.\n* The order of admission is determined by the result of learning outcome confirmation.\n* The dean may appoint a tutor for the student accepted for studies as a result of confirming the learning outcomes.\n\nThese steps provide the procedures for confirming learning outcomes as a method of undertaking studies at Gdańsk University of Technology.\n\n**References**\n\n* [KG] unknown_source\n* [DC] unknown_source\n* [KG] unknown_source\n* [DC] unknown_source\n* [KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What procedures are outlined in the rules for confirming learning outcomes as a method of undertaking studies at Gdańsk University of Technology?"
+    },
+    "fb8921716fc9ee141fd13f84fefd5e8b": {
+      "return": "# Mandatory Training Components for First Semester Students\n\nAccording to the provided study rules, there is no specific information about mandatory training components for students during their first semester at Gdańsk University of Technology.\n\nHowever, the rules mention the concept of \"individual student account in ‘Moja PG’ system\" which implies that students will need to familiarize themselves with the University's electronic system 'Moja PG'. \n\nAdditionally, the rules mention \"registration for the semester\" which is a decision made by the dean, allowing a student to attend classes included in the curriculum of a given semester. This might involve some mandatory orientation or registration process, but the details are not specified.\n\nTo confirm the exact mandatory training components, further information or clarification from the University's administration would be necessary.\n\n### References\n* [KG] unknown_source (Study Rules at Gdańsk University of Technology)\n* [DC] unknown_source (unknown path)",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What training components are mandatory for students during their first semester at Gdańsk University of Technology?"
+    },
+    "1c0e4e81f411966959adb87cf1e2419d": {
+      "return": "**Personal Information and Communication Channels**\n=====================================================\n\nAt Gdańsk University of Technology, students have the following responsibilities regarding their personal information and communication channels used for study-related matters:\n\n### Personal Information\n\nAccording to §10, students have the responsibility to:\n\n* **Submit applications** on electronic forms available in the Moja PG system and in the manner provided for by applicable law.\n* **Justify absences** from classes, leaves of absence from classes, and leaves from classes with the possibility of verification of the learning outcomes obtained, as specified in the study program referred to in §13(4) and (9) and in §28.\n\n### Communication Channels\n\nStudents are also responsible for:\n\n* **Using the university library resources**.\n* **Participating, through their representatives, in decision-making activities of the collegial bodies at Gdańsk University of Technology**, pursuant to the provisions of the Act and the University Statute.\n* **Referring to the dean in the matters relating to their studies**.\n* **Benefiting, during their studies, from student financial assistance**, in accordance with the rules defined in the Act and in the rules issued on the basis thereof.\n\n### Communication Preferences\n\nStudents also have the right to:\n\n* **Receive information about changes made in the study program during the education cycle to the individual student's account in the “Moja PG” system within 14 days of their introduction**.\n* **Obtain information concerning them through their individual student accounts in the ‘Moja PG’ system, with at least 7 days’ notice**.\n\n### References\n================\n\n* [KG] unknown_source §10\n* [KG] unknown_source §13\n* [KG] unknown_source §28\n* [KG] unknown_source §29\n* [KG] unknown_source §30",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What responsibilities do students have regarding their personal information and the communication channels used for study-related matters at Gdańsk University of Technology?"
+    },
+    "1b29a650ff2b4b56af36d2f98100fb79": {
+      "return": "# Ensuring Transparency and Accessibility of Study Programs and Documentation\n\nThe Gdańsk University of Technology ensures transparency and accessibility of its study programs and subject-related documentation through various means.\n\n## Availability of Study Programs and Documentation\n\nAccording to the Study Rules, the University provides access to its study programs and subject-related documentation through the \"Moja PG\" system, which is an electronic system containing information on the student's course of studies and current status. This system allows students to access their individual student account, where they can view their study plan, subject cards, and other relevant information.\n\n## Publicly Available Information\n\nThe University also makes publicly available information about its study programs and subject-related documentation. The Study Rules are available to the public, and the University provides a table of contents outlining the structure and content of the rules. This allows students, faculty members, and other stakeholders to access the necessary information without having to request it specifically.\n\n## Accessibility of Documentation\n\nThe University ensures that its study programs and subject-related documentation are accessible to all students, regardless of their abilities. The Study Rules provide definitions for various terms used in the rules, including \"learning outcomes,\" \"individual student account in 'Moja PG' system,\" and \"subject card.\" These definitions help students understand the content and requirements of the study programs.\n\n## References\n[KG] unknown_source\n[KG] unknown_source\n[KG] unknown_source\n[KG] unknown_source\n[KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How does the Gdańsk University of Technology ensure transparency and accessibility of its study programs and subject-related documentation?"
+    },
+    "5128a90a945f52c3ed7c8a634f030fa5": {
+      "return": "# Conducting Classes in a Foreign Language\n\nAccording to the provided document, classes at Gdańsk University of Technology may be conducted in a foreign language, but there is no specific information provided regarding the circumstances under which this occurs.\n\nHowever, it is mentioned in §4 that \"Teaching may be carried out in the form of lectures, classes, laboratory classes, workshops and projects, seminars and foreign language courses.\"\n\nThis suggests that classes may be conducted in a foreign language as part of the teaching methods, but the specific circumstances or requirements for this are not specified.\n\n# Language of Examination\n\nThere is no explicit information provided regarding how the language of examination is determined in cases where classes are conducted in a foreign language.\n\nHowever, it is mentioned in §4 that \"Classes may also be conducted using distance education methods and techniques.\" It is possible that the language of examination could be determined in accordance with the requirements of the specific distance education methods or techniques being used.\n\nTo determine the language of examination in such cases, further information or clarification would be necessary.\n\n# References\n\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source\n* [KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances may classes at Gdańsk University of Technology be conducted in a foreign language, and how is the language of examination determined in such cases?"
+    },
+    "0ca15fc9b91ef0371198cc37afe5b212": {
+      "return": "**Removal from the Student Register due to Absence**\n=====================================================\n\nAccording to the provided regulations, a student may be removed from the student register due to absence from compulsory classes in the following circumstances:\n\n* Unjustified absence from 4 classes as part of the same form of classes in the selected subject covered by the study plan (Paragraph 7).\n\n**Classification of Absence**\n-------------------------\n\nThe absence is classified as unjustified, implying that the student's reasons for missing classes are not acceptable according to the university's regulations.\n\n**Note**\n----\n\nThe regulations do not specify the consequences of justified absence from classes. It is possible that the regulations provide for a different classification or consequences for justified absence, but this information is not provided in the given text.\n\nReferences\n----------\n\n* [KG] unknown_source\n* [KG] unknown_source (Paragraph 7)",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the specific conditions under which a student may be removed from a class, and how is such an absence classified?"
+    },
+    "ed79e17372318ae3b76e1267bd2fb3f8": {
+      "return": "# Academic Teachers Responsibilities Regarding \"eNauczanie\" Platform\n\nAccording to the provided document, academic teachers have the following responsibilities regarding the creation and use of the “eNauczanie” platform for each subject:\n\n## Providing Information on Hours of Consultation\n\n* Academic teachers are responsible for providing information on the hours of consultation for each subject, which should be done not later than 14 days after starting the classes. (Document Chunk 5)\n\n## Updating Subject Cards\n\n* Academic teachers are responsible for updating subject cards in the ‘Moja PG’ portal, which can be done during the learning cycle, subject to paragraph 2. (Document Chunk 3)\n\n## Publishing Detailed Schedule of Classes\n\n* Academic teachers are responsible for publishing a detailed schedule of classes with their names on the ‘Moja PG’ website or the Faculty website, which should be done at least 7 days before the beginning of each semester. (Document Chunk 4)\n\n## Familiarization with Regulations and Information\n\n* Academic teachers are expected to familiarize themselves with regulations and information posted on the website and in the “eNauczanie” portal of Gdańsk University of Technology.\n\n## References\n\n* [KG] unknown_source\n* [DC] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the responsibilities of academic teachers regarding the creation and use of the “eNauczanie” platform for each subject?"
+    },
+    "27e56bbf054ed624cf529fc139acfa1f": {
+      "return": "**Request for Examination by Committee**\n=====================================\n\nAccording to §14, a student can request an examination to be conducted before a committee in the following circumstances:\n\n*   Irregularities in the conduct or marking process of the original exam.\n*   The scope of the examination exceeds the scope specified in the subject card.\n*   The academic teacher did not comply with the deadlines specified in §13(6), (7) and (8) and in §14(4).\n\nAdditionally, §6 states that a student, a representative of the Student Government, or the examiner can submit a request to conduct an examination before a committee within 14 days of the announcement of the original exam results, presenting a detailed justification of the charges.\n\n**Composition of the Examination Committee**\n-----------------------------------------\n\nThe examination committee consists of:\n\n*   The dean as chairperson.\n*   The examiner who conducted the examination in question.\n*   A specialist appointed by the dean in the subject matter of the exam or a related subject.\n*   A specialist indicated by the student in the subject matter of the examination or a related subject.\n\nAt the request of the student, the examination committee can also be joined by a representative of the Student Government.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what circumstances can a student request an examination to be conducted before a committee, and what is the composition of such a committee?"
+    },
+    "821b2a14db227b8eb98616a3f9ccdaaf": {
+      "return": "# Categories of Students Eligible for Individual Study Plan\nAccording to the provided information, there is no mention of specific categories of students for whom the dean may agree to implement an individual study plan upon receiving a request within 14 days of the semester's start.\n\nHowever, it is mentioned in §1 of the Public Information Bulletin (BIP) that study programs are made available in BIP within 14 days of their adoption. Changes to the study programs introduced during the education course are made available through BIP at least one month before the commencement of the semester they concern.\n\nThere is also a mention in §4 of the Public Information Bulletin (BIP) that changes to the study programs introduced during the education course are made available through BIP at least one month before the commencement of the semester they concern.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the specific categories of students for whom the dean may agree to implement an individual study plan upon receiving a request within 14 days of the semester's start?"
+    },
+    "a0a5a8989db6a542c26425fdee24e134": {
+      "return": "**Approval and Implementation of Individual Research Studies**\n\nAccording to the provided document, the procedural requirements for the approval and implementation of individual research studies, including interdisciplinary ones, are as follows:\n\nThe program and plan of individual research studies, including individual interdisciplinary studies, are determined by the student and their academic supervisor, pursuant to paragraph 4, and approved by the dean.\n\n**Key Requirements**\n\n*   The student and their academic supervisor must jointly determine the program and plan of the individual research studies.\n*   The dean must approve the program and plan.\n*   The approval process is based on paragraph 4 of the document.\n\n**Interdisciplinary Studies**\n\nIndividual interdisciplinary studies are also subject to the same approval process as individual research studies. The document does not provide specific requirements for interdisciplinary studies, but it is likely that the same procedures apply.\n\n**References**\n\n*   [KG] unknown_source: paragraph 11\n*   [KG] unknown_source: paragraph 4",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What procedural requirements must be fulfilled for the approval and implementation of individual research studies, including interdisciplinary ones?"
+    },
+    "35d01a4bfa75095752245548648508b8": {
+      "return": "**Extension of Master's Degree Studies**\n=====================================\n\nAccording to the provided document, students of master's degree studies can apply for an extension of their studies by one semester to complete a long-term industrial research internship. This extension is associated with the award of 30 ECTS credits.\n\n**Conditions for Extension**\n---------------------------\n\nTo be eligible for this extension, students must meet the following conditions:\n\n*   They must be enrolled in a master's degree program.\n*   They must apply for an extension to complete a long-term industrial research internship.\n*   They must be approved by the dean.\n\n**Academic Credit**\n-------------------\n\nThe extension is associated with the award of 30 ECTS credits for the industrial research internship.\n\nReferences\n------------\n\n*   [KG] unknown_source\n*   [DC] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what conditions can students of master’s degree programs extend their studies for one semester, and what academic credit is associated with this extension?"
+    },
+    "6bfd165b06dd042133e6f003a8c30d5d": {
+      "return": "**Conditions for Successful Submission of Diploma Thesis**\n===========================================================\n\nAccording to the provided document, a diploma thesis is considered to be successfully submitted when the following conditions are fulfilled jointly:\n\n### 1. Declaration of Independent Completion\nThe student submits a declaration of independent completion of the diploma thesis.\n\n### 2. Uploading of Thesis to University Repository\nThe diploma thesis is uploaded with attachments to the university repository of written diploma theses using the “MojaPG”, university system.\n\n### 3. Approval by Thesis Supervisor\nThe thesis supervisor approves the thesis and sends it for review.\n\nThese conditions must be jointly fulfilled for a diploma thesis to be considered successfully submitted at Gdańsk University of Technology.\n\n**Reference**\n------------\n\n* [KG] unknown_source (paragraph 9)",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the specific conditions that must be jointly fulfilled for a diploma thesis to be considered successfully submitted at Gdańsk University of Technology?"
+    },
+    "873148984781b6d33184d3bcfceccfe3": {
+      "return": "According to the text, a diploma thesis may be submitted in the form of a published or accepted article under the following circumstances:\n\n* The student's request is approved by the diploma thesis supervisor.\n* The article must be published or accepted for publication in a peer-reviewed journal or post-conference materials (in accordance with the current ministerial list for a minimum of 100 points).\n* The article must be related to learning outcomes achieved in a given field, level, and profile of studies.\n* The student must be the first author of the article in the case of multi-authored publications.\n* The student must submit a self-report.\n\nAdditionally, the text specifies that the supervisor and reviewer are obliged to write separate opinions and reviews for each individual author of a collective diploma thesis if it is submitted in the form of a published or accepted article.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "According to the text, under what circumstances may a diploma thesis be submitted in the form of a published or accepted article, and what additional requirement must be met in such cases?"
+    },
+    "5d69f24431d66ba677d6a793e0ec7836": {
+      "return": "**Calculation of Final Result of Master's Degree Studies**\n==========================================================\n\nAccording to §25, paragraph 3, the final result of master's degree studies is calculated with accuracy to the nearest two decimal places after the decimal point, in accordance with the following formula:\n\nw = 0.6a + 0.3b + 0.1c\n\nwhere:\n- a is the final weighted grade average in accordance with the rules stipulated in §16\n- b is a positive grade for the diploma thesis\n- c is a positive grade for the diploma examination\n\n**Corresponding Grade Categories**\n================================\n\nThe final result of studies (paragraph 2 and 3) is entered in the diploma in accordance with the following credit scale:\n\n| Credit Scale | w (score) | Final Grade for Studies |\n| --- | --- | --- |\n| 4.50 and above | w ≥ 4.50 | very good |\n| 4.10 to 4.50 | 4.10 ≤ w < 4.50 | good plus |\n| 3.70 to 4.10 | 3.70 ≤ w < 4.10 | good |\n| 3.30 to 3.70 | 3.30 ≤ w < 3.70 | satisfactory plus |\n| 3.00 to 3.30 | 3.00 ≤ w < 3.30 | satisfactory |\n\n**References**\n===============\n\n* [KG] unknown_source: §25, paragraph 3\n* [KG] unknown_source: §25, paragraph 2\n* [KG] unknown_source: Credit scale\n* [KG] unknown_source: Calculation of final result of master's degree studies\n* [KG] unknown_source: Corresponding grade categories",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How is the final result of master’s degree studies calculated, and what are the corresponding grade categories based on the calculated score?"
+    },
+    "ab0f572fc07ad89ca6d8a97a5b536ac8": {
+      "return": "According to the provided document, students who have been registered and fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies. This information is found in paragraph 9 of section XI, under the subsection \"REINSTATEMENT OF STUDENT RIGHTS\".\n\nHere is a summary of the relevant information:\n\n### Lack of Progress in Studies\n\n* Students who have been registered and fail to complete the same semester three times may be excluded from the student register.\n* This exclusion is due to lack of progress in their studies.\n\n### References\n\n* [DC] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what specific conditions may a student be removed from the student register for lack of progress in studies, according to §26?"
+    },
+    "69dc051830e1d7f965943c02b13a0fd1": {
+      "return": "**Reinstatement of Student Rights: Procedural Requirements and Limitations**\n\nAccording to the provided document, a student who has been removed from the student register may apply for reinstatement of their student rights under certain conditions.\n\n**Eligibility Criteria**\n------------------------\n\nTo be eligible for reinstatement, a student must have previously studied at Gdańsk University of Technology and accumulated at least 45 ECTS credits at a given faculty.\n\n**Conditions for Reinstatement**\n------------------------------\n\nThe decision to allow a student to resume studies is made by the dean. The student must submit an application at the dean's office at least 30 days prior to the commencement of the semester in which the studies are to be resumed.\n\n**Limitations**\n--------------\n\n*   Reinstatement of student rights is not possible after 5 years from being removed from the student register.\n*   A person who resumed studies twice and was then removed from the student register in the same field of study and cycle of studies may not apply for reinstatement.\n\n**Other Requirements**\n---------------------\n\n*   Persons applying to have their student rights reinstated three years after their removal from the student register are obliged to take a reactivation examination pursuant to the rules established by the dean.\n*   Persons resuming their studies are obliged to make up for differences in the curriculum within a scope and time limit set by the dean.\n\n**References**\n--------------\n\n*   [KG] XI. REINSTATEMENT OF STUDENT RIGHTS\n*   [KG] §27\n*   [KG] §28\n*   [DC] unknown_source\n*   [KG] page 15\n*   [DC] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the procedural requirements and limitations a student must meet when applying for reinstatement of student rights after removal from the student register?"
+    },
+    "eba7f9bf0887e7d0cc714f3a6714d691": {
+      "return": "**Resignation from Studies**\n==========================\n\nAccording to the provided regulations, a valid resignation from studies, resulting in removal from the student register, occurs in the following circumstances:\n\n*   The student submits a declaration of resignation from studies in the Moja PG system. [§28(9)]\n*   Failure to submit a registration application, as provided for in §28(9).\n\n**Consequences of Resignation**\n=============================\n\nUpon resignation, the student is removed from the student register. Students who have been registered and fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies.\n\n**References**\n==============\n\n*   [KG] unknown_source\n*   [KG] unknown_source\n*   [KG] unknown_source\n*   [KG] unknown_source\n*   [KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What specific actions or omissions constitute a valid resignation from studies, resulting in removal from the student register?"
+    },
+    "7788281aec718d070e9846a31b34c35a": {
+      "return": "Eligibility Criteria for Diploma with Distinction\n=============================================\n\nAccording to the provided rules, there is no explicit information about the eligibility criteria for a student to receive a diploma with distinction at Gdańsk University of Technology.\n\nHowever, it can be inferred that the student must meet the general requirements for graduation, which are not explicitly stated in the provided document.\n\nTo determine the eligibility criteria, further information from the university's regulations or the student's study plan would be necessary.\n\nReferences\n----------\n\n* [KG] unknown_source\n* [DC] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the eligibility criteria for a student to receive a diploma with distinction at Gdańsk University of Technology?"
+    },
+    "48a1d0b87edd9ce9331a03f29d7bdfa8": {
+      "return": "# Exceptionally Gifted Students Rights and Opportunities\n\nAccording to the provided document, exceptionally gifted students are granted special conditions and modes of study. These rights and opportunities are outlined in Section XV, \"CONDITIONS AND MODE OF STUDY FOR EXCEPTIONALLY GIFTED STUDENTS\".\n\nThe document does not provide a detailed description of the specific rights and opportunities granted to exceptionally gifted students. However, it does mention that these students have access to special conditions and modes of study, which implies that they may have additional privileges or benefits not available to other students.\n\nTo determine the specific rights and opportunities granted to exceptionally gifted students, further information or clarification from the document or the university is necessary.\n\n### References\n\n* [KG] unknown_source (Section XV, CONDITIONS AND MODE OF STUDY FOR EXCEPTIONALLY GIFTED STUDENTS)\n* [DC] unknown_source (Section XV, CONDITIONS AND MODE OF STUDY FOR EXCEPTIONALLY GIFTED STUDENTS)\n* [KG] unknown_source (Section I, GENERAL PROVISIONS)\n* [DC] unknown_source (Section I, GENERAL PROVISIONS)\n* [KG] unknown_source (Section II, UNDERTAKING STUDIES)",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What rights and opportunities are granted to exceptionally gifted secondary school students who attend university classes at Gdańsk University of Technology?"
+    },
+    "9eb9468baf1c294e964dfde504e2ee38": {
+      "return": "**Exemption of Previously Completed Subjects**\n=====================================================\n\nAccording to the provided rules, secondary school students who have previously attended classes and completed them with a positive result at Gdańsk University of Technology can be exempted from having to complete the same subjects, provided the learning outcomes of these subjects have not been changed.\n\n**Conditions for Exemption**\n---------------------------\n\nThe conditions for exemption are as follows:\n\n1. The student must have previously attended classes and completed them with a positive result at Gdańsk University of Technology.\n2. The learning outcomes of the subjects to be exempted must not have been changed.\n3. The final decision in this matter is made by the academic teacher conducting classes in the particular subject.\n\n**Recognition of Previously Completed Subjects**\n--------------------------------------------\n\nAdditionally, students admitted to a different field of studies at Gdańsk University of Technology may be exempted from having to attend subjects they have already completed before commencing their studies, provided that these subjects are listed in the study plan, and that the academic teacher in charge of the subject decides the already attained learning outcomes to be sufficient.\n\n**References**\n--------------\n\n* [KG] unknown_source\n* [KG] unknown_source",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Under what conditions can previously completed subjects by secondary school students be recognized or exempted when they apply for studies at Gdańsk University of Technology?"
     }
   },
   "hybrid": null,

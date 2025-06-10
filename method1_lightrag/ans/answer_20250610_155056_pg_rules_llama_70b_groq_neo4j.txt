@@ -1,0 +1,20 @@
+Question:
+Under what circumstances may classes at Gdańsk University of Technology be conducted in a foreign language, and how is the language of examination determined in such cases?
+
+Answer:
+**Language of Instruction and Examination at Gdańsk University of Technology**
+
+According to the provided document chunks, the language of instruction and examination at Gdańsk University of Technology is not explicitly stated for all cases. However, we can infer some information from the following points:
+
+*   **Language of instruction**: The document mentions that students may complete part of their study program at other universities, including foreign universities, and students from other universities may complete part of their study at Gdańsk University of Technology, pursuant to bilateral contracts between universities. This implies that classes may be conducted in a foreign language in cases where international students are involved or when students are studying abroad.
+*   **Language of examination**: The document does not provide specific information on how the language of examination is determined in cases where classes are conducted in a foreign language. However, it can be inferred that the language of examination may be the same as the language of instruction, as there is no mention of a separate language for examination.
+
+In summary, while the document does not provide explicit information on the language of instruction and examination, it can be inferred that classes may be conducted in a foreign language in cases involving international students or study abroad programs. The language of examination may also be the same as the language of instruction in such cases.
+
+**References**
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source

@@ -1,0 +1,8 @@
+Question:
+Under what specific conditions may a student be removed from the student register for lack of progress in studies, according to §26?
+
+Answer:
+According to the provided document, students who have been registered and fail to complete the same semester three times may be excluded from the student register on account of lack of progress in their studies. This information is found in point 9 under the section "Removal from the student register due to resignation" which is actually under "Removal from the student register due to absence from compulsory classes occurs in the event of unjustified absence from 4 classes as part of the same form of classes in the selected subject covered by the study plan" (point 7), however it is clearly stated under point 9.
+
+### References
+* [KG] unknown_source #9

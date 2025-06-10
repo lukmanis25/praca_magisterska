@@ -1,0 +1,33 @@
+Question:
+Under what conditions can students of master’s degree programs extend their studies for one semester, and what academic credit is associated with this extension?
+
+Answer:
+**Extension of Master's Degree Studies**
+=====================================
+
+According to the provided document, students of master's degree studies can apply for an extension of their studies by one semester, in order to complete a long-term industrial research internship. This extension is associated with the award of 30 ECTS credits.
+
+**Conditions for Extension**
+---------------------------
+
+To be eligible for this extension, students must meet the following conditions:
+
+*   Be enrolled in a master's degree program
+*   Apply for an extension of their studies
+*   Plan to complete a long-term industrial research internship
+
+**Academic Credit**
+------------------
+
+The extension of studies is associated with the award of 30 ECTS credits.
+
+**References**
+--------------
+
+*   [KG] unknown_source
+*   [DC] unknown_source
+*   [KG] unknown_source
+*   [DC] unknown_source
+*   [KG] unknown_source
+
+Note: The file path is unknown as it was not provided in the Document Chunks.

@@ -1,0 +1,28 @@
+Question:
+What are the responsibilities of academic teachers regarding the creation and use of the “eNauczanie” platform for each subject?
+
+Answer:
+# Academic Teachers Responsibilities Regarding "eNauczanie" Platform
+
+According to the provided document, academic teachers have the following responsibilities regarding the creation and use of the “eNauczanie” platform for each subject:
+
+## Providing Information on Hours of Consultation
+
+* Academic teachers are responsible for providing information on the hours of consultation for each subject, which should be done not later than 14 days after starting the classes. (Document Chunk 5)
+
+## Updating Subject Cards
+
+* Academic teachers are responsible for updating subject cards in the ‘Moja PG’ portal, which can be done during the learning cycle, subject to paragraph 2. (Document Chunk 3)
+
+## Publishing Detailed Schedule of Classes
+
+* Academic teachers are responsible for publishing a detailed schedule of classes with their names on the ‘Moja PG’ website or the Faculty website, which should be done at least 7 days before the beginning of each semester. (Document Chunk 4)
+
+## Familiarization with Regulations and Information
+
+* Academic teachers are expected to familiarize themselves with regulations and information posted on the website and in the “eNauczanie” portal of Gdańsk University of Technology.
+
+## References
+
+* [KG] unknown_source
+* [DC] unknown_source

@@ -8,7 +8,7 @@ sys.path.append(".")
 from query_naive import query, init_rag
 
 INPUT_FILE = "../evaluation/test_data/study_rules/test_set.json"
-OUTPUT_FILE = "../evaluation/test_data/study_rules/test_set_naive_rag.json"
+OUTPUT_FILE = "../evaluation/test_data/study_rules/test_set_naive_rag_small_top_k.json"
 
 
 def load_json(path):

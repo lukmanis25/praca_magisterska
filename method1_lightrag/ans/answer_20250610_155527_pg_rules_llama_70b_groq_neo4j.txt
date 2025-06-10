@@ -1,0 +1,37 @@
+Question:
+How is the final result of master’s degree studies calculated, and what are the corresponding grade categories based on the calculated score?
+
+Answer:
+**Calculation of Final Result of Master's Degree Studies**
+==========================================================
+
+According to §25, paragraph 3, the final result of master's degree studies is calculated with accuracy to the nearest two decimal places after the decimal point, in accordance with the following formula:
+
+w = 0.6a + 0.3b + 0.1c
+
+where:
+- a is the final weighted grade average in accordance with the rules stipulated in §16
+- b is a positive grade for the diploma thesis
+- c is a positive grade for the diploma examination
+
+**Corresponding Grade Categories**
+================================
+
+The final result of studies (paragraph 2 and 3) is entered in the diploma in accordance with the following credit scale:
+
+| Credit Scale | w (score) | Final Grade for Studies |
+| --- | --- | --- |
+| 4.50 and above | w ≥ 4.50 | very good |
+| 4.10 to 4.50 | 4.10 ≤ w < 4.50 | good plus |
+| 3.70 to 4.10 | 3.70 ≤ w < 4.10 | good |
+| 3.30 to 3.70 | 3.30 ≤ w < 3.70 | satisfactory plus |
+| 3.00 to 3.30 | 3.00 ≤ w < 3.30 | satisfactory |
+
+**References**
+===============
+
+* [KG] unknown_source: §25, paragraph 3
+* [KG] unknown_source: §25, paragraph 2
+* [KG] unknown_source: Credit scale
+* [KG] unknown_source: Calculation of final result of master's degree studies
+* [KG] unknown_source: Corresponding grade categories

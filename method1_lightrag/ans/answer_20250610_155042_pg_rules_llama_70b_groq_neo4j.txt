@@ -1,0 +1,28 @@
+Question:
+What training components are mandatory for students during their first semester at Gdańsk University of Technology?
+
+Answer:
+# Mandatory Training Components for First Semester Students
+## Overview
+The rules specify the mandatory training components for students during their first semester at Gdańsk University of Technology.
+
+## Mandatory Components
+According to the provided rules, the following components are mandatory for students during their first semester:
+
+* Confirmation of learning outcomes
+* Registration for the semester
+
+These components are crucial for students to ensure they are properly admitted to studies and have access to the necessary resources and classes.
+
+## Additional Requirements
+While not explicitly stated as mandatory, the rules imply that students may need to attend classes included in the curriculum of the given semester, as part of the registration process.
+
+## Conclusion
+In summary, students during their first semester at Gdańsk University of Technology must undergo confirmation of learning outcomes and register for the semester. These components are essential for a smooth start to their academic journey.
+
+## References
+* [KG] unknown_source (Study Rules at Gdańsk University of Technology)
+* [KG] unknown_source (Study Rules at Gdańsk University of Technology) - Section I. GENERAL PROVISIONS
+* [KG] unknown_source (Study Rules at Gdańsk University of Technology) - Section II. UNDERTAKING STUDIES
+* [KG] unknown_source (Study Rules at Gdańsk University of Technology) - Section III. ORGANIZATION OF STUDIES
+* [KG] unknown_source (Study Rules at Gdańsk University of Technology) - Section VII. REGISTRATION RULES

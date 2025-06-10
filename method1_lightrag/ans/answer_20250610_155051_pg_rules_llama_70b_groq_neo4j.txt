@@ -1,0 +1,21 @@
+Question:
+How does the Gdańsk University of Technology ensure transparency and accessibility of its study programs and subject-related documentation?
+
+Answer:
+**Transparency and Accessibility of Study Programs and Subject-Related Documentation at Gdańsk University of Technology**
+
+According to the provided study rules, Gdańsk University of Technology ensures transparency and accessibility of its study programs and subject-related documentation through the following means:
+
+*   **Individual student account in “Moja PG” system**: The university provides an account in the electronic system 'Moja PG', which contains information on the student's course of studies and current status. This allows students to easily access and track their academic progress.
+*   **Subject card**: The subject card includes a detailed description of each subject, including learning outcomes, ECTS credits, prerequisites, and rules for obtaining credits. This ensures that students have access to accurate and comprehensive information about the subjects they are enrolled in.
+*   **Study plan**: The study plan is a schedule for subjects included in a curriculum, which helps students plan their academic path and ensure that they meet the necessary requirements for graduation.
+*   **Confirmation of learning outcomes**: The university allows students to obtain up to 50% of ECTS credits based on knowledge, skills, and social competence obtained outside the education or study system. This provision promotes flexibility and recognizes students' prior learning experiences.
+*   **Electronic system**: The use of an electronic system like 'Moja PG' suggests that the university has implemented digital solutions to manage and disseminate information, making it more accessible to students.
+
+**References**
+
+*   [KG] File path: unknown_source (Section II. UNDERTAKING STUDIES)
+*   [KG] File path: unknown_source (Section I. GENERAL PROVISIONS)
+*   [KG] File path: unknown_source (Section V. SUBJECT COMPLETION AND CREDIT POINT SYSTEM RULES)
+*   [KG] File path: unknown_source (Section VI. INDIVIDUAL STUDY PLAN AND CURRICULUM)
+*   [KG] File path: unknown_source (Section VII. REGISTRATION RULES)
