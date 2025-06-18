@@ -1,0 +1,57 @@
+user_input,response,reference,answer_correctness,answer_relevancy,factual_correctness(mode=f1),factual_correctness(mode=recall),semantic_similarity
+What are the obligations a student must fulfill after receiving approval for a transfer from another university to Gdańsk University of Technology?\,"**Transfer Obligations at Gdańsk University of Technology**
+
+After receiving approval for a transfer from another university to Gdańsk University of Technology, a student must fulfill the following obligations:
+
+### Taking the Oath
+The student must take the oath defined in the Statute of Gdańsk University of Technology.
+
+### Formal Confirmation
+Formal confirmation of taking the oath takes place on the student's individual account in the Moja PG system.
+
+### Obtaining a Student ID Card
+The student has the right to obtain a student ID card.
+
+### Completion of Mandatory Training
+During the first semester of studies at Gdańsk University of Technology, students undergo mandatory training, including:
+
+* Health and safety
+* Library training
+* Study rules
+* The use of the ‘Moja PG’ system
+* Preparation for participation in classes conducted using distance learning methods and techniques
+
+### Signing the Contract
+The student must sign the contract referred to in §9(1)(4) of these rules.
+
+### Undergoing Training Courses
+The student must undergo training courses referred to in §3(6).
+
+### Other Obligations
+The student's rights and obligations expire on the day of graduation or deletion from the student register; the person who has completed bachelor’s degree studies preserves the student rights until October 31 of the year in which they graduated, excluding the right to financial assistance.
+
+### References
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source","According to the text, once a student receives approval to transfer from another university, they are required to fulfill three specific obligations. First, the student must take an oath in accordance with the Statute of Gdańsk University of Technology. Second, they must sign a contract as referenced in §9(1)(4) of the university rules. Third, they are required to undergo specific training courses outlined in §3(6), which include training on health and safety, library usage, study regulations, the Moja PG electronic system, and preparation for distance learning methods. These obligations are explicitly listed in §2, point 4, section 3 of the document.",,,,,0.919195837303584
+What procedures are outlined in the rules for confirming learning outcomes as a method of undertaking studies at Gdańsk University of Technology?,"**Confirmation of Learning Outcomes as a Method of Undertaking Studies**
+
+According to the rules outlined in the document, confirmation of learning outcomes is conducted as a procedure for undertaking studies at Gdańsk University of Technology. The following steps are outlined for this procedure:
+
+* Proceedings for admission by transfer from another university are conducted by a committee appointed by a person authorized by the rector.
+* Learning outcomes are confirmed in the scope corresponding to the learning outcomes specified in the curriculum.
+* As a result of confirming the learning outcomes, no more than 50% of ECTS credits assigned to the classes included in the study program may be credited.
+* The order of admission is determined by the result of learning outcome confirmation.
+* The dean may appoint a tutor for the student accepted for studies as a result of confirming the learning outcomes.
+
+These steps provide the procedures for confirming learning outcomes as a method of undertaking studies at Gdańsk University of Technology.
+
+**References**
+
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source","The procedures for confirming learning outcomes are described under §2, point 5. They include the initiation of proceedings by a committee appointed by a person authorized by the rector. The confirmation process verifies whether the applicant's prior knowledge, skills, and social competencies match the learning outcomes specified in the curriculum. A maximum of 50% of ECTS credits for a given study program can be awarded through this process. Admission is based on the results of the learning outcomes confirmation. Additionally, a dean may assign a tutor to a student admitted through this method, and further detailed regulations are established separately.",,,,,0.7064751610873248
