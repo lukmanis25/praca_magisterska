@@ -2,7 +2,7 @@ import json
 import os
 
 
-QUESTION_DIR="./test_data/study_rules"
+QUESTION_DIR="./test_data/genetics"
 
 input=f"{QUESTION_DIR}/questions.txt"
 output=f"{QUESTION_DIR}/test_set.json"
