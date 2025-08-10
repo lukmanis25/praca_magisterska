@@ -79,7 +79,7 @@ def configure_logging():
     # Enable verbose debug if needed
     set_verbose_debug(os.getenv("VERBOSE_DEBUG", "false").lower() == "true")
 
-WORKING_DIR = "./knowledge_bases/pg_rules_llama_70b_groq"
+WORKING_DIR = os.getenv("WORKING_DIR")
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
@@ -127,59 +127,59 @@ async def initialize_rag():
 async def main():
     rag = asyncio.run(initialize_rag())
     
-    file_path = './data/study_rules_removed_first_page.pdf'
-    text_content = textract.process(file_path)
-    rag.insert(text_content.decode('utf-8'))
+    # file_path = './data/study_rules_removed_first_page.pdf'
+    # text_content = textract.process(file_path)
+    # rag.insert(text_content.decode('utf-8'))
     
-    # with open("./data/short_study_rules.txt", "r", encoding="utf-8") as f:
-    #     await rag.ainsert(f.read())
+    with open("../data/genetics/all.txt", "r", encoding="utf-8") as f:
+        await rag.ainsert(f.read())
 
-    question = "How can students graduate from university?"
+    # question = "How can students graduate from university?"
     
-    print("\n=====================")
-    print("QUERY:")
-    print(question)
-    print("=====================")
+    # print("\n=====================")
+    # print("QUERY:")
+    # print(question)
+    # print("=====================")
 
-    # Perform naive search
-    print("\n=====================")
-    print("Query mode: naive")
-    print("=====================")
-    print(
-        rag.query(
-            question, param=QueryParam(mode="naive")
-        )
-    )
+    # # Perform naive search
+    # print("\n=====================")
+    # print("Query mode: naive")
+    # print("=====================")
+    # print(
+    #     rag.query(
+    #         question, param=QueryParam(mode="naive")
+    #     )
+    # )
 
-    # Perform local search
-    print("\n=====================")
-    print("Query mode: local")
-    print("=====================")
-    print(
-        rag.query(
-            question, param=QueryParam(mode="local")
-        )
-    )
+    # # Perform local search
+    # print("\n=====================")
+    # print("Query mode: local")
+    # print("=====================")
+    # print(
+    #     rag.query(
+    #         question, param=QueryParam(mode="local")
+    #     )
+    # )
 
-    # Perform global search
-    print("\n=====================")
-    print("Query mode: global")
-    print("=====================")
-    print(
-        rag.query(
-            question, param=QueryParam(mode="global")
-        )
-    )
+    # # Perform global search
+    # print("\n=====================")
+    # print("Query mode: global")
+    # print("=====================")
+    # print(
+    #     rag.query(
+    #         question, param=QueryParam(mode="global")
+    #     )
+    # )
 
-    # Perform hybrid search
-    print("\n=====================")
-    print("Query mode: hybrid")
-    print("=====================")
-    print(
-        rag.query(
-            question, param=QueryParam(mode="hybrid")
-        )
-    )
+    # # Perform hybrid search
+    # print("\n=====================")
+    # print("Query mode: hybrid")
+    # print("=====================")
+    # print(
+    #     rag.query(
+    #         question, param=QueryParam(mode="hybrid")
+    #     )
+    # )
 
 
 if __name__ == "__main__":
