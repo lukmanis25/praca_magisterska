@@ -18,6 +18,7 @@ from openai import (
     APIConnectionError,
     RateLimitError,
     APITimeoutError,
+    InternalServerError
 )
 from tenacity import (
     retry,
@@ -100,7 +101,7 @@ def create_openai_async_client(
     stop=stop_after_attempt(10000000),
     wait=wait_exponential(multiplier=1, min=60, max=240),
     retry=retry_if_exception_type(
-        (RateLimitError, APIConnectionError, APITimeoutError, InvalidResponseError, Exception)
+        (RateLimitError, APIConnectionError, APITimeoutError, InvalidResponseError, InternalServerError, Exception)
     ),
 )
 async def openai_complete_if_cache(
