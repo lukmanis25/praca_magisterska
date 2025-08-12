@@ -100,7 +100,7 @@ def create_openai_async_client(
     stop=stop_after_attempt(10000000),
     wait=wait_exponential(multiplier=1, min=60, max=240),
     retry=retry_if_exception_type(
-        (RateLimitError, APIConnectionError, APITimeoutError, InvalidResponseError)
+        (RateLimitError, APIConnectionError, APITimeoutError, InvalidResponseError, Exception)
     ),
 )
 async def openai_complete_if_cache(
@@ -192,6 +192,9 @@ async def openai_complete_if_cache(
         logger.error(f"OpenAI API Timeout Error: {e}")
         raise
     except Exception as e:
+        logger.error(
+            f"test failed"
+        )
         logger.error(
             f"OpenAI API Call Failed,\nModel: {model},\nParams: {kwargs}, Got: {e}"
         )
