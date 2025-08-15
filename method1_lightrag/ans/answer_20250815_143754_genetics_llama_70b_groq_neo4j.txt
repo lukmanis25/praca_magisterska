@@ -1,0 +1,31 @@
+Question:
+What is the difference between a repressible and an inducible operon?
+
+Answer:
+In prokaryotic cells, operons are genetic units that control the expression of multiple genes. There are two main types of operons: repressible and inducible.
+
+**Repressible Operon**
+
+A repressible operon is a type of operon that is turned off by default and can be turned on when a specific molecule, called a repressor, is not present. The repressor protein binds to the operator region of the operon, preventing RNA polymerase from transcribing the genes. When the repressor is not present, the operon is turned on, and transcription occurs. Examples of repressible operons include the tryptophan operon (trp operon) in E. coli.
+
+**Inducible Operon**
+
+An inducible operon is a type of operon that is turned off by default and can be turned on when a specific molecule, called an inducer, is present. The inducer molecule binds to a specific protein, called an activator, which in turn binds to the operator region of the operon, allowing RNA polymerase to transcribe the genes. When the inducer is not present, the operon is turned off, and transcription does not occur. Examples of inducible operons include the lactose operon (lac operon) in E. coli.
+
+**Key differences**
+
+The main differences between repressible and inducible operons are:
+
+* **Default state**: Repressible operons are turned off by default, while inducible operons are also turned off by default.
+* **Activation mechanism**: Repressible operons are activated when the repressor is not present, while inducible operons are activated when the inducer is present.
+* **Regulatory molecules**: Repressible operons use repressor proteins to regulate transcription, while inducible operons use inducer molecules and activator proteins.
+
+In summary, repressible operons are turned off by default and can be turned on when the repressor is not present, while inducible operons are also turned off by default and can be turned on when the inducer is present.
+
+References:
+
+* [KG] unknown_source (Description of repressible and inducible operons)
+* [KG] unknown_source (Example of repressible operon: trp operon)
+* [KG] unknown_source (Example of inducible operon: lac operon)
+* [KG] unknown_source (Comparison of repressible and inducible operons)
+* [DC] unknown_source (Detailed explanation of repressible and inducible operons)

@@ -1,0 +1,35 @@
+Question:
+Describe the structure and complementary base pairing of DNA.
+
+Answer:
+**DNA Structure and Complementary Base Pairing**
+
+DNA (Deoxyribonucleic acid) is a double-stranded molecule that contains the genetic instructions used in the development and function of all known living organisms. The structure of DNA is composed of two complementary strands that are twisted together in a double helix.
+
+**Base Pairing**
+
+The two strands of DNA are held together by hydrogen bonds between the nitrogenous bases. There are four types of nitrogenous bases in DNA: adenine (A), guanine (G), cytosine (C), and thymine (T). The base pairing rules are as follows:
+
+* Adenine (A) pairs with thymine (T) through two hydrogen bonds.
+* Guanine (G) pairs with cytosine (C) through three hydrogen bonds.
+
+This complementary base pairing is crucial for the replication and transcription of DNA, as it allows the genetic information to be accurately copied and expressed.
+
+**Double Helix Structure**
+
+The double helix structure of DNA is composed of two strands that are twisted together. Each strand is made up of nucleotides, which are composed of a sugar molecule (deoxyribose), a phosphate group, and a nitrogenous base. The sugar and phosphate molecules form the backbone of the DNA, while the nitrogenous bases project inward from the backbone and pair with the complementary bases on the other strand.
+
+**Key Features**
+
+* Double-stranded molecule with a twisted double helix structure
+* Complementary base pairing between adenine (A) and thymine (T), and between guanine (G) and cytosine (C)
+* Hydrogen bonds between the nitrogenous bases hold the two strands together
+* Sugar and phosphate molecules form the backbone of the DNA
+
+**References**
+
+[KG] file_path: unknown_source
+[KG] file_path: unknown_source
+[DC] file_path: unknown_source
+[KG] file_path: unknown_source
+[DC] file_path: unknown_source

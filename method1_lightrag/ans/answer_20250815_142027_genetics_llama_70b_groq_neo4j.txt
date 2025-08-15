@@ -1,0 +1,25 @@
+Question:
+DNA replication is bidirectional and discontinuous; explain your understanding of those concepts.
+
+Answer:
+**Bidirectional DNA Replication**
+
+Bidirectional DNA replication refers to the process by which DNA replication occurs in both directions from a single origin of replication. This means that as the replication fork moves away from the origin, two new strands of DNA are synthesized simultaneously, one in each direction.
+
+In prokaryotes, such as E. coli, DNA replication is bidirectional, with two replication forks forming at the origin of replication. The replication fork moves at the rate of 1000 nucleotides per second, and DNA polymerase can only extend in the 5' to 3' direction. As a result, one strand, known as the leading strand, is synthesized continuously towards the replication fork, while the other strand, known as the lagging strand, is extended away from the replication fork in short fragments called Okazaki fragments.
+
+**Discontinuous DNA Replication**
+
+Discontinuous DNA replication refers to the process by which DNA synthesis occurs in short fragments, known as Okazaki fragments, on the lagging strand. This is in contrast to the leading strand, which is synthesized continuously.
+
+Okazaki fragments are short, 100-200 nucleotide-long, DNA segments that are synthesized in the 5' to 3' direction on the lagging strand. Each Okazaki fragment requires a primer to start synthesis, and DNA polymerase extends the fragment by adding nucleotides one by one. The RNA primer is then replaced with DNA nucleotides by the enzyme DNA polymerase I.
+
+The discontinuous nature of DNA replication on the lagging strand is necessary because DNA polymerase can only extend in the 5' to 3' direction. As a result, the lagging strand is synthesized in short fragments, which are then joined together by the enzyme DNA ligase to form a single, continuous strand of DNA.
+
+**References**
+
+* [KG] unknown_source (description of DNA replication in prokaryotes)
+* [KG] unknown_source (description of DNA replication in eukaryotes)
+* [DC] unknown_source (description of DNA replication in E. coli)
+* [KG] unknown_source (description of Okazaki fragments)
+* [KG] unknown_source (description of DNA ligase)

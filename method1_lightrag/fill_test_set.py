@@ -7,8 +7,8 @@ import asyncio
 sys.path.append(".")
 from query import query, init_rag
 
-INPUT_FILE = "../evaluation/test_data/study_rules/test_set.json"
-OUTPUT_FILE = "../evaluation/test_data/study_rules/test_set_method1_lightrag_local.json"
+INPUT_FILE = "../evaluation/test_data/genetics/test_set.json"
+OUTPUT_FILE = "../evaluation/test_data/genetics/test_set_method1_lightrag_hybrid.json"
 
 
 def load_json(path):

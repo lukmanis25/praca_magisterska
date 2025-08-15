@@ -1,0 +1,34 @@
+Question:
+If mRNA is complementary to the DNA template strand and the DNA template strand is complementary to the DNA nontemplate strand, then why are base sequences of mRNA and the DNA nontemplate strand not identical? Could they ever be?
+
+Answer:
+# Complementary Base Sequences
+
+The relationship between mRNA, the DNA template strand, and the DNA nontemplate strand is based on the concept of complementary base pairing.
+
+## Complementary Base Pairing Rules
+
+*   Adenine (A) pairs with Uracil (U) in RNA, and with Thymine (T) in DNA.
+*   Guanine (G) pairs with Cytosine (C) in both RNA and DNA.
+
+## Complementary Base Sequences
+
+Given that mRNA is complementary to the DNA template strand, and the DNA template strand is complementary to the DNA nontemplate strand, we can infer that the DNA nontemplate strand is the reverse complement of the mRNA sequence.
+
+## Why Base Sequences are Not Identical
+
+The base sequences of mRNA and the DNA nontemplate strand are not identical because the DNA nontemplate strand is the reverse complement of the mRNA sequence, whereas the mRNA sequence is the direct complement of the DNA template strand.
+
+## Can Base Sequences Ever be Identical?
+
+In theory, the base sequences of mRNA and the DNA nontemplate strand could be identical if the DNA template strand and the DNA nontemplate strand have identical sequences. However, this would require the DNA template strand and the DNA nontemplate strand to be identical, which is not a typical scenario in genetics.
+
+In general, the DNA nontemplate strand is the reverse complement of the mRNA sequence, and the base sequences of mRNA and the DNA nontemplate strand are not identical.
+
+## References
+
+*   [KG] file_path: unknown_source (Central Dogma: DNA Encodes RNA; RNA Encodes Protein)
+*   [KG] file_path: unknown_source (The Genetic Code Is Degenerate and Universal)
+*   [DC] file_path: unknown_source (The Mechanism of Protein Synthesis)
+*   [KG] file_path: unknown_source (Initiation of Translation)
+*   [DC] file_path: unknown_source (Aminoacyl tRNA Synthetases)

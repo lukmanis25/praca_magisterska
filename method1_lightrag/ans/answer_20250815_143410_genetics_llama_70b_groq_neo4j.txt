@@ -1,0 +1,22 @@
+Question:
+How did the scientific community learn that DNA replication takes place in a semi-conservative fashion?
+
+Answer:
+The discovery of semi-conservative DNA replication is a fascinating story that involved the contributions of several scientists. While the exact process of DNA replication was not immediately clear, the scientific community gradually pieced together the evidence through a series of experiments and observations.
+
+One of the key experiments that provided insight into the nature of DNA replication was conducted by Matthew Meselson and Franklin Stahl in 1958. They used a technique called density gradient centrifugation to separate DNA molecules based on their density. By labeling the DNA with a heavy isotope of nitrogen (15N) and then mixing it with unlabelled DNA, they were able to observe the behaviour of the DNA molecules during replication.
+
+The results of the Meselson-Stahl experiment suggested that DNA replication was semi-conservative, meaning that one strand of the original DNA molecule was retained in the new DNA molecule, while the other strand was replaced with a new, unlabelled strand. This was a significant finding, as it challenged the prevailing view that DNA replication was conservative, meaning that the entire original DNA molecule was duplicated without any changes.
+
+The Meselson-Stahl experiment was an important milestone in the discovery of semi-conservative DNA replication, but it was not the only evidence that supported this idea. Other scientists, such as Rosalind Franklin and Maurice Wilkins, had also been studying the structure and properties of DNA, and their findings also pointed towards semi-conservative replication.
+
+In addition, the work of James Watson and Francis Crick on the structure of DNA provided further insight into the process of replication. Their model of the DNA double helix, which was published in 1953, suggested that the two strands of DNA were complementary and could be separated and reassembled. This idea laid the foundation for the concept of semi-conservative replication, where one strand of the original DNA molecule is retained in the new DNA molecule, while the other strand is replaced with a new, unlabelled strand.
+
+Overall, the discovery of semi-conservative DNA replication was a gradual process that involved the contributions of many scientists over several years. The Meselson-Stahl experiment, the work of Watson and Crick, and the findings of other scientists all played a role in our understanding of this fundamental process.
+
+References:
+- [KG] file_path: unknown_source (Meselson-Stahl experiment)
+- [KG] file_path: unknown_source (Watson and Crick model)
+- [DC] file_path: unknown_source (Franklin's data on DNA structure)
+- [KG] file_path: unknown_source (Wilkins' work on DNA structure)
+- [KG] file_path: unknown_source (DNA replication mechanisms)

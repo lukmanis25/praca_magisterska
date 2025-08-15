@@ -1,0 +1,39 @@
+Question:
+Transcribe and translate the following DNA sequence (nontemplate strand): 5'-ATGGCCGGTTATTAAGCA-3'
+
+Answer:
+To transcribe and translate the given DNA sequence, we need to follow these steps:
+
+1. Transcription: Convert the DNA sequence to its complementary RNA sequence.
+2. Translation: Convert the RNA sequence to its corresponding amino acid sequence.
+
+**Transcription:**
+
+The given DNA sequence is the nontemplate strand. To get the template strand, we need to find its complement. The base pairing rules are:
+
+A-T, C-G, G-C, and T-A
+
+The given DNA sequence is: 5'-ATGGCCGGTTATTAAGCA-3'
+
+Its complement (template strand) is: 3'-TACCGGCCTAAATTGCTA-5'
+
+Now, we can transcribe the template strand to its complementary RNA sequence:
+
+The RNA sequence is: 5'-UACCGGCCTAAATTGCTA-3'
+
+**Translation:**
+
+To translate the RNA sequence to its corresponding amino acid sequence, we need to follow the standard genetic code. The RNA sequence is: 5'-UACCGGCCTAAATTGCTA-3'
+
+We can break it down into codons:
+
+1. UAC - Tyrosine (Tyr)
+2. CGG - Arginine (Arg)
+3. CTA - Leucine (Leu)
+4. AAT - Asparagine (Asn)
+5. TGG - Tryptophan (Trp)
+6. CTA - Leucine (Leu)
+
+The amino acid sequence is: Tyr-Arg-Leu-Asn-Trp-Leu
+
+Note that this is a partial translation, as the given RNA sequence is not a complete coding region. In a real-world scenario, we would need more information to determine the complete amino acid sequence.

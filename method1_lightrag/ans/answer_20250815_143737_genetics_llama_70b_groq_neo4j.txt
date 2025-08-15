@@ -1,0 +1,33 @@
+Question:
+Describe how transcription in prokaryotic cells can be altered by external stimulation such as excess lactose in the environment.
+
+Answer:
+**Transcription in Prokaryotic Cells: External Stimulation and Regulation**
+
+In prokaryotic cells, such as E. coli, transcription is the process of creating a complementary RNA copy from a DNA template. This process is crucial for gene expression and is tightly regulated to ensure that the cell responds appropriately to its environment. One key aspect of transcription regulation in prokaryotic cells is the response to external stimuli, such as excess lactose in the environment.
+
+**The lac Operon: A Model for Inducible Transcription**
+
+The lac operon is a well-studied example of an inducible operon in E. coli. This operon encodes the genes necessary for lactose metabolism, including lacZ, lacY, and lacA. In the absence of lactose, the lac repressor binds to the operator region and prevents RNA polymerase from transcribing the operon. However, in the presence of lactose, the lac repressor is released from the operator, allowing RNA polymerase to bind and initiate transcription.
+
+**Regulation by CAP and cAMP**
+
+In the absence of glucose, the cAMP-CAP complex binds to the operator region, increasing RNA polymerase activity and promoting transcription. This is because cAMP binds to the CAP protein, which then binds to the operator sequence upstream of the promoter. The CAP-cAMP complex increases the binding ability of RNA polymerase to the promoter, allowing transcription to proceed.
+
+**Regulation by Lactose**
+
+Lactose itself acts as an inducer of transcription by binding to the lac repressor. This binding causes the lac repressor to release its hold on the operator region, allowing RNA polymerase to bind and initiate transcription. The presence of lactose in the environment triggers a response in the cell, leading to the transcription of the lac operon and the production of the necessary enzymes for lactose metabolism.
+
+**Key Takeaways**
+
+* Transcription in prokaryotic cells can be altered by external stimulation, such as excess lactose in the environment.
+* The lac operon is a model for inducible transcription, where the presence of lactose triggers a response in the cell, leading to the transcription of the operon.
+* Regulation by CAP and cAMP also plays a crucial role in transcription, allowing the cell to respond to changes in its environment.
+
+**References**
+
+* [KG] file_path: "16.2.2: The lac Operon"
+* [KG] file_path: "16.2.3: Transcription of the lac Operon"
+* [DC] file_path: "unknown_source"
+* [KG] file_path: "16.3: Eukaryotic Epigenetic Gene Regulation"
+* [DC] file_path: "unknown_source"

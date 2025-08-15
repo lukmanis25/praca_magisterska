@@ -1,0 +1,32 @@
+Question:
+How do the linear chromosomes in eukaryotes ensure that its ends are replicated completely?
+
+Answer:
+**Ensuring Complete Replication of Linear Chromosome Ends in Eukaryotes**
+
+In eukaryotes, the linear chromosomes pose a problem during replication, as DNA polymerase can only add nucleotides in the 5' to 3' direction. This leads to a challenge when replicating the ends of the linear chromosomes, as there is no place for a primer to be made for the DNA fragment to be copied at the end of the chromosome.
+
+**The Role of Telomerase**
+
+To address this issue, eukaryotic cells employ the enzyme telomerase, which contains a catalytic part and a built-in RNA template. Telomerase attaches to the end of the chromosome and adds complementary bases to the 3' end of the DNA strand using the RNA template. This process is repeated, and once the 3' end of the lagging strand template is sufficiently elongated, DNA polymerase can add the nucleotides complementary to the ends of the chromosomes.
+
+**The Telomerase Mechanism**
+
+The telomerase mechanism involves the following steps:
+
+1.  Telomerase attaches to the end of the chromosome.
+2.  The enzyme adds complementary bases to the 3' end of the DNA strand using the RNA template.
+3.  The process is repeated until the 3' end of the lagging strand template is sufficiently elongated.
+4.  DNA polymerase adds the nucleotides complementary to the ends of the chromosomes.
+
+**Consequences of Telomerase Activity**
+
+The activity of telomerase ensures that the ends of the linear chromosomes are replicated completely, protecting the genes from getting deleted as cells continue to divide. In humans, a six base pair sequence, TTAGGG, is repeated 100 to 1000 times at the ends of the chromosomes. The discovery of telomerase has significant implications for our understanding of how chromosome ends are maintained and how telomere shortening is associated with aging.
+
+**References**
+
+*   [KG] file_path: "unknown_source"
+*   [KG] file_path: "unknown_source"
+*   [KG] file_path: "unknown_source"
+*   [KG] file_path: "unknown_source"
+*   [KG] file_path: "unknown_source"

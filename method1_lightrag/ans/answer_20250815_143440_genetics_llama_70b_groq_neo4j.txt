@@ -1,0 +1,26 @@
+Question:
+What are Okazaki fragments and how they are formed?
+
+Answer:
+**Okazaki Fragments: A Crucial Aspect of DNA Replication**
+
+Okazaki fragments are short, discontinuous segments of DNA synthesized in the lagging strand during DNA replication. These fragments are approximately 1000-2000 nucleotides in length and are formed due to the antiparallel nature of DNA synthesis.
+
+**Formation of Okazaki Fragments**
+
+The formation of Okazaki fragments is a complex process involving multiple enzymes and proteins. Here's a simplified overview:
+
+1.  **Initiation**: DNA replication begins at a specific region called the origin of replication. The DNA double helix is unwound, and a primer is synthesized to initiate DNA synthesis.
+2.  **Leading Strand Synthesis**: The leading strand is synthesized continuously in the 5' to 3' direction by DNA polymerase.
+3.  **Lagging Strand Synthesis**: The lagging strand is synthesized in short, discontinuous segments called Okazaki fragments. This is because DNA polymerase can only synthesize in the 5' to 3' direction, but the lagging strand is synthesized in the 3' to 5' direction.
+4.  **Okazaki Fragment Synthesis**: DNA polymerase synthesizes Okazaki fragments by adding nucleotides to the 3'-OH end of the primer. Each Okazaki fragment is approximately 1000-2000 nucleotides in length.
+5.  **RNA Primer Removal**: The RNA primer is removed by the exonuclease activity of DNA polymerase, and the gap is filled by DNA nucleotides.
+6.  **DNA Ligase**: DNA ligase seals the gaps between Okazaki fragments by forming phosphodiester bonds between the 3'-OH end of one fragment and the 5' phosphate end of the next fragment.
+
+**References**
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [DC] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source

@@ -1,0 +1,26 @@
+Question:
+Provide a brief summary of the Sanger sequencing method.
+
+Answer:
+**Sanger Sequencing Method Summary**
+
+The Sanger sequencing method, also known as the dideoxy chain termination method, is a widely used technique for determining the order of nucleotide bases in a DNA molecule. Developed by Frederick Sanger, this method involves the use of chain terminators, called dideoxynucleotides (ddNTPs), to generate DNA fragments of different sizes.
+
+Here's a brief overview of the process:
+
+1. **DNA Denaturation**: The DNA sample is denatured, or separated, into two strands.
+2. **Primer Annealing**: A primer, a short piece of DNA complementary to the target sequence, is added to the mixture.
+3. **DNA Synthesis**: DNA polymerase adds nucleotides to the primer, incorporating dideoxynucleotides at random points.
+4. **Chain Termination**: When a dideoxynucleotide is incorporated, the DNA synthesis is terminated, resulting in DNA fragments of varying lengths.
+5. **Electrophoresis**: The DNA fragments are separated by size using gel electrophoresis.
+6. **Readout**: The sequence is read from the electropherogram, with each peak corresponding to a specific nucleotide.
+
+The Sanger sequencing method is still widely used today, particularly for small-scale sequencing projects, due to its simplicity and relatively low cost.
+
+**References**
+
+[KG] unknown_source (Knowledge Graph source)
+[KG] unknown_source (Knowledge Graph source)
+[DC] unknown_source (Vector Data source)
+[KG] unknown_source (Knowledge Graph source)
+[DC] unknown_source (Vector Data source)

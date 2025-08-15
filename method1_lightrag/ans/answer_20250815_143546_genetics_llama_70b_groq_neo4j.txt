@@ -1,0 +1,31 @@
+Question:
+What is the consequence of mutation of a mismatch repair enzyme? How will this affect the function of a gene?
+
+Answer:
+**Consequence of Mutation of a Mismatch Repair Enzyme**
+
+A mutation in a mismatch repair enzyme can have severe consequences on the function of a gene. Mismatch repair enzymes play a crucial role in correcting errors in DNA replication and recombination. These enzymes recognize and correct mismatched bases, which are incorrect bases that have been incorporated into the DNA strand.
+
+**Effect on Gene Function**
+
+A mutation in a mismatch repair enzyme can lead to:
+
+1.  **Genetic instability**: The mutation can cause genetic instability, leading to an increased frequency of mutations, deletions, and rearrangements in the genome.
+2.  **Gene inactivation**: The mutation can inactivate the gene by disrupting the function of the mismatch repair enzyme, leading to a loss of gene function.
+3.  **Increased risk of cancer**: The mutation can increase the risk of cancer by allowing mutations to accumulate in critical genes, leading to uncontrolled cell growth and tumor formation.
+
+**Impact on Gene Expression**
+
+The mutation of a mismatch repair enzyme can impact gene expression in several ways:
+
+1.  **Altered gene regulation**: The mutation can alter gene regulation, leading to changes in gene expression patterns.
+2.  **Increased genetic variation**: The mutation can increase genetic variation, leading to changes in the genetic makeup of the cell.
+3.  **Disrupted gene function**: The mutation can disrupt gene function, leading to changes in the phenotype of the cell.
+
+**References**
+
+[KG] file_path: unknown_source
+[KG] file_path: unknown_source
+[DC] file_path: unknown_source
+[KG] file_path: unknown_source
+[DC] file_path: unknown_source

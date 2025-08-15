@@ -1,0 +1,32 @@
+Question:
+What is the role of a primer in DNA replication? What would happen if you forgot to add a primer in a tube containing the reaction mix for a DNA sequencing reaction?
+
+Answer:
+**Role of a Primer in DNA Replication**
+======================================
+
+A primer is a short DNA sequence that serves as a starting point for DNA synthesis during replication. Its primary role is to provide a free 3'-OH end for the DNA polymerase enzyme to initiate the synthesis of a new DNA strand.
+
+In the absence of a primer, DNA polymerase would not be able to start DNA synthesis, as it requires a pre-existing 3'-OH end to add nucleotides to. The primer fills this gap by providing a suitable site for the enzyme to begin synthesizing a new DNA strand.
+
+**Consequences of Forgetting a Primer in a DNA Sequencing Reaction**
+================================================================
+
+If you forgot to add a primer in a tube containing the reaction mix for a DNA sequencing reaction, the reaction would likely fail to produce the desired results.
+
+DNA sequencing reactions rely on the presence of a primer to initiate DNA synthesis, which is then amplified using PCR (Polymerase Chain Reaction) or other techniques. Without a primer, the DNA polymerase enzyme would not be able to start synthesizing a new DNA strand, and the reaction would not proceed as intended.
+
+In this scenario, the reaction mix would likely remain unchanged, with the DNA polymerase enzyme unable to initiate DNA synthesis. The result would be a failed or incomplete reaction, which would not produce the desired DNA sequencing data.
+
+To avoid this issue, it's essential to include a primer in the reaction mix for DNA sequencing reactions. The primer should be designed to be complementary to the target DNA sequence, ensuring that the DNA polymerase enzyme can initiate DNA synthesis accurately.
+
+**References**
+--------------
+
+* [KG] unknown_source (Knowledge Graph source, but file path is unknown)
+* [DC] unknown_source (Vector Data source, but file path is unknown)
+* [KG] unknown_source (Knowledge Graph source, but file path is unknown)
+* [DC] unknown_source (Vector Data source, but file path is unknown)
+* [KG] unknown_source (Knowledge Graph source, but file path is unknown)
+
+Note: The references provided are based on the Knowledge Base, but the file paths are unknown.

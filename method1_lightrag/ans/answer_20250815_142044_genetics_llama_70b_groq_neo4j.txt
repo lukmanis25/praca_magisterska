@@ -1,0 +1,25 @@
+Question:
+What are Okazaki fragments and how they are formed?
+
+Answer:
+Okazaki fragments are short DNA sequences synthesized in the lagging strand during DNA replication. They are formed due to the antiparallel nature of the DNA double helix, where one strand is synthesized continuously towards the replication fork, known as the leading strand, while the other strand is extended away from the replication fork in small fragments, known as Okazaki fragments.
+
+According to [KG] unknown_source, the lagging strand is synthesized in short fragments, known as Okazaki fragments, during DNA replication. These fragments are formed because the DNA polymerase can only add nucleotides in the 5' to 3' direction, which is opposite to the orientation of the lagging strand. As a result, the lagging strand is synthesized in short stretches, each requiring a primer to start the synthesis.
+
+The formation of Okazaki fragments involves the following steps:
+
+1.  The replication fork is formed, and the lagging strand is synthesized in short fragments.
+2.  A new primer is required for each Okazaki fragment to start the synthesis.
+3.  DNA polymerase extends the primer, adding nucleotides in the 5' to 3' direction.
+4.  The Okazaki fragments are synthesized in a 3' to 5' direction, which is opposite to the orientation of the leading strand.
+5.  Once replication is completed, the RNA primers are replaced by DNA nucleotides, and the gaps between the Okazaki fragments are sealed by DNA ligase.
+
+In summary, Okazaki fragments are short DNA sequences synthesized in the lagging strand during DNA replication due to the antiparallel nature of the DNA double helix.
+
+References:
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source

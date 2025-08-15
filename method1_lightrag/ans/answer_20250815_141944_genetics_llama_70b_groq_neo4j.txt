@@ -1,0 +1,23 @@
+Question:
+Why were radioactive sulfur and phosphorous used to label bacteriophage in Hershey and Chase's experiments?
+
+Answer:
+In Hershey and Chase's experiments, radioactive sulfur and phosphorus were used to label bacteriophage, not to label the phage itself, but to label the host bacteria. The radioactive sulfur and phosphorus were incorporated into the bacterial DNA and proteins, allowing the researchers to distinguish between the host bacteria and the phage.
+
+The use of radioactive sulfur and phosphorus was crucial in determining whether the genetic material of the phage was DNA or protein. If the phage's genetic material was protein, the radioactive label would be incorporated into the phage's proteins, but if it was DNA, the label would be incorporated into the host bacteria's DNA.
+
+Hershey and Chase's experiments showed that the radioactive label was indeed incorporated into the host bacteria's DNA, indicating that the genetic material of the phage was DNA, not protein. This finding provided strong evidence for the idea that DNA is the genetic material of viruses.
+
+Here are the key points from the knowledge base:
+
+*   Hershey and Chase used radioactive sulfur and phosphorus to label the host bacteria, not the phage itself.
+*   The radioactive label was incorporated into the host bacteria's DNA, indicating that the genetic material of the phage was DNA.
+*   The experiment provided strong evidence for the idea that DNA is the genetic material of viruses.
+
+References:
+
+*   [KG] Unknown source
+*   [KG] Unknown source
+*   [KG] Unknown source
+*   [KG] Unknown source
+*   [KG] Unknown source

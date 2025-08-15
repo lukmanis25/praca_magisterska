@@ -1,0 +1,20 @@
+Question:
+Imagine if there were 200 commonly occurring amino acids instead of 20. Given what you know about the genetic code, what would be the shortest possible codon length? Explain.
+
+Answer:
+Given the genetic code, we know that each amino acid is encoded by a sequence of three nucleotides, known as a codon. The genetic code is degenerate, meaning that a given amino acid can be encoded by more than one codon.
+
+If there were 200 commonly occurring amino acids, the number of possible codons would be 64 (the number of possible codon sequences with 3 nucleotides) / 3 (the number of nucleotides in a codon) = 21.33, which rounds up to 22. However, this is not the correct way to approach the problem. 
+
+The correct approach is to calculate the number of possible codons as 20 (the number of amino acids) to the power of the number of nucleotides in a codon. This is because each position in the codon can be one of four nucleotides (A, C, G, or T), and the amino acid is determined by the combination of nucleotides at all positions in the codon.
+
+If there were 200 amino acids, the number of possible codons would be 200 to the power of the number of nucleotides in a codon. To find the shortest possible codon length, we need to find the smallest number of nucleotides that can encode 200 amino acids.
+
+Since 4^x >= 200, where x is the number of nucleotides in a codon, we can find the smallest x by trying different values. We find that 4^6 = 4096, which is greater than 200, and 4^5 = 1024, which is also greater than 200. However, 4^4 = 256, which is less than 200.
+
+Therefore, the shortest possible codon length would be 4 nucleotides. This is because with 4 nucleotides, there are 256 possible codons, which is sufficient to encode 200 amino acids.
+
+However, since the genetic code is typically described as a sequence of three nucleotides, it's unlikely that the genetic code would use 4 nucleotides per codon. But mathematically, we can determine that the shortest possible codon length would be 4 nucleotides.
+
+References:
+[KG] file_path: unknown_source
