@@ -1,0 +1,32 @@
+Question:
+What are Okazaki fragments and how they are formed?
+
+Answer:
+**Okazaki Fragments**
+=====================
+
+Okazaki fragments are short segments of DNA that are formed during the replication process in the lagging strand. They are named after the Japanese scientist Reiko Okazaki, who first described them.
+
+**Formation of Okazaki Fragments**
+--------------------------------
+
+The lagging strand is synthesized in a direction away from the replication fork, in short stretches of DNA known as Okazaki fragments. This is because the DNA polymerase can only add nucleotides in the 5' to 3' direction. To overcome this limitation, the lagging strand is synthesized in short segments, each of which is initiated by an RNA primer.
+
+The process of forming Okazaki fragments involves the following steps:
+
+1.  **RNA Primer Synthesis**: Primase synthesizes an RNA primer complementary to the template strand.
+2.  **DNA Synthesis**: DNA polymerase adds nucleotides to the 3'-OH end of the RNA primer, synthesizing a short segment of DNA.
+3.  **RNA Primer Removal**: The RNA primer is removed by exonuclease activity.
+4.  **Gap Filling**: The gap between the newly synthesized DNA and the previously synthesized DNA is filled by DNA pol by adding dNTPs.
+5.  **Sealing the Gap**: The gap is sealed by DNA ligase, which creates phosphodiester bonds between the 3'-OH of one end and the 5' phosphate of the other strand.
+
+The resulting short segments of DNA are known as Okazaki fragments, which are then joined together to form a continuous strand.
+
+**References**
+---------------
+
+*   [KG] unknown_source
+*   [KG] unknown_source (Table 14.4.1)
+*   [KG] unknown_source (Summary)
+*   [KG] unknown_source (14.5: DNA Replication in Eukaryotes)
+*   [KG] unknown_source (DNA replication steps)

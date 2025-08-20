@@ -1,0 +1,53 @@
+Question:
+Transcribe and translate the following DNA sequence (nontemplate strand): 5'-ATGGCCGGTTATTAAGCA-3'
+
+Answer:
+**DNA Sequence Transcription and Translation**
+=============================================
+
+To transcribe and translate the given DNA sequence, we need to follow these steps:
+
+### Transcription
+
+Transcription is the process of converting the DNA sequence into a complementary RNA sequence.
+
+The given DNA sequence is:
+5'-ATGGCCGGTTATTAAGCA-3'
+
+Since this is the non-template strand, we will use it as the template to create a complementary RNA sequence.
+
+The RNA sequence is:
+3'-UACGUCCAGUAUUAUUAGU-5'
+
+### Translation
+
+Translation is the process of converting the RNA sequence into a protein sequence.
+
+To translate the RNA sequence, we need to break it down into codons, which are sequences of three nucleotides.
+
+The RNA sequence is:
+3'-UACGUCCAGUAUUAUUAGU-5'
+
+Breaking it down into codons, we get:
+UAC, GUC, CCA, GUA, UUA, UUU, AGU
+
+Using the genetic code, we can translate these codons into amino acids:
+
+UAC = Tyrosine (Tyr)
+GUC = Valine (Val)
+CCA = Proline (Pro)
+GUA = Valine (Val)
+UUA = Leucine (Leu)
+UUU = Phenylalanine (Phe)
+AGU = Arginine (Arg)
+
+Therefore, the protein sequence is:
+Tyr Val Pro Val Leu Phe Arg
+
+Note that this is a hypothetical protein sequence, and the actual protein sequence may vary depending on the specific genetic context.
+
+**References**
+==============
+
+[KG] unknown_source
+[DC] unknown_source

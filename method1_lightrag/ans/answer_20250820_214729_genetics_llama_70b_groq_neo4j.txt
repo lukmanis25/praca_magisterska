@@ -1,0 +1,49 @@
+Question:
+Describe how transcription in prokaryotic cells can be altered by external stimulation such as excess lactose in the environment.
+
+Answer:
+**Inducible Operons in Prokaryotic Cells**
+==========================================
+
+In prokaryotic cells, such as E. coli, transcription can be altered by external stimulation through the use of inducible operons. One example of this is the lac operon, which is responsible for encoding the genes necessary to acquire and process lactose from the environment.
+
+**The lac Operon**
+----------------
+
+The lac operon is a typical inducible operon that responds to the presence of lactose in the environment. When glucose levels are low, the cAMP-CAP protein complex serves as a positive regulator to induce transcription. The lac operon consists of a promoter, an operator, and three genes named lacZ, lacY, and lacA.
+
+**Regulation of Transcription**
+-----------------------------
+
+Transcription of the lac operon is carefully regulated to ensure that it is only expressed when glucose is limited and lactose is present to serve as an alternative fuel source. The lac repressor binds to the operator in the absence of lactose, preventing RNA polymerase from transcribing the operon. In the presence of lactose, the repressor is released from the operator, and transcription proceeds at a slow rate.
+
+**CAP Binding and Transcription**
+-------------------------------
+
+The binding of the cAMP-CAP complex to the promoter stimulates RNA polymerase activity and increases RNA synthesis. However, even in the presence of the cAMP-CAP complex, RNA synthesis is blocked if the repressor binds to the promoter.
+
+**Table 16.2.1: Signals that Induce or Repress Transcription of the lac Operon**
+--------------------------------------------------------------------------------
+
+| Glucose | CAP binds | Lactose | Repressor binds | Transcription |
+| --- | --- | --- | --- | --- |
+| + | - | - | + | No |
+| + | - | + | - | Some |
+| - | + | - | + | No |
+| - | + | + | - | Yes |
+
+In this table, the presence or absence of glucose, CAP binding, lactose, and repressor binding are indicated. The resulting transcription status is also shown.
+
+**Conclusion**
+----------
+
+In prokaryotic cells, transcription can be altered by external stimulation such as excess lactose in the environment through the use of inducible operons. The lac operon is a prime example of this, where the presence of lactose induces transcription by releasing the lac repressor and allowing RNA polymerase to bind to the promoter.
+
+**References**
+--------------
+
+* [KG] unknown_source: The lac Operon: An Inducer Operon
+* [KG] unknown_source: The lac operon encodes the genes necessary to acquire and process the lactose from the local environment.
+* [KG] unknown_source: This makes sense for the cell, because it would be energetically wasteful to create the proteins to process lactose if glucose was plentiful or lactose was not available.
+* [KG] unknown_source: The lac operon consists of a promoter, an operator, and three genes named lacZ, lacY, and lacA.
+* [KG] unknown_source: RNA polymerase binds to the promoter. In the absence of lactose, the lac repressor binds to the operator and prevents RNA polymerase from transcribing the operon.

@@ -1,0 +1,33 @@
+Question:
+What is the difference between a repressible and an inducible operon?
+
+Answer:
+# Repressible vs Inducible Operon
+## Definition and Difference
+
+In the context of gene regulation in bacteria, both repressible and inducible operons are mechanisms used to control the expression of genes. The main difference between them lies in how they respond to the presence or absence of a specific molecule.
+
+### Repressible Operon
+
+A repressible operon is a type of gene regulation where the expression of genes is suppressed by a repressor protein in the presence of a specific molecule. The repressor protein binds to the operator region, preventing RNA polymerase from transcribing the genes. When the specific molecule is absent, the repressor protein dissociates from the operator, allowing RNA polymerase to transcribe the genes.
+
+### Inducible Operon
+
+An inducible operon, on the other hand, is a type of gene regulation where the expression of genes is initiated by an inducer molecule. The inducer molecule binds to the repressor protein, causing it to change shape and release its binding to the operator region. This allows RNA polymerase to transcribe the genes in the presence of the inducer molecule.
+
+## Key Difference
+
+The key difference between a repressible and an inducible operon is the direction of regulation. In a repressible operon, the presence of the specific molecule suppresses gene expression, whereas in an inducible operon, the presence of the specific molecule initiates gene expression.
+
+## Example
+
+The trp operon in E. coli is an example of a repressible operon. When tryptophan is present, the repressor protein binds to the operator, suppressing the transcription of the genes. When tryptophan is absent, the repressor protein dissociates from the operator, allowing RNA polymerase to transcribe the genes.
+
+In contrast, the lac operon in E. coli is an example of an inducible operon. When glucose is present, the lac operon is repressed, and the lac genes are not transcribed. However, when glucose is absent, the lac operon is induced, and the lac genes are transcribed in response to the presence of allolactose, an inducer molecule.
+
+### References
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source

@@ -1,0 +1,32 @@
+Question:
+How can genomics be used to predict disease risk and treatment options?
+
+Answer:
+**Predicting Disease Risk at the Individual Level**
+======================================================
+
+Genomics can be used to predict disease risk at the individual level by analyzing an individual's genomic sequence. This approach involves screening currently healthy individuals to identify those who are at risk of developing a particular disease. By analyzing an individual's genomic data, researchers can identify genetic mutations that are associated with an increased risk of disease.
+
+**Case Study: Stephen Quake**
+---------------------------
+
+In April 2010, scientists at Stanford University published the genome analysis of a healthy individual, Stephen Quake. The analysis predicted his propensity to acquire various diseases, including a 23 percent risk of developing prostate cancer and a 1.4 percent risk of developing Alzheimer's. This study demonstrates the potential of genomics to predict disease risk at the individual level.
+
+**Pharmacogenomics and Toxicogenomics**
+--------------------------------------
+
+Pharmacogenomics, also known as toxicogenomics, involves evaluating the effectiveness and safety of drugs based on information from an individual's genomic sequence. By analyzing an individual's genomic data, researchers can identify genetic mutations that are associated with an increased risk of adverse reactions to certain medications. This approach can be used to personalize treatment options and reduce the risk of adverse reactions.
+
+**Genomic Responses to Drugs**
+------------------------------
+
+Genomic responses to drugs can be studied using experimental animals or live cells in the laboratory before embarking on studies with humans. By analyzing changes in gene expression, researchers can identify potential toxic effects and develop new treatments that are tailored to an individual's specific genetic profile.
+
+**References**
+--------------
+
+* [KG] unknown_source: "Whole-genome sequencing is the latest available resource to treat genetic diseases."
+* [DC] unknown_source: "Predicting the risk of disease involves screening currently healthy individuals by genome analysis at the individual level."
+* [KG] unknown_source: "Pharmacogenomics, also called toxicogenomics, involves evaluating the effectiveness and safety of drugs on the basis of information from an individual's genomic sequence."
+* [DC] unknown_source: "Genomic responses to drugs can be studied using experimental animals (such as laboratory rats or mice) or live cells in the laboratory before embarking on studies with humans."
+* [KG] unknown_source: "Personal genome sequence information can be used to prescribe medications that will be most effective and least toxic on the basis of the individual patient’s genotype."

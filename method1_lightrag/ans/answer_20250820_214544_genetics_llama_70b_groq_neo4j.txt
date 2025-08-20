@@ -1,0 +1,32 @@
+Question:
+DNA replication is bidirectional and discontinuous; explain your understanding of those concepts.
+
+Answer:
+**Bidirectional DNA Replication**
+================================
+
+In eukaryotes, DNA replication is bidirectional, meaning that the replication fork moves in both directions from the origin of replication. This results in the synthesis of two new DNA strands that are complementary to the original template strands. The leading strand is synthesized continuously in the 5' to 3' direction by DNA polymerase δ, while the lagging strand is synthesized discontinuously in short segments called Okazaki fragments.
+
+**Discontinuous DNA Replication**
+=============================
+
+Discontinuous DNA replication refers to the process of synthesizing the lagging strand in short segments rather than continuously. This is because DNA polymerase can only synthesize in the 5' to 3' direction. To overcome this limitation, the lagging strand is synthesized in short segments, each initiated by a separate primer. These segments are called Okazaki fragments, and they are later joined together by DNA ligase to form a continuous strand.
+
+The process of discontinuous DNA replication involves the following steps:
+
+1.  The replication fork is formed at the origin of replication, and the double helix is unwound.
+2.  A primer is synthesized by primase, and DNA polymerase starts synthesizing the lagging strand.
+3.  The lagging strand is synthesized in short segments, each called an Okazaki fragment.
+4.  The Okazaki fragments are joined together by DNA ligase to form a continuous strand.
+5.  The leading strand is synthesized continuously in the 5' to 3' direction by DNA polymerase δ.
+
+In summary, bidirectional DNA replication refers to the movement of the replication fork in both directions from the origin of replication, while discontinuous DNA replication refers to the synthesis of the lagging strand in short segments rather than continuously.
+
+**References**
+===============
+
+*   [KG] unknown_source: This document chunk provides information on bidirectional and discontinuous DNA replication.
+*   [KG] unknown_source: This document chunk discusses the process of discontinuous DNA replication.
+*   [KG] unknown_source: This document chunk explains the concept of Okazaki fragments.
+*   [KG] unknown_source: This document chunk provides information on DNA polymerase δ.
+*   [KG] unknown_source: This document chunk discusses the role of DNA ligase in joining Okazaki fragments.

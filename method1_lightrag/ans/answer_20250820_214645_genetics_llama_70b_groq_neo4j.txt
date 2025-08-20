@@ -1,0 +1,39 @@
+Question:
+If mRNA is complementary to the DNA template strand and the DNA template strand is complementary to the DNA nontemplate strand, then why are base sequences of mRNA and the DNA nontemplate strand not identical? Could they ever be?
+
+Answer:
+**Complementary Base Pairing in DNA and RNA**
+=====================================================
+
+In DNA, the base pairing rules are as follows: adenine (A) pairs with thymine (T), and cytosine (C) pairs with guanine (G). This complementary base pairing is crucial for the replication and transcription processes.
+
+However, in RNA, the base pairing rules are slightly different. Adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G). This difference is due to the fact that RNA contains uracil instead of thymine, which is present in DNA.
+
+**Transcription Process**
+------------------------
+
+During transcription, the DNA template strand is transcribed into a complementary RNA molecule. The base pairing rules mentioned earlier dictate that the RNA molecule will be complementary to the DNA template strand. However, the RNA molecule will not be identical to the DNA nontemplate strand because of the difference in base pairing rules between DNA and RNA.
+
+**Why mRNA and DNA Nontemplate Strand are not Identical**
+--------------------------------------------------------
+
+The DNA nontemplate strand is complementary to the DNA template strand, which is transcribed into the mRNA molecule. Since the base pairing rules are different between DNA and RNA, the mRNA molecule will not be identical to the DNA nontemplate strand. The presence of uracil in RNA instead of thymine in DNA is the primary reason for this difference.
+
+**Can mRNA and DNA Nontemplate Strand be Identical?**
+---------------------------------------------------------
+
+In theory, it is possible to design a DNA nontemplate strand that is identical to the mRNA molecule. However, this would require the use of thymine instead of uracil in the DNA nontemplate strand, which is not a common occurrence in nature.
+
+**Conclusion**
+----------
+
+In summary, the difference in base pairing rules between DNA and RNA is the primary reason why the base sequences of mRNA and the DNA nontemplate strand are not identical. While it is theoretically possible to design a DNA nontemplate strand that is identical to the mRNA molecule, this is not a common occurrence in nature.
+
+**References**
+--------------
+
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source

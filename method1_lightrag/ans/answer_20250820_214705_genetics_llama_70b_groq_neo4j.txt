@@ -1,0 +1,42 @@
+Question:
+Explain how single nucleotide changes can have vastly different effects on protein function.
+
+Answer:
+# Single Nucleotide Changes and Protein Function
+
+Single nucleotide changes, also known as point mutations, can have vastly different effects on protein function due to the complex relationship between DNA and protein sequences. A single nucleotide change can lead to various outcomes, including:
+
+## Silent Mutations
+
+Some point mutations may not change the amino acid sequence of the protein, as the altered codon still codes for the same amino acid. This is known as a silent mutation. For example, a change from G to G in the codon GGT (glycine) would not alter the protein sequence.
+
+## Missense Mutations
+
+In other cases, a point mutation can lead to a missense mutation, where the altered codon codes for a different amino acid. This can result in a non-functional or dysfunctional protein, depending on the location and nature of the mutation. For instance, a change from G to A in the codon GGT (glycine) would code for arginine, potentially disrupting protein function.
+
+## Nonsense Mutations
+
+A nonsense mutation occurs when a point mutation introduces a premature stop codon, leading to a truncated protein. This can result in a non-functional protein, as the truncated protein may not possess the necessary structural or functional domains.
+
+## Frameshift Mutations
+
+Frameshift mutations occur when a point mutation changes the reading frame of the genetic code, leading to a completely different amino acid sequence. This can result in a non-functional protein, as the altered sequence may not possess the necessary structural or functional domains.
+
+## Consequences of Single Nucleotide Changes
+
+The effects of single nucleotide changes on protein function can be far-reaching, influencing various aspects of protein structure and function, including:
+
+*   Protein stability and folding
+*   Enzymatic activity
+*   Protein-protein interactions
+*   Cellular localization and trafficking
+
+In summary, single nucleotide changes can have vastly different effects on protein function, depending on the location and nature of the mutation. These effects can range from silent mutations to nonsense and frameshift mutations, ultimately influencing various aspects of protein structure and function.
+
+## References
+
+*   [KG] unknown_source: Genes and Proteins
+*   [KG] unknown_source: The Genetic Code
+*   [KG] unknown_source: Molecular models show a DNA double helix that is packed in a chromosome in Part a, and two proteins are shown in Parts b and c.
+*   [KG] unknown_source: Structures of the twenty amino acids are given. Six amino acids—glycine, alanine, valine, leucine, methionine, and isoleucine—are non-polar and aliphatic, meaning they do not have a ring.
+*   [KG] unknown_source: Structures of the 20 amino acids found in proteins are shown. Each amino acid is composed of an amino group (NH+3), a carboxyl group (COO-), and a side chain (blue). The side chain may be nonpolar, polar, or charged, as well as large or small

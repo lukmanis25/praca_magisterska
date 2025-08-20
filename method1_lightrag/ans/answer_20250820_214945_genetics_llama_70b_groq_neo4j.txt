@@ -1,0 +1,27 @@
+Question:
+What is personalized medicine?
+
+Answer:
+# Personalized Medicine
+
+Personalized medicine is an approach to healthcare that involves tailoring medical treatment to an individual's unique genetic, environmental, and lifestyle factors. This approach aims to provide more effective and targeted treatments, reducing the risk of adverse reactions and improving patient outcomes.
+
+## Predicting Disease Risk at the Individual Level
+
+Personalized medicine involves predicting the risk of disease at the individual level by analyzing an individual's genome. This can be done through genome analysis, which involves screening currently healthy individuals to identify genetic mutations that may increase their risk of developing certain diseases. By identifying these genetic mutations, healthcare providers can recommend lifestyle changes and preventive measures to reduce the risk of disease onset.
+
+## Example: Stephen Quake's Genome Analysis
+
+In 2010, scientists at Stanford University published the genome analysis of a healthy individual, Stephen Quake, who had his genome sequenced. The analysis predicted his propensity to acquire various diseases, including a 23 percent risk of developing prostate cancer and a 1.4 percent risk of developing Alzheimer's. This example demonstrates how personalized medicine can be used to identify genetic risks and provide targeted preventive measures.
+
+## Pharmacogenomics and Toxicogenomics
+
+Personalized medicine also involves pharmacogenomics, which evaluates the effectiveness and safety of drugs based on an individual's genomic sequence. By analyzing an individual's genetic response to drugs, healthcare providers can prescribe medications that are most effective and least toxic, reducing the risk of adverse reactions.
+
+## References
+
+* [KG] unknown_source: "Predicting Disease Risk at the Individual Level"
+* [KG] unknown_source: "Pharmacogenomics and Toxicogenomics"
+* [KG] unknown_source: "Personalized Medicine"
+* [DC] unknown_source: "Personalized Medicine and Genomics"
+* [KG] unknown_source: "Genomics and Personalized Medicine"

@@ -1,0 +1,42 @@
+Question:
+How do the linear chromosomes in eukaryotes ensure that its ends are replicated completely?
+
+Answer:
+**Telomere Replication in Eukaryotes**
+=====================================
+
+In eukaryotes, the linear chromosomes have a unique mechanism to ensure that their ends are replicated completely. This is achieved through the presence of repetitive sequences at the ends of the chromosomes, known as telomeres.
+
+**Telomeres and Replication**
+---------------------------
+
+Telomeres have repetitive sequences that code for no particular gene. In humans, a six base pair sequence, TTAGGG, is repeated 100 to 1000 times. These repetitive sequences serve as a buffer to prevent the loss of genetic material during replication.
+
+**Telomerase and Replication**
+---------------------------
+
+The enzyme telomerase plays a crucial role in maintaining the length of telomeres. Telomerase contains a catalytic part and a built-in RNA template that complements the 5' overhang at the end of the chromosome. This RNA template is used to synthesize the complementary strand.
+
+**Mechanism of Telomere Replication**
+--------------------------------------
+
+The process of telomere replication involves the following steps:
+
+1.  **Attachment of Telomerase**: Telomerase attaches to the end of the chromosome.
+2.  **Synthesis of Complementary Strand**: The RNA template in telomerase is used to synthesize the complementary strand.
+3.  **Elongation of 3' End**: The 3' end of the lagging strand template is sufficiently elongated.
+4.  **DNA Polymerase Synthesis**: DNA polymerase can add nucleotides complementary to the ends of the chromosomes.
+
+**Role of Telomerase in Eukaryotic Chromosomes**
+-----------------------------------------------
+
+Telomerase is typically active in germ cells and adult stem cells. It is not active in adult somatic cells. The discovery of telomerase and its action has significant implications for our understanding of aging and age-related diseases.
+
+**References**
+---------------
+
+*   [KG] unknown_source: Telomere Replication in Eukaryotes
+*   [KG] unknown_source: Telomerase and Replication
+*   [KG] unknown_source: Mechanism of Telomere Replication
+*   [KG] unknown_source: Role of Telomerase in Eukaryotic Chromosomes
+*   [KG] unknown_source: Telomerase and Aging

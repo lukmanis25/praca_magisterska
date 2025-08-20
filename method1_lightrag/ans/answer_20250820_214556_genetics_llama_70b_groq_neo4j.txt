@@ -1,0 +1,40 @@
+Question:
+If the rate of replication in a particular prokaryote is 900 nucleotides per second, how long would it take 1.2 million base pair genomes to make two copies?
+
+Answer:
+**Replication Time Calculation**
+=====================================
+
+To calculate the time it would take to replicate the genome, we need to understand the replication process and the rate at which it occurs.
+
+In prokaryotes, DNA replication occurs in both the leading and lagging strands. The leading strand is replicated continuously, while the lagging strand is replicated in short stretches called Okazaki fragments. The rate of replication is given as 900 nucleotides per second.
+
+However, to make two copies of the genome, we need to consider the total number of nucleotides in the genome. Given that the genome is 1.2 million base pairs, and assuming that each base pair consists of two nucleotides (one adenine-thymine pair and one cytosine-guanine pair), the total number of nucleotides in the genome is:
+
+1.2 million base pairs x 2 nucleotides/base pair = 2.4 million nucleotides
+
+Since we want to make two copies of the genome, the total number of nucleotides to be replicated is:
+
+2.4 million nucleotides x 2 = 4.8 million nucleotides
+
+Now, we can calculate the time it would take to replicate the genome:
+
+Time = Total nucleotides / Rate of replication
+= 4.8 million nucleotides / 900 nucleotides/second
+= 5333.33 seconds
+
+There are 60 seconds in a minute, so:
+
+Time = 5333.33 seconds / 60 seconds/minute
+= 89 minutes
+
+Therefore, it would take approximately 89 minutes to replicate the genome.
+
+**References**
+===============
+
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source

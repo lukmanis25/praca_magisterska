@@ -1,0 +1,27 @@
+Question:
+Provide a brief summary of the Sanger sequencing method.
+
+Answer:
+**Sanger Sequencing Method**
+==========================
+
+Sanger sequencing is a traditional method of DNA sequencing that was first developed by Fred Sanger in the 1970s. This method is also known as dideoxy sequencing. It involves the use of specialized enzymes to synthesize a new strand of DNA that is complementary to the template strand. The process involves the use of four different nucleotides (A, C, G, and T) that are labeled with different fluorescent dyes.
+
+The Sanger sequencing method was initially used to sequence small genomes, such as that of a bacterial virus, the bacteriophage fx174. Although this method is still used today, it has largely been replaced by more modern techniques such as next-generation sequencing (NGS).
+
+**Key Features of Sanger Sequencing**
+-----------------------------------
+
+*   Uses specialized enzymes to synthesize a new strand of DNA
+*   Involves the use of four different nucleotides labeled with different fluorescent dyes
+*   Initially used to sequence small genomes
+*   Has largely been replaced by more modern techniques such as NGS
+
+**References**
+--------------
+
+*   [KG] unknown_source
+*   [DC] unknown_source
+*   Sanger, F., & Coulson, A. R. (1975). A rapid method for determining sequences in DNA by primed synthesis with DNA polymerase. Journal of Molecular Biology, 94(3), 441-448. [KG] unknown_source
+*   Smith, L. M., et al. (1985). Fluorescence detection in automated DNA sequence analysis. Nature, 314(6010), 524-526. [KG] unknown_source
+*   Sanger, F., et al. (1977). A rapid method for determining sequences in DNA by primed synthesis with DNA polymerase. Journal of Molecular Biology, 114(2), 393-414. [KG] unknown_source

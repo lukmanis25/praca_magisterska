@@ -1,0 +1,42 @@
+Question:
+New drugs are being developed that decrease DNA methylation and prevent the removal of acetyl groups from histone proteins. Explain how these drugs could affect gene expression to help kill tumor cells.
+
+Answer:
+**Targeting Epigenetic Modifications to Combat Cancer**
+===========================================================
+
+New drugs that decrease DNA methylation and prevent the removal of acetyl groups from histone proteins offer a promising approach to combat cancer. By targeting epigenetic modifications, these drugs can help restore normal gene expression patterns in tumor cells, ultimately leading to their death.
+
+**Decreasing DNA Methylation**
+-----------------------------
+
+DNA methylation is a common epigenetic modification in cancer cells, where cytosine residues in CpG islands are methylated, leading to gene silencing. By decreasing DNA methylation, these drugs can reactivate silenced genes, including those involved in cell growth and differentiation. This can lead to:
+
+*   Re-expression of tumor suppressor genes, which can help prevent cancer cell growth and proliferation.
+*   Reactivation of genes involved in cell differentiation, which can help restore normal cellular function.
+
+**Preventing Histone Deacetylation**
+-----------------------------------
+
+Histone deacetylation is another epigenetic modification that leads to gene silencing. By preventing the removal of acetyl groups from histone proteins, these drugs can maintain the active chromatin structure, allowing genes to remain expressed. This can lead to:
+
+*   Maintenance of gene expression patterns that are beneficial for normal cellular function.
+*   Inhibition of gene expression patterns that promote cancer cell growth and proliferation.
+
+**Potential Impact on Tumor Cells**
+--------------------------------------
+
+By targeting epigenetic modifications, these drugs can help restore normal gene expression patterns in tumor cells, leading to their death. This can occur through:
+
+*   Induction of apoptosis (programmed cell death) in cancer cells.
+*   Inhibition of cancer cell proliferation and growth.
+*   Restoration of normal cellular function and differentiation.
+
+**References**
+---------------
+
+*   [KG] unknown_source: Cancer and Epigenetic Alterations
+*   [KG] unknown_source: Cancer and Transcriptional Control
+*   [KG] unknown_source: Cancer and Post-transcriptional Control
+*   [KG] unknown_source: Cancer and Translational/Post-translational Control
+*   [KG] unknown_source: New Drugs to Combat Cancer: Targeted Therapies

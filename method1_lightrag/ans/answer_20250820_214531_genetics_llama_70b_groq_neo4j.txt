@@ -1,0 +1,35 @@
+Question:
+Describe the structure and complementary base pairing of DNA.
+
+Answer:
+**DNA Structure and Complementary Base Pairing**
+=====================================================
+
+The DNA double helix is a twisted ladder-like structure composed of two anti-parallel strands. Each strand is made up of nucleotides, which are the building blocks of DNA. The nucleotides are linked together by phosphodiester bonds, forming the sugar-phosphate backbone of the DNA molecule.
+
+**Complementary Base Pairing**
+-----------------------------
+
+The nitrogenous bases are stacked inside the sugar-phosphate backbone, and they pair with each other through hydrogen bonds. The base pairing is specific and follows the rules:
+
+* Adenine (A) pairs with Thymine (T) through two hydrogen bonds.
+* Guanine (G) pairs with Cytosine (C) through three hydrogen bonds.
+
+This complementary base pairing is crucial for the stability and replication of DNA.
+
+**Key Features of DNA Structure**
+---------------------------------
+
+* The diameter of the DNA double helix is 2 nm.
+* Each turn of the helix measures 3.4 nm.
+* Ten base pairs are present per turn of the helix.
+* The twisting of the two strands around each other results in the formation of uniformly spaced major and minor grooves.
+
+**References**
+--------------
+
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source

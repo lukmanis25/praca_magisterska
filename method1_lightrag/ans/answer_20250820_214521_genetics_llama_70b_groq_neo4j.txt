@@ -1,0 +1,32 @@
+Question:
+Why were radioactive sulfur and phosphorous used to label bacteriophage in Hershey and Chase's experiments?
+
+Answer:
+**Labeling Bacteriophages with Radioactive Sulfur and Phosphorus**
+===========================================================
+
+In the experiments conducted by Hershey and Chase, radioactive sulfur and phosphorus were used to label bacteriophages. The primary purpose of this labeling was to track the movement of these elements during the infection process.
+
+**Understanding the Role of Sulfur and Phosphorus**
+--------------------------------------------
+
+Sulfur and phosphorus are essential components of DNA and RNA molecules. Sulfur is a key element in the amino acid cysteine, while phosphorus is a crucial component of nucleic acids, forming the backbone of DNA and RNA molecules.
+
+**Labeling Bacteriophages with Radioactive Sulfur and Phosphorus**
+---------------------------------------------------------
+
+By incorporating radioactive sulfur and phosphorus into the DNA of bacteriophages, Hershey and Chase could follow the fate of these elements during the infection process. This labeling allowed them to determine whether the genetic material was being transferred from the bacteriophage to the host bacterium.
+
+**Conclusion**
+----------
+
+In summary, radioactive sulfur and phosphorus were used to label bacteriophages in Hershey and Chase's experiments to track the movement of these essential elements during the infection process. This labeling was crucial in determining the role of DNA in the transfer of genetic material from bacteriophages to host bacteria.
+
+**References**
+--------------
+
+* [KG] unknown_source
+* [KG] unknown_source
+* [KG] unknown_source
+* [DC] unknown_source
+* [KG] unknown_source

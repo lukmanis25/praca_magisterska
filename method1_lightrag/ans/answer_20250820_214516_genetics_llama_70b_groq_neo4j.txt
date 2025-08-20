@@ -1,0 +1,31 @@
+Question:
+Explain Griffith's transformation experiments. What did he conclude from them?
+
+Answer:
+**Griffith's Transformation Experiments**
+=====================================
+
+In the early 1920s, Frederick Griffith, a British microbiologist, conducted a series of experiments that laid the foundation for the discovery of the transforming principle. Griffith was studying the bacteria *Streptococcus pneumoniae*, which can cause pneumonia in humans.
+
+**The Experiments**
+------------------
+
+Griffith's experiments involved two strains of the bacteria: the R (rough) strain, which was non-virulent, and the S (smooth) strain, which was virulent. He found that when he injected mice with the R strain, they did not become sick, but when he injected them with the S strain, they developed pneumonia and died.
+
+Griffith then conducted a series of experiments in which he mixed the R strain with the S strain. He observed that when the R strain was mixed with the S strain, the R strain became virulent, and the mice died. Griffith also found that when he heated the S strain to kill it, the mixture of R and heat-killed S strains was still able to transform the R strain into a virulent form.
+
+**Conclusion**
+--------------
+
+Griffith concluded that something had passed from the heat-killed S strain to the R strain, transforming the R strain into a virulent form. He proposed that this transforming principle was responsible for the change from the non-virulent R strain to the virulent S strain.
+
+**Career Connection: Forensic Scientists and DNA Analysis**
+--------------------------------------------------------
+
+Griffith's experiments laid the foundation for the discovery of DNA as the genetic material. Forensic scientists use DNA analysis to solve crimes and identify individuals. In the example provided, DNA fingerprinting was used to prove that a teenage boy was indeed the son of a mother who was suspected of immigration fraud.
+
+**References**
+--------------
+
+[KG] unknown_source
+[DC] unknown_source

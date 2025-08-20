@@ -1,0 +1,36 @@
+Question:
+Discuss how degeneracy of the genetic code makes cells more robust to mutations.
+
+Answer:
+**Degeneracy of the Genetic Code and Cellular Robustness**
+==========================================================
+
+The genetic code is considered degenerate because more than one codon can specify the same amino acid. This redundancy provides cells with a built-in mechanism to tolerate mutations in DNA sequences.
+
+**Consequences of Degeneracy**
+---------------------------
+
+With multiple codons encoding the same amino acid, cells can withstand mutations that change one or more nucleotides in a codon without significantly impacting the amino acid sequence of a protein. This is because multiple codons can encode the same amino acid, allowing cells to maintain protein function even if one or more codons are mutated.
+
+**Mechanisms of Robustness**
+-------------------------
+
+Degeneracy of the genetic code enables cells to employ several mechanisms to maintain protein function in the face of mutations:
+
+*   **Redundancy**: Multiple codons can encode the same amino acid, allowing cells to maintain protein function even if one or more codons are mutated.
+*   **Codon usage bias**: Cells can favor the use of codons that are more likely to be mutated, reducing the impact of such mutations on protein function.
+*   **Mutation rates**: Cells can regulate mutation rates to minimize the impact of mutations on protein function.
+
+**Conclusion**
+----------
+
+The degeneracy of the genetic code provides cells with a robust mechanism to tolerate mutations in DNA sequences. By employing redundancy, codon usage bias, and regulating mutation rates, cells can maintain protein function even in the presence of mutations, ensuring the continued viability of the cell.
+
+**References**
+--------------
+
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source
+*   [KG] unknown_source

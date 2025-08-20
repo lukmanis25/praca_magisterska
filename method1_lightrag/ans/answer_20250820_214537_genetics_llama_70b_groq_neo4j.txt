@@ -1,0 +1,32 @@
+Question:
+How did the scientific community learn that DNA replication takes place in a semi-conservative fashion?
+
+Answer:
+**Semi-Conservative DNA Replication**
+=====================================
+
+The scientific community learned about the semi-conservative nature of DNA replication through the groundbreaking experiments conducted by Matthew Meselson and Franklin Stahl in the 1950s. Their research used the bacterium E. coli, which was grown in a medium containing a "heavy" isotope of nitrogen (15N). This allowed them to track the incorporation of 15N into the DNA molecules.
+
+**Experiment Design**
+-------------------
+
+The researchers grew E. coli in a medium containing 15N for several generations, resulting in DNA molecules that were heavily labeled with 15N. They then transferred the bacteria to a medium containing a "light" isotope of nitrogen (14N) and allowed them to grow for one generation. The DNA was then isolated and centrifuged in an ultracentrifuge, which separated the DNA molecules based on their density.
+
+**Results and Conclusion**
+------------------------
+
+The results of the experiment showed that after one generation of growth in 14N, the DNA molecules formed a single band that was intermediate in position between the 15N and 14N bands. This suggested that the DNA replication process was not purely conservative, where the parental DNA is conserved, or purely dispersive, where the DNA molecules are completely new. Instead, the data supported a semi-conservative model, where each double-stranded DNA molecule includes one parental or "old" strand and one newly synthesized strand.
+
+**Implications and Legacy**
+---------------------------
+
+The semi-conservative model of DNA replication, proposed by Meselson and Stahl, revolutionized our understanding of the process and paved the way for further research in the field. Their experiment provided strong evidence for the semi-conservative nature of DNA replication, which has since been confirmed by numerous other studies.
+
+**References**
+--------------
+
+* [KG] unknown_source: Meselson and Stahl's experiment on semi-conservative DNA replication
+* [KG] unknown_source: DNA replication in prokaryotes
+* [KG] unknown_source: Semi-conservative DNA replication model
+* [DC] unknown_source: Matthew Meselson and Franklin Stahl's research on DNA replication
+* [KG] unknown_source: E. coli DNA replication process

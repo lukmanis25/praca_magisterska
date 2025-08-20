@@ -7,8 +7,9 @@ import asyncio
 sys.path.append(".")
 from query_naive import query, init_rag
 
-INPUT_FILE = "../evaluation/test_data/study_rules/test_set.json"
-OUTPUT_FILE = "../evaluation/test_data/study_rules/test_set_naive_rag_small_top_k.json"
+
+INPUT_FILE = "../evaluation/test_data/genetics/test_set.json"
+OUTPUT_FILE = "../evaluation/test_data/genetics/test_set_naive_rag_5_top_k.json"
 
 
 def load_json(path):

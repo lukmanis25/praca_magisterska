@@ -1,0 +1,26 @@
+Question:
+In cancer cells, alteration to epigenetic modifications turns off genes that are normally expressed. Hypothetically, how could you reverse this process to turn these genes back on?
+
+Answer:
+**Reversing Epigenetic Modifications in Cancer Cells**
+===========================================================
+
+Reversing epigenetic modifications to turn off genes back on in cancer cells is a promising area of research. According to the provided information, epigenetic modifications that lead to gene silencing are characterized by DNA methylation and histone deacetylation. To reverse this process, scientists could design new drugs to:
+
+### Prevent Histone Deacetylase Activity
+
+*   Inhibiting histone deacetylase (HDAC) proteins, which remove acetyl groups from histones, could prevent epigenetic silencing. This would allow genes to be expressed again.
+*   For example, preventing the action of the histone deacetylase protein that removes acetyl groups could reverse epigenetic silencing.
+
+### Inhibit DNA Methyltransferase Enzymes
+
+*   Inhibiting DNA methyltransferase (DNMT) enzymes, which add methyl groups to cytosines in DNA, could also prevent epigenetic silencing.
+*   This would allow genes to be expressed again, potentially reversing the epigenetic changes associated with cancer.
+
+### References
+
+*   [KG] unknown_source: Cancer and Epigenetic Alterations
+*   [KG] unknown_source: Cancer and Transcriptional Control
+*   [KG] unknown_source: Cancer and Post-transcriptional Control
+*   [KG] unknown_source: Cancer and Translational/Post-translational Control
+*   [KG] unknown_source: New Drugs to Combat Cancer: Targeted Therapies
